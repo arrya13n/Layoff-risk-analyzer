@@ -1,0 +1,4252 @@
+Company,Industry,Laid_Off_Count,Date,Country
+Hailo,Semiconductor Manufacturing,30.0,2026-01-07,"Tel Aviv-Yafo, IL"
+TailwindCSS,Software Development,3.0,2026-01-07,"Oklahoma City, US"
+Ubisoft,Computer Games,,2026-01-06,France
+Cloudhead Games,Computer games,,2026-01-06,"Qualicum Beach, CA"
+Sapiens,Finance,700.0,2025-12-28,Israel
+Yellow.ai,Support,100.0,2025-12-23,United States
+The Trade Desk,Marketing,,2025-12-17,United States
+Amazon,Retail,84.0,2025-12-15,United States
+PowerSchool,Education,,2025-12-12,United States
+Zebra Technologies,Manufacturing,,2025-12-12,United States
+Believer Meats,Food,,2025-12-11,Israel
+EyeEm,Other,,2025-12-11,Germany
+Lusha,Sales,24.0,2025-12-10,United States
+VSCO,Consumer,24.0,2025-12-09,United States
+Tenstorrent,Hardware,80.0,2025-12-09,Canada
+GenWise,Other,,2025-12-09,India
+Payoneer,Finance,60.0,2025-12-08,United States
+Mobileye,Transportation,200.0,2025-12-08,Israel
+Teads,Marketing,180.0,2025-12-04,United States
+Modern Hydrogen,Energy,,2025-12-03,United States
+Cellebrite,Other,20.0,2025-12-03,Israel
+Aqua Security,Security,20.0,2025-12-01,United States
+Inbound Health,Healthcare,,2025-12-01,United States
+Shopify,Retail,,2025-11-26,Canada
+Junglee Games,Consumer,350.0,2025-11-26,India
+HP,Hardware,4000.0,2025-11-25,United States
+ezCater,Food,40.0,2025-11-21,United States
+Monarch Tractor,Other,102.0,2025-11-19,United States
+Pleo,Finance,100.0,2025-11-19,Denmark
+Culture Amp,HR,60.0,2025-11-18,Australia
+Veson Nautical,Other,,2025-11-18,United States
+UKG,HR,300.0,2025-11-18,Uruguay
+Playtika,Consumer,700.0,2025-11-17,Israel
+Flipkart,Retail,40.0,2025-11-16,India
+Pipe,Finance,200.0,2025-11-16,United States
+BharatAgri,Food,37.0,2025-11-13,India
+AI Fleet,Transportation,,2025-11-13,United States
+Deepwatch,Security,80.0,2025-11-12,United States
+Synopsys,Other,2000.0,2025-11-12,United States
+GamesKraft,Consumer,280.0,2025-11-10,India
+Sonder,Travel,,2025-11-10,United States
+Axonius,Security,100.0,2025-11-06,United States
+Hewlett Packard Enterprise,Hardware,52.0,2025-11-05,United States
+Indeed,HR,,2025-11-05,United States
+TripAdvisor,Travel,,2025-11-05,United States
+MyBambu,Finance,141.0,2025-11-05,United States
+Porter,Logistics,350.0,2025-11-04,India
+Personio,HR,165.0,2025-10-29,Germany
+Medtronic,Healthcare,60.0,2025-10-27,United States
+Hootsuite,Marketing,,2025-10-27,Canada
+Lightricks,Consumer,85.0,2025-10-27,Israel
+Chegg,Education,388.0,2025-10-27,United States
+Amazon,Retail,14000.0,2025-10-27,United States
+Robin AI,Legal,,2025-10-24,United Kingdom
+Rivian,Transportation,600.0,2025-10-23,United States
+Altruist,Finance,50.0,2025-10-23,United States
+Applied Material,Manufacturing,1400.0,2025-10-23,United States
+Meta,Consumer,600.0,2025-10-22,United States
+Ludeo,Consumer,25.0,2025-10-20,United States
+Zepto,Retail,300.0,2025-10-18,India
+Broadcom,Hardware,247.0,2025-10-17,United States
+Tia,Healthcare,,2025-10-17,United States
+Bill.com,Finance,,2025-10-15,United States
+OfferUp,Retail,,2025-10-15,United States
+Handshake,Recruiting,100.0,2025-10-14,United States
+Smartsheet,Other,120.0,2025-10-02,United States
+Google,Consumer,50.0,2025-10-02,United States
+Google,Consumer,100.0,2025-10-01,United States
+Paycom,HR,500.0,2025-10-01,United States
+Simpl,Finance,80.0,2025-10-01,India
+Just Eat,Food,450.0,2025-09-25,Netherlands
+GamesKraft,Consumer,120.0,2025-09-18,India
+ZipRecruiter,Recruiting,80.0,2025-09-16,United States
+Fiverr,Other,250.0,2025-09-15,Israel
+Sorbet,Finance,,2025-09-14,Israel
+Hike,Consumer,,2025-09-13,India
+xAI,AI,500.0,2025-09-12,United States
+Zupee,Consumer,170.0,2025-09-11,India
+Verbit,Data,22.0,2025-09-10,United States
+Atlassian,Other,200.0,2025-09-10,Australia
+Microsoft,Other,42.0,2025-09-08,United States
+Rivian,Transportation,200.0,2025-09-05,United States
+Scope3,Energy,,2025-09-05,United States
+Head Digital Works,Consumer,500.0,2025-09-04,India
+Salesforce,Sales,262.0,2025-09-04,United States
+Oracle,Other,254.0,2025-09-04,United States
+GupShup,Other,100.0,2025-09-04,India
+Bobble AI,Consumer,50.0,2025-09-04,India
+Vimeo,Consumer,,2025-09-03,United States
+theGist,Other,,2025-09-03,Israel
+The Gist,Other,,2025-09-03,Israel
+Oracle,Other,101.0,2025-09-03,United States
+Salesforce,Sales,93.0,2025-09-03,United States
+Salesforce,Sales,30.0,2025-09-03,United States
+Oracle,Other,,2025-09-02,United States
+Mobile Premier League,Consumer,300.0,2025-09-01,India
+Krutrim,AI,50.0,2025-09-01,India
+Games 24x7,Consumer,400.0,2025-09-01,India
+Salesforce,Sales,4000.0,2025-08-31,United States
+Flip,Consumer,,2025-08-29,United States
+Rec Room,Consumer,141.0,2025-08-27,United States
+Verily,Healthcare,,2025-08-26,United States
+Klaviyo,Marketing,,2025-08-25,United States
+BeepKart,Retail,150.0,2025-08-23,India
+TikTok,Consumer,,2025-08-22,United Kingdom
+Cisco,Infrastructure,221.0,2025-08-19,United States
+Oracle,Other,101.0,2025-08-19,United States
+Kyte,Transportation,,2025-08-15,United States
+Restaurant365,Food,100.0,2025-08-14,United States
+Oracle,Other,289.0,2025-08-13,United States
+Oracle,Other,188.0,2025-08-13,United States
+Oracle,Other,161.0,2025-08-13,United States
+F5,Security,106.0,2025-08-13,United States
+Amdocs,Support,,2025-08-12,United States
+Crunchyroll,Media,,2025-08-12,Japan
+BenchSci,Healthcare,83.0,2025-08-12,Canada
+Micron,Hardware,300.0,2025-08-12,United States
+Nextdoor,Consumer,67.0,2025-08-07,United States
+Peloton,Fitness,,2025-08-07,United States
+Kaltura,Media,70.0,2025-08-07,United States
+Yotpo,Marketing,200.0,2025-08-05,United States
+Windsurf,AI,30.0,2025-08-05,United States
+Wondery,Media,100.0,2025-08-04,United States
+Clear,Finance,145.0,2025-08-01,India
+Atlassian,Other,150.0,2025-07-30,Australia
+Krutrim,AI,100.0,2025-07-28,India
+Astra,Sales,106.0,2025-07-28,India
+Eyeo,,,2025-07-28,Germany
+Ohm Mobility,Transportation,,2025-07-24,India
+Tipalti,Finance,,2025-07-24,United States
+PlaxidityX,Security,65.0,2025-07-23,Israel
+WiseTech,Logistics,,2025-07-23,Australia
+ConsenSys,Crypto,47.0,2025-07-22,United States
+Zeen,Consumer,,2025-07-21,United States
+Rocket Companies,Real Estate,,2025-07-18,United States
+Amazon,Retail,,2025-07-17,United States
+Amicole,Retail,,2025-07-17,United States
+CodeParrot,Product,,2025-07-17,India
+TytoCare,Healthcare,35.0,2025-07-17,United States
+Scale AI,Data,200.0,2025-07-16,United States
+Lenovo,Hardware,100.0,2025-07-16,United States
+Jamf,Other,166.0,2025-07-15,United States
+King.com,Consumer,200.0,2025-07-14,Sweden
+Blip,Retail,,2025-07-12,India
+TripleLift,Marketing,,2025-07-11,United States
+Intel,Hardware,5000.0,2025-07-11,United States
+Augury,Manufacturing,60.0,2025-07-10,United States
+Indeed + Glassdoor,HR,1300.0,2025-07-10,United States
+Eigen Labs,Crypto,29.0,2025-07-08,United States
+Nayax,Finance,70.0,2025-07-07,Israel
+Subtl AI,AI,,2025-07-03,India
+TikTok,Consumer,,2025-07-02,Ireland
+Microsoft,Other,9000.0,2025-07-02,United States
+Retrain.ai,HR,20.0,2025-07-02,Israel
+Okra,Finance,,2025-07-02,Nigeria
+TomTom,Other,300.0,2025-06-30,Netherlands
+Rivian,Transportation,140.0,2025-06-26,United States
+Klue,Sales,85.0,2025-06-25,Canada
+Bumble,Consumer,240.0,2025-06-25,United States
+Microsoft,Other,,2025-06-24,United States
+Intel,Hardware,,2025-06-24,United States
+Pluralsight,Education,,2025-06-24,United States
+Google,Consumer,75.0,2025-06-24,United States
+Khoros,Sales,116.0,2025-06-20,United States
+Sabi,Retail,50.0,2025-06-19,Nigeria
+Intel,Hardware,,2025-06-17,Israel
+Salto,Other,30.0,2025-06-10,Israel
+ZoomInfo,Sales,150.0,2025-06-09,Canada
+Playtika,Consumer,90.0,2025-06-05,Israel
+Airtime,Consumer,25.0,2025-06-04,United States
+Microsoft,Other,305.0,2025-06-02,United States
+Hims & Hers,Healthcare,68.0,2025-05-30,United States
+Business Insider,Media,,2025-05-29,United States
+eBay,Retail,200.0,2025-05-28,Israel
+nCino,Finance,,2025-05-27,United States
+Cars24,Transportation,120.0,2025-05-27,India
+Otipy,Food,300.0,2025-05-23,India
+LeddarTech,Transportation,138.0,2025-05-22,Canada
+Climeworks,Energy,106.0,2025-05-21,Switzerland
+Builder.ai,AI,,2025-05-20,United Kingdom
+Luminar,Transportation,,2025-05-20,United States
+Blink Charging,Other,,2025-05-19,United States
+VerSe Innovation copy,Media,350.0,2025-05-18,India
+GroundGame Health,Healthcare,97.0,2025-05-15,United States
+Noogata,AI,10.0,2025-05-15,Israel
+Amazon,Retail,100.0,2025-05-14,United States
+Microsoft,Other,6000.0,2025-05-13,United States
+Chegg,Education,248.0,2025-05-12,United States
+Match Group,Consumer,325.0,2025-05-08,United States
+CrowdStrike,Security,500.0,2025-05-07,United States
+Games 24x7,Consumer,180.0,2025-05-07,India
+OpenText,Data,1600.0,2025-05-06,Canada
+GenWise,Other,15.0,2025-05-05,India
+General Fusion,Energy,,2025-05-05,Canada
+Deep Instinct,Security,20.0,2025-05-04,Israel
+Log 9 Materials,Manufacturing,,2025-05-02,India
+Beam,Other,200.0,2025-05-01,United Kingdom
+Bench,Finance,,2025-05-01,United States
+NetApp,Data,700.0,2025-04-30,United States
+Electronic Arts,Consumer,300.0,2025-04-29,United States
+Stem,Energy,,2025-04-29,United States
+Spotter,Other,,2025-04-28,United States
+Expedia,Travel,,2025-04-28,United States
+Tomorrow,Hardware,,2025-04-28,United States
+Cars24,Transportation,200.0,2025-04-26,India
+SambaNova,AI,77.0,2025-04-25,United States
+Meta,Consumer,100.0,2025-04-24,United States
+Intel,Hardware,22000.0,2025-04-23,United States
+Zopper,Finance,100.0,2025-04-17,India
+AppLovin,Marketing,97.0,2025-04-16,United States
+Smashing,Consumer,7.0,2025-04-16,United States
+Turo,Transportation,150.0,2025-04-16,United States
+GupShup,Other,200.0,2025-04-15,India
+Sonder,Travel,,2025-04-14,United States
+Forto,Logistics,200.0,2025-04-12,Germany
+Google,Consumer,,2025-04-11,United States
+Marin Software,Marketing,,2025-04-10,United States
+Wing Cloud,Infrastructure,,2025-04-09,Israel
+Coho AI,Sales,,2025-04-06,Israel
+Five9,Support,123.0,2025-04-03,United States
+Tract,Real Estate,,2025-04-03,United Kingdom
+Automattic,Other,281.0,2025-04-02,United States
+WhyHive,Data,,2025-04-02,Australia
+Canva,Consumer,10.0,2025-04-02,Australia
+Zomato,Food,600.0,2025-04-01,India
+Northvolt,Energy,2800.0,2025-03-31,Sweden
+2U,Education,,2025-03-31,United States
+Palantir,Data,120.0,2025-03-27,United States
+Niantic,Other,68.0,2025-03-25,United States
+Prefect,Data,20.0,2025-03-25,United States
+Block,Finance,931.0,2025-03-25,United States
+Brightcove,Marketing,198.0,2025-03-19,United States
+Acxiom,Marketing,130.0,2025-03-19,United States
+HelloFresh,Food,273.0,2025-03-17,United States
+Otorio,Security,45.0,2025-03-17,Israel
+ActiveFence,Security,22.0,2025-03-13,United States
+Arrival,Transportation,,2025-03-10,United Kingdom
+D-ID,AI,22.0,2025-03-10,Israel
+Zonar Systems,Logistics,,2025-03-09,United States
+Wayfair ,Retail,340.0,2025-03-07,Germany
+Hewlett Packard Enterprise,Hardware,2500.0,2025-03-06,United States
+TikTok,Consumer,300.0,2025-03-06,Ireland
+LiveRamp,Marketing,65.0,2025-03-05,United States
+Rec Room,Consumer,,2025-03-03,United States
+Ola Electric,Transportation,1000.0,2025-03-03,India
+ANS Commerce,Retail,,2025-03-02,India
+Grubhub,Food,500.0,2025-02-28,United States
+HP,Hardware,4000.0,2025-02-28,United States
+Autodesk,Other,1350.0,2025-02-27,United States
+Digimarc,Other,90.0,2025-02-27,United States
+Google,Consumer,,2025-02-27,United States
+Expedia,Travel,,2025-02-26,United States
+Commercetools,Retail,,2025-02-26,Germany
+Flywire,Finance,125.0,2025-02-26,United States
+eBay,Retail,20.0,2025-02-26,Israel
+Dayforce,HR,,2025-02-26,Canada
+HerMD,Healthcare,,2025-02-24,United States
+Skybox Security,Security,300.0,2025-02-24,United States
+Ibotta,Retail,70.0,2025-02-22,United States
+NetEase,Consumer,,2025-02-22,Japan
+Electriq Global,Energy,,2025-02-21,Israel
+Zendesk,Support,51.0,2025-02-21,United States
+SeatGeek,Consumer,150.0,2025-02-20,United States
+Vendease,Food,120.0,2025-02-19,Nigeria
+Riskified,Retail,,2025-02-19,United States
+Logically,AI,40.0,2025-02-17,United Kingdom
+Eviation Aircraft,Aerospace,,2025-02-14,Israel
+Sophos,Security,,2025-02-13,United Kingdom
+Metro Africa Xpress,Logistics,150.0,2025-02-13,Nigeria
+Blue Origin,Aerospace,1000.0,2025-02-13,United States
+Zepz,Finance,200.0,2025-02-12,United Kingdom
+Redfin,Real Estate,450.0,2025-02-12,United States
+Getaround,Transportation,,2025-02-12,United States
+Unity,Other,,2025-02-11,United States
+Meta,Consumer,3600.0,2025-02-10,United States
+Wise,Finance,300.0,2025-02-10,United States
+Justworks,HR,200.0,2025-02-10,United States
+MessageBird,Other,120.0,2025-02-10,Netherlands
+Sprinklr,Support,500.0,2025-02-06,United States
+NanoLock,Security,,2025-02-06,Israel
+SRTX,Manufacturing,140.0,2025-02-05,Canada
+Tabnine,AI,15.0,2025-02-05,Israel
+Workday,HR,1750.0,2025-02-05,United States
+Sonos,Consumer,200.0,2025-02-05,United States
+Outbrain,Marketing,200.0,2025-02-05,United States
+Hugging Face,AI,10.0,2025-02-05,United States
+Asana,Other,100.0,2025-02-04,United States
+TripAdvisor,Travel,75.0,2025-02-04,United States
+Cruise,Transportation,1000.0,2025-02-04,United States
+AppsFlyer,Data,100.0,2025-02-04,United States
+Okta,Security,180.0,2025-02-04,United States
+Intel,Hardware,58.0,2025-02-04,United States
+Innoviz,Transportation,40.0,2025-02-04,Israel
+Salesforce,Sales,1000.0,2025-02-03,United States
+Sure,Finance,70.0,2025-02-03,United States
+Cushion,Finance,,2025-01-30,United States
+Placer.ai,Data,150.0,2025-01-29,United States
+Amazon,Retail,,2025-01-29,United States
+Digital River,Retail,122.0,2025-01-28,United States
+Aurora Labs,Transportation,45.0,2025-01-27,Israel
+Moon Active,Consumer,,2025-01-27,Israel
+Turso,Product,,2025-01-21,Canada
+Stripe,Finance,300.0,2025-01-21,United States
+Unbabel,Support,66.0,2025-01-20,Portugal
+Pocket FM,Media,75.0,2025-01-16,India
+Aurora Solar,Energy,58.0,2025-01-16,United States
+Chrono24,Retail,110.0,2025-01-16,Germany
+HeyJobs,Recruiting,90.0,2025-01-15,Germany
+AppLovin,Marketing,89.0,2025-01-15,United States
+ShareChat,Marketing,27.0,2025-01-15,India
+Textio,Recruiting,15.0,2025-01-15,United States
+Microsoft,Other,,2025-01-14,United States
+TechCrunch,Media,,2025-01-14,United States
+Advisor Credit Exchange,Finance,,2025-01-14,United States
+Alza,Finance,,2025-01-13,United States
+Boozt,Retail,,2025-01-13,Sweden
+Wayfair,Retail,730.0,2025-01-10,Germany
+Pandion,Logistics,63.0,2025-01-10,United States
+Zillow,Real Estate,,2025-01-10,United States
+Icon,Construction,114.0,2025-01-09,United States
+Redfin,Real Estate,46.0,2025-01-09,United States
+Microsoft,Other,,2025-01-07,United States
+Altruist,Finance,37.0,2025-01-07,United States
+Aqua Security,Security,,2025-01-07,United States
+Cloud Software Group,Other,,2025-01-07,United States
+SolarEdge,Energy,400.0,2025-01-06,Israel
+Level,Finance,,2025-01-02,United States
+GupShup,Other,300.0,2024-12-31,India
+Brave Care,Healthcare,,2024-12-31,United States
+Epicery,Food,,2024-12-31,France
+Bench,Finance,450.0,2024-12-27,Canada
+Lilium,Aerospace,1000.0,2024-12-23,Germany
+BionicHIVE,Hardware,,2024-12-22,Israel
+RealSelf,Healthcare,,2024-12-19,United States
+Refinery29,Media,,2024-12-17,United States
+Thrive,Food,,2024-12-14,India
+Cint,Data,,2024-12-12,Sweden
+Yahoo,Consumer,,2024-12-12,United States
+Canoo,Transportation,20.0,2024-12-11,United States
+Spotter,Other,,2024-12-11,United States
+OfferUp,Retail,,2024-12-11,United States
+Calendly,Other,70.0,2024-12-11,United States
+Foundry,Crypto,74.0,2024-12-11,United States
+Spectrm,Marketing,,2024-12-10,Germany
+Bluevine,Finance,100.0,2024-12-10,Israel
+EasyKnock,Real Estate,,2024-12-09,United States
+Carousell,Retail,76.0,2024-12-06,Singapore
+Mixtroz,Other,,2024-12-06,United States
+Circle,Crypto,50.0,2024-12-05,United States
+Vox Media,Media,,2024-12-05,United States
+2U,Education,,2024-12-04,United States
+Stash,Finance,88.0,2024-12-04,United States
+Booking Holdings,Travel,60.0,2024-12-04,United States
+Skai,Marketing,80.0,2024-12-03,Israel
+Lightspeed Commerce,Retail,200.0,2024-12-02,Canada
+Kobo360,Logistics,30.0,2024-11-30,Nigeria
+Klub,Finance,60.0,2024-11-29,India
+SolarEdge,Energy,500.0,2024-11-27,Israel
+AlphaSense,Other,150.0,2024-11-27,United States
+Sprout Social,Marketing,,2024-11-25,United States
+Apple,Hardware,,2024-11-24,United States
+Ola Electric,Transportation,500.0,2024-11-22,India
+Adjust,Marketing,304.0,2024-11-22,Germany
+Hopper,Travel,,2024-11-22,Canada
+LinkedIn,Recruiting,202.0,2024-11-21,United States
+Headspace,Healthcare,,2024-11-20,United States
+Own,Data,,2024-11-19,United States
+TrueLayer,Finance,71.0,2024-11-15,United Kingdom
+Better Collective,Other,300.0,2024-11-14,Denmark
+Kuku FM,Media,80.0,2024-11-14,India
+AMD,Hardware,1000.0,2024-11-13,United States
+AppLovin,Marketing,120.0,2024-11-13,United States
+Lyra Health,Healthcare,77.0,2024-11-12,United States
+Stoa,Education,,2024-11-12,India
+New Relic,Infrastructure,,2024-11-12,United States
+Forward,Healthcare,200.0,2024-11-12,United States
+Chegg,Education,319.0,2024-11-12,United States
+23andMe,Healthcare,200.0,2024-11-11,United States
+Sword Health,Healthcare,13.0,2024-11-11,United States
+Enphase Energy,Energy,500.0,2024-11-11,United States
+Monarch Tractor,Other,35.0,2024-11-08,United States
+BigCommerce,Retail,,2024-11-08,United States
+Booking.com,Travel,,2024-11-08,United States
+Exosonic,Aerospace,,2024-11-08,United States
+Personio,HR,115.0,2024-11-07,Germany
+ShareFile,Other,199.0,2024-11-07,United States
+Just Eat,Food,300.0,2024-11-07,Netherlands
+Freshworks,Support,660.0,2024-11-07,United States
+Opendoor,Real Estate,300.0,2024-11-07,United States
+Akamai,Security,250.0,2024-11-07,United States
+Outreach,Sales,67.0,2024-11-06,United States
+iRobot,Consumer,105.0,2024-11-06,United States
+Avaya,Other,,2024-11-06,United States
+Mozilla Foundation,Consumer,,2024-11-05,United States
+Incredibuild,Product,18.0,2024-11-04,Israel
+Atera,Other,20.0,2024-11-03,Israel
+Maven Clinic,Healthcare,60.0,2024-11-01,United States
+Bowery Farming,Food,,2024-11-01,United States
+Tidal,Consumer,,2024-10-31,United States
+Dropbox,Other,527.0,2024-10-30,United States
+Kraken,Crypto,400.0,2024-10-30,United States
+Miro,Other,275.0,2024-10-30,United States
+F5,Security,100.0,2024-10-29,United States
+dYdX,Crypto,,2024-10-29,United States
+Docker,Infrastructure,,2024-10-29,United States
+ConsenSys,Crypto,163.0,2024-10-29,United States
+Kyte,Transportation,,2024-10-25,United States
+Twelve,Energy,,2024-10-25,United States
+Coursera,Education,150.0,2024-10-25,United States
+Airthings,Hardware,,2024-10-24,Norway
+Catena Media,Marketing,29.0,2024-10-23,Malta
+Upwork,Other,,2024-10-23,United States
+Jellysmack,Media,22.0,2024-10-21,France
+Venminder,Security,100.0,2024-10-21,United States
+Chief,HR,,2024-10-20,United States
+CapWay,Finance,,2024-10-17,United States
+Meta,Consumer,,2024-10-16,United States
+AppLovin,Marketing,58.0,2024-10-15,United States
+Gigamon,Data,69.0,2024-10-15,United States
+Fable,Product,,2024-10-15,United States
+Nikola,Transportation,130.0,2024-10-11,United States
+Bytedance,Consumer,500.0,2024-10-11,Indonesia
+Toplyne,Sales,,2024-10-11,India
+GoWild,Retail,,2024-10-10,United States
+CareerBuilder + Monster,Recruiting,200.0,2024-10-10,United States
+Toptal,Recruiting,,2024-10-10,United States
+Grabango,Food,,2024-10-09,United States
+BeepKart,Retail,130.0,2024-10-08,India
+Zapp,Food,,2024-10-08,United Kingdom
+Eaze,Consumer,500.0,2024-10-07,United States
+PubMatic,Marketing,12.0,2024-10-07,United States
+Zapata Computing,Other,,2024-10-07,United States
+AppLovin,Marketing,65.0,2024-10-03,United States
+Flexport,Logistics,,2024-10-02,United States
+Tome,Sales,12.0,2024-10-02,United States
+Alma,Healthcare,,2024-10-02,United States
+FreshBooks,Finance,140.0,2024-10-01,Canada
+ABBYY,Data,200.0,2024-10-01,Cyprus
+Vendease,Food,68.0,2024-09-30,Nigeria
+Marin Software,Marketing,27.0,2024-09-30,United States
+Shein,Retail,17.0,2024-09-30,Singapore
+DoubleCloud,Infrastructure,,2024-09-30,UAE
+Greenikk,Food,,2024-09-30,India
+Drata,Security,40.0,2024-09-26,United States
+Moov,Finance,50.0,2024-09-25,United States
+FreightWaves,Logistics,16.0,2024-09-24,United States
+F5,Security,,2024-09-24,United States
+Olo,Food,,2024-09-23,United States
+Northvolt,Energy,1600.0,2024-09-23,Sweden
+Healthy.io,Healthcare,40.0,2024-09-22,Israel
+Reverb,Retail,40.0,2024-09-20,United States
+Luminar,Transportation,,2024-09-20,United States
+Notable Labs,Healthcare,,2024-09-20,United States
+CarTrawler,Transportation,40.0,2024-09-19,Ireland
+ApplyBoard,Education,,2024-09-19,Canada
+Aakash,Education,80.0,2024-09-18,India
+IBM,Hardware,,2024-09-18,United States
+Spendesk,Finance,151.0,2024-09-18,France
+Runtastic,Fitness,170.0,2024-09-16,Austria
+Amperity,Marketing,,2024-09-12,United States
+Microsoft,Other,650.0,2024-09-12,United States
+Udemy,Education,280.0,2024-09-11,United States
+InsurStaq.ai,AI,,2024-09-09,India
+Nori,Energy,,2024-09-09,United States
+Mobileye,Transportation,100.0,2024-09-09,Israel
+WeTransfer,Other,260.0,2024-09-08,Netherlands
+Center,Finance,8.0,2024-09-07,United States
+Goop,Retail,39.0,2024-09-06,United States
+Motif Foodworks,Food,,2024-09-06,United States
+Fly.io,Infrastructure,40.0,2024-09-04,United States
+Lyft,Transportation,30.0,2024-09-04,United States
+ChargePoint,Manufacturing,250.0,2024-09-04,United States
+ABL,Aerospace,,2024-09-03,United States
+Matter Labs,Crypto,,2024-09-03,Germany
+Dozee,Healthcare,40.0,2024-09-02,India
+Dunzo,Food,150.0,2024-08-31,India
+Character.ai,AI,6.0,2024-08-29,United States
+Brave,Consumer,27.0,2024-08-28,United States
+Apple,Hardware,100.0,2024-08-27,United States
+Tome Biosciences,Healthcare,131.0,2024-08-26,United States
+IBM,Hardware,1000.0,2024-08-26,China
+Velo3D,Manufacturing,42.0,2024-08-26,United States
+Sandvine,Infrastructure,,2024-08-23,Canada
+Kenko Health,Healthcare,,2024-08-23,India
+Received,Finance,,2024-08-23,United States
+Redfin,Real Estate,82.0,2024-08-22,United States
+Kaiyo,Retail,,2024-08-21,United States
+ReshaMandi,Food,,2024-08-20,India
+Five9,Support,190.0,2024-08-20,United States
+Skip the Dishes,Food,800.0,2024-08-20,Canada
+GoPro,Consumer,139.0,2024-08-19,United States
+Localize,Real Estate,,2024-08-19,United States
+Regrow Ag,Food,,2024-08-16,United States
+Retention.com,Marketing,15.0,2024-08-16,United States
+Loop,Retail,,2024-08-16,United States
+Paper,Education,81.0,2024-08-16,Canada
+Inuitive,Manufacturing,16.0,2024-08-15,Israel
+Formlabs,Hardware,,2024-08-15,United States
+Mister Spex,Retail,,2024-08-15,Germany
+PacketFabric,Infrastructure,,2024-08-15,United States
+Sampler,Retail,,2024-08-15,Canada
+AppLovin,Marketing,61.0,2024-08-15,United States
+Sonos,Consumer,100.0,2024-08-14,United States
+Grail,Healthcare,350.0,2024-08-13,United States
+Quizac,Education,,2024-08-13,Nigeria
+DayTwo,Healthcare,,2024-08-13,United States
+Tally,Finance,,2024-08-12,United States
+Branch.io,Marketing,100.0,2024-08-09,United States
+iCIMS,Recruiting,69.0,2024-08-09,United States
+Ready Robotics,Manufacturing,,2024-08-09,United States
+Cisco,Infrastructure,5600.0,2024-08-09,United States
+Submittable,Other,40.0,2024-08-08,United States
+Fastly,Infrastructure,,2024-08-08,United States
+Eventbrite,Consumer,100.0,2024-08-07,United States
+LegalZoom,Legal,,2024-08-07,United States
+Mobius Motors,Transportation,,2024-08-06,Kenya
+Axios Media,Media,50.0,2024-08-06,United States
+Teradata,Data,,2024-08-06,United States
+Jam City,Consumer,85.0,2024-08-05,United States
+Infineon,Manufacturing,1400.0,2024-08-05,Germany
+Dell,Hardware,,2024-08-05,United States
+ShareChat,Marketing,30.0,2024-08-03,India
+Rad Power Bikes,Transportation,,2024-08-01,United States
+Intel,Hardware,15000.0,2024-08-01,United States
+Avaya,Other,180.0,2024-08-01,United States
+Delivery Hero,Food,200.0,2024-07-31,Germany
+Match Group,Consumer,,2024-07-31,United States
+Bungie,Consumer,220.0,2024-07-31,United States
+NerdWallet,Finance,,2024-07-30,United States
+Moxion Power,Energy,248.0,2024-07-29,United States
+OrCam,Healthcare,,2024-07-28,Israel
+Pocket FM,Media,200.0,2024-07-27,India
+WayCool,Food,200.0,2024-07-26,India
+Webflow,Marketing,,2024-07-25,United States
+Cohere,AI,20.0,2024-07-23,Canada
+Humble Games,Media,36.0,2024-07-23,United States
+Bluelearn,Education,,2024-07-22,India
+Magic Leap,Consumer,75.0,2024-07-19,United States
+Mercari U.S.,Retail,,2024-07-19,United States
+EverC,Security,16.0,2024-07-17,Israel
+Aqua Security,Security,50.0,2024-07-17,United States
+Lex,Consumer,,2024-07-17,United States
+Unbounce,Marketing,,2024-07-16,Canada
+Kaspersky,Security,,2024-07-16,United States
+ON,Retail,60.0,2024-07-16,United States
+Spotify,Media,40.0,2024-07-15,Sweden
+Salesforce,Sales,300.0,2024-07-15,United States
+SolarEdge,Energy,400.0,2024-07-15,Israel
+SadaPay,Finance,,2024-07-12,Pakistan
+MoxiWorks,Real Estate,,2024-07-11,United States
+Intuit,Finance,1800.0,2024-07-10,United States
+CyberProof,Security,,2024-07-10,United States
+Redbox,Media,1000.0,2024-07-10,United States
+UIPath,Other,420.0,2024-07-09,United States
+Microsoft,Other,,2024-07-03,United States
+UKG,HR,2200.0,2024-07-03,United States
+OpenText,Data,1200.0,2024-07-03,Canada
+Koo,Consumer,,2024-07-02,India
+Unacademy,Education,250.0,2024-07-02,India
+Sightful,Hardware,20.0,2024-07-01,Israel
+Lightricks,Consumer,70.0,2024-07-01,Israel
+Upside Foods,Food,26.0,2024-07-01,United States
+Cint,Data,,2024-07-01,Sweden
+Ninja Van,Transportation,,2024-07-01,Singapore
+Priceline,Travel,103.0,2024-06-28,United States
+RealPage,Real Estate,260.0,2024-06-27,United States
+Moxion Power,Energy,101.0,2024-06-26,United States
+Planet,Aerospace,180.0,2024-06-26,United States
+eBay,Retail,,2024-06-26,Israel
+Perion,Marketing,35.0,2024-06-25,Israel
+BeReal,Consumer,,2024-06-25,France
+Ginkgo Bioworks,Healthcare,,2024-06-24,United States
+Flutterwave,Finance,30.0,2024-06-24,Nigeria
+Trade Republic,Finance,,2024-06-23,Germany
+Ginkgo Bioworks,Healthcare,400.0,2024-06-20,United States
+Bluevine,Finance,,2024-06-20,Israel
+ReshaMandi,Food,,2024-06-20,India
+Emma Sleep,Retail,200.0,2024-06-19,Germany
+Moovit,Transportation,20.0,2024-06-19,Israel
+Rapyd,Finance,30.0,2024-06-18,Israel
+Fisker,Transportation,,2024-06-18,United States
+C2FO,Finance,16.0,2024-06-18,United States
+PayPal,Finance,85.0,2024-06-18,Ireland
+Wex,Finance,375.0,2024-06-18,United States
+Stackpath,Infrastructure,,2024-06-17,United States
+Unit,Finance,,2024-06-17,United States
+Chegg,Education,441.0,2024-06-17,United States
+LOOP,Finance,23.0,2024-06-16,United States
+Care/of,Healthcare,143.0,2024-06-15,United States
+Running Tide,Energy,,2024-06-15,United States
+Satellogic,Aerospace,70.0,2024-06-14,Uruguay
+Cypress.io,Product,11.0,2024-06-14,United States
+Medtronic,Healthcare,,2024-06-13,United States
+SCiFi Foods,Food,,2024-06-12,United States
+VRChat,Consumer,,2024-06-12,United States
+Bytedance,Consumer,450.0,2024-06-12,Indonesia
+Paxos,Crypto,65.0,2024-06-12,United States
+Ladenzeile,Retail,,2024-06-11,Germany
+Paytm,Finance,3500.0,2024-06-10,India
+Kissflow,Other,45.0,2024-06-10,India
+Simpl,Finance,30.0,2024-06-06,India
+Revel,Transportation,1000.0,2024-06-06,United States
+Copia,Retail,1060.0,2024-06-06,Kenya
+Pagaya,Finance,100.0,2024-06-05,Israel
+Aleph Farms,Food,30.0,2024-06-05,Israel
+MoonPay,Crypto,30.0,2024-06-05,United States
+Yext,Marketing,,2024-06-05,United States
+Oda,Food,150.0,2024-06-05,Norway
+Microsoft,Other,1000.0,2024-06-03,United States
+OrCam,Healthcare,100.0,2024-06-03,Israel
+Gro Intelligence,Food,,2024-05-31,United States
+Jasper Health,Healthcare,,2024-05-31,United States
+Tropic,Finance,40.0,2024-05-31,United States
+Google,Consumer,100.0,2024-05-31,United States
+ICANN,Infrastructure,33.0,2024-05-30,United States
+FlightStats,Travel,73.0,2024-05-30,United States
+Walnut,Sales,15.0,2024-05-29,United States
+Fisker,Transportation,,2024-05-29,United States
+Funding Circle,Finance,,2024-05-29,United Kingdom
+Glovo,Food,22.0,2024-05-25,Spain
+Lucid Motors,Transportation,400.0,2024-05-24,United States
+Satellogic,Aerospace,34.0,2024-05-24,Uruguay
+Foursquare,Marketing,105.0,2024-05-23,United States
+Silo,Food,,2024-05-22,United States
+Guild,Education,300.0,2024-05-22,United States
+Cue Health,Healthcare,180.0,2024-05-22,United States
+TikTok,Consumer,1000.0,2024-05-21,United States
+Joonko,HR,,2024-05-19,United States
+Replit,Product,30.0,2024-05-16,United States
+Gopuff,Food,,2024-05-16,United States
+Wefox,Finance,60.0,2024-05-16,Germany
+Toshiba,Manufacturing,4000.0,2024-05-16,Japan
+Karhoo,Transportation,,2024-05-16,United Kingdom
+SeekOut,Recruiting,,2024-05-16,United States
+Atmosphere,Other,100.0,2024-05-15,United States
+Singularity 6,Other,36.0,2024-05-15,United States
+Mainvest,Finance,,2024-05-14,United States
+Indeed,HR,1000.0,2024-05-13,United States
+Motional,Transportation,550.0,2024-05-10,United States
+Rivian,Transportation,120.0,2024-05-10,United States
+Google,Consumer,57.0,2024-05-10,United States
+Symend,Other,,2024-05-10,Canada
+Vacasa,Travel,800.0,2024-05-09,United States
+Sight Diagnostics,Healthcare,40.0,2024-05-09,Israel
+Brilliant,Hardware,,2024-05-08,United States
+Kinaxis,Other,,2024-05-08,Canada
+Arkane Studios,Consumer,96.0,2024-05-08,United States
+PrepLadder,Education,145.0,2024-05-08,India
+Simpl,Finance,100.0,2024-05-08,India
+Hopin,Other,,2024-05-07,United Kingdom
+Enovix,Energy,170.0,2024-05-06,United States
+Luminar,Transportation,140.0,2024-05-03,United States
+Bakkt,Crypto,28.0,2024-05-03,United States
+Cue Health,Healthcare,230.0,2024-05-03,United States
+Rivian,Transportation,150.0,2024-05-03,United States
+Sprinklr,Support,116.0,2024-05-03,United States
+Cabify,Transportation,29.0,2024-05-02,Spain
+Peloton,Fitness,400.0,2024-05-02,United States
+Google,Consumer,200.0,2024-05-01,United States
+Assurance,Finance,112.0,2024-05-01,United States
+Sproutt,Finance,,2024-05-01,United States
+RiseUp,Finance,50.0,2024-04-30,Israel
+Tesla,Transportation,500.0,2024-04-30,United States
+Google,Consumer,,2024-04-30,United States
+Akili Interactive,Healthcare,,2024-04-30,United States
+Fisker,Transportation,,2024-04-29,United States
+ComplYant,Finance,,2024-04-29,United States
+Ninja Van,Transportation,21.0,2024-04-29,Singapore
+Ola,Transportation,180.0,2024-04-29,India
+Getir,Food,3300.0,2024-04-29,United Kingdom
+HealthifyMe,Healthcare,150.0,2024-04-27,India
+True Anomaly,Aerospace,30.0,2024-04-25,United States
+Grin,Marketing,,2024-04-25,United States
+Expedia,Travel,,2024-04-24,United States
+Freenome,Healthcare,100.0,2024-04-23,United States
+Heureka Group,Retail,100.0,2024-04-23,Czech Republic
+98point6,Healthcare,,2024-04-23,United States
+OutSystems,Product,150.0,2024-04-19,United States
+Homie,Real Estate,,2024-04-19,United States
+Showpad,Marketing,50.0,2024-04-18,Belgium
+The Good Glamm Group,Retail,150.0,2024-04-18,India
+Stability AI,AI,20.0,2024-04-18,United Kingdom
+Pax8,Infrastructure,,2024-04-18,United States
+Google,Consumer,,2024-04-17,United States
+Rivian,Transportation,,2024-04-17,United States
+ConnectWise,Other,,2024-04-17,United States
+Tome,AI,12.0,2024-04-16,United States
+Take-Two,Consumer,579.0,2024-04-16,United States
+Tesla,Transportation,14000.0,2024-04-15,United States
+Glovo,Food,25.0,2024-04-12,Spain
+Criteo,Marketing,140.0,2024-04-12,France
+TikTok,Consumer,250.0,2024-04-11,Ireland
+Zoe,Healthcare,,2024-04-11,United Kingdom
+Hinge Health,Healthcare,,2024-04-11,United States
+Fabric,Logistics,30.0,2024-04-11,United States
+Scaler,Education,150.0,2024-04-10,India
+Cornershop,Food,200.0,2024-04-10,Chile
+Checkr,HR,382.0,2024-04-09,United States
+Intel,Hardware,62.0,2024-04-09,United States
+Trendsales,Retail,79.0,2024-04-08,Denmark
+Singularity 6,Other,49.0,2024-04-08,United States
+Fission,Other,,2024-04-07,Canada
+Bolt.Earth,Energy,70.0,2024-04-06,India
+Agility Robotics,Other,,2024-04-04,United States
+Apple,Hardware,614.0,2024-04-04,United States
+New Relic,Infrastructure,,2024-04-03,United States
+Yummly,Food,,2024-04-03,United States
+Kaseya,Security,,2024-04-03,United States
+CoRover,AI,,2024-04-03,India
+Amazon,Retail,,2024-04-03,United States
+Vivian Health,Healthcare,13.0,2024-04-03,United States
+Ghost Autonomy,Transportation,100.0,2024-04-03,United States
+Lightspeed Commerce,Retail,280.0,2024-04-03,Canada
+Lentra,Finance,,2024-04-02,India
+Thepeer,Finance,,2024-04-02,Nigeria
+Byju's,Education,500.0,2024-04-02,India
+Osso VR,Healthcare,67.0,2024-04-01,United States
+Identiq,Security,20.0,2024-04-01,Israel
+Ranger Insurance,Finance,,2024-04-01,United States
+Rezi,Real Estate,,2024-04-01,United States
+ChowNow,Food,60.0,2024-03-28,United States
+Synctera,Finance,17.0,2024-03-26,United States
+GoPro,Consumer,,2024-03-26,United States
+Dell,Hardware,6000.0,2024-03-25,United States
+Verily,Healthcare,,2024-03-22,United States
+Cybereason,Security,,2024-03-20,United States
+Singular Genomics,Healthcare,,2024-03-19,United States
+Orbotech,Manufacturing,100.0,2024-03-19,Israel
+ShopBack,Retail,195.0,2024-03-19,Singapore
+Airmeet,Marketing,,2024-03-19,India
+Longi,Energy,,2024-03-18,China
+Flock Freight,Logistics,54.0,2024-03-16,United States
+Chipper Cash,Finance,20.0,2024-03-15,United States
+Blueboard,HR,,2024-03-15,United States
+Ancestry,Consumer,81.0,2024-03-14,United States
+Textio,Recruiting,14.0,2024-03-14,United States
+Stash,Finance,80.0,2024-03-13,United States
+IBM,Hardware,,2024-03-12,United States
+Phantom Auto,Transportation,100.0,2024-03-12,United States
+Deadspin,Media,11.0,2024-03-11,United States
+Inscribe,Finance,,2024-03-08,United States
+Niche,Education,24.0,2024-03-08,United States
+Turnitin,Education,15.0,2024-03-07,United States
+Totango,Support,,2024-03-07,United States
+Sorare,Crypto,22.0,2024-03-06,United States
+Meta,Consumer,,2024-03-06,United States
+PlanetScale,Data,,2024-03-06,United States
+MessageBird,Other,90.0,2024-03-05,Netherlands
+Form Energy,Energy,,2024-03-05,United States
+Verbit,Data,,2024-03-05,United States
+Our Next Energy,Transportation,40.0,2024-03-04,United States
+Melio,Finance,40.0,2024-03-04,United States
+Edgio,Infrastructure,80.0,2024-03-04,United States
+Project Ronin,Healthcare,150.0,2024-03-01,United States
+Tonik,Finance,,2024-03-01,Singapore
+Gro Intelligence,Food,90.0,2024-03-01,United States
+Pristyn Care,Healthcare,120.0,2024-03-01,India
+Kevin,Finance,,2024-02-29,Lithuania
+Fisker,Transportation,,2024-02-29,United States
+Motional,Transportation,,2024-02-28,United States
+Electronic Arts,Consumer,670.0,2024-02-28,United States
+Treasury Prime,Finance,40.0,2024-02-28,United States
+Vacasa,Travel,320.0,2024-02-28,United States
+OrCam,Healthcare,50.0,2024-02-28,Israel
+Sony Interactive,Consumer,900.0,2024-02-27,United States
+Bumble,Consumer,350.0,2024-02-27,United States
+PropertyGuru,Real Estate,79.0,2024-02-27,Singapore
+Apple,Transportation,,2024-02-27,United States
+WayCool,Food,70.0,2024-02-26,India
+Daraz,Retail,,2024-02-26,Singapore
+Expedia,Travel,1500.0,2024-02-26,United States
+Redesign Health,Healthcare,77.0,2024-02-23,United States
+Carbon Health,Healthcare,56.0,2024-02-23,United States
+Vice Media,Media,,2024-02-22,United States
+Affirm,Finance,60.0,2024-02-21,United States
+Finder,Retail,60.0,2024-02-21,Australia
+BuzzFeed,Media,,2024-02-21,United States
+Rivian,Transportation,,2024-02-21,United States
+KnownOrigin,Crypto,,2024-02-20,United Kingdom
+Meati,Food,,2024-02-20,United States
+Aptiv,Transportation,250.0,2024-02-20,Poland
+Tails.com,Retail,55.0,2024-02-20,United Kingdom
+Auctane,Retail,,2024-02-20,United States
+Farfetch,Retail,2000.0,2024-02-16,United Kingdom
+Voi,Transportation,120.0,2024-02-16,Sweden
+Gro Intelligence,Food,20.0,2024-02-15,United States
+May Mobility,Transportation,,2024-02-15,United States
+Toast,Food,550.0,2024-02-15,United States
+Sonder,Travel,106.0,2024-02-15,United States
+Storytel,Consumer,80.0,2024-02-15,Sweden
+LinkSquares,Legal,90.0,2024-02-15,United States
+CodeSee,Data,,2024-02-15,United States
+Cisco,Infrastructure,4250.0,2024-02-14,United States
+Wint Wealth,Finance,19.0,2024-02-14,India
+Away,Retail,,2024-02-14,United States
+Popcore,Consumer,,2024-02-13,Germany
+Wisense,Transportation,,2024-02-13,Israel
+Everybuddy,Consumer,,2024-02-13,Israel
+Riskified,Retail,40.0,2024-02-13,United States
+Impinj,Other,50.0,2024-02-13,United States
+Redesign Health,Healthcare,77.0,2024-02-13,United States
+Instacart,Food,250.0,2024-02-13,United States
+Mozilla,Consumer,60.0,2024-02-13,United States
+SiriusXM,Media,160.0,2024-02-12,United States
+Licious,Food,80.0,2024-02-09,India
+BlissClub,Retail,21.0,2024-02-09,India
+Kandji,Other,,2024-02-09,United States
+Journera,Travel,,2024-02-08,United States
+Pure Storage,Data,275.0,2024-02-08,United States
+Otovo,Energy,65.0,2024-02-08,Norway
+Getaround,Transportation,,2024-02-08,United States
+Tenable,Security,,2024-02-07,United States
+Grammarly,Consumer,230.0,2024-02-07,United States
+Fireblocks,Crypto,20.0,2024-02-07,United States
+Workfellow,HR,,2024-02-07,Finland
+Glowforge,Manufacturing,,2024-02-06,United States
+Amazon,Retail,400.0,2024-02-06,United States
+DocuSign,Sales,440.0,2024-02-06,United States
+Snap,Consumer,500.0,2024-02-05,United States
+Nomad Health,Healthcare,,2024-02-05,United States
+Zwift,Fitness,,2024-02-05,United States
+Drizly,Retail,168.0,2024-02-05,United States
+Muvin,Finance,,2024-02-05,India
+BillGO,Finance,80.0,2024-02-05,United States
+Impact.com,Sales,40.0,2024-02-05,United States
+Astrate Medical,Healthcare,,2024-02-05,United States
+Meetup,Consumer,,2024-02-05,United States
+Top Hat,Education,35.0,2024-02-02,Canada
+Cake Bikes,Transportation,,2024-02-02,Sweden
+Small Robot Company,Food,,2024-02-02,United Kingdom
+Twig,Finance,,2024-02-02,United Kingdom
+Cue Health,Healthcare,245.0,2024-02-02,United States
+Okta,Security,400.0,2024-02-01,United States
+Zoom,Other,150.0,2024-02-01,United States
+Illumina,Healthcare,111.0,2024-02-01,United States
+Polygon,Crypto,60.0,2024-02-01,Cayman Islands
+Indigo,Other,,2024-02-01,United States
+Zuora,Finance,,2024-01-31,United States
+Trove Recommerce,Retail,130.0,2024-01-31,United States
+The Messenger,Media,,2024-01-31,United States
+Innoviz,Transportation,60.0,2024-01-31,Israel
+Thinx,Retail,95.0,2024-01-31,United States
+CircleCI,Product,100.0,2024-01-31,United States
+Proofpoint,Security,280.0,2024-01-31,United States
+Noom,Fitness,,2024-01-30,United States
+Procore,Construction,,2024-01-30,United States
+Vipps,Finance,,2024-01-30,Lithuania
+TechCrunch,Media,7.0,2024-01-30,United States
+PayPal,Finance,2500.0,2024-01-30,United States
+Block,Finance,1000.0,2024-01-30,United States
+Kiwi.com,Travel,216.0,2024-01-30,Czech Republic
+Aurora Solar,Energy,111.0,2024-01-30,United States
+Wattpad,Media,20.0,2024-01-30,Canada
+iRobot,Consumer,350.0,2024-01-29,United States
+DispatchHealth,Healthcare,88.0,2024-01-29,United States
+Loopio,Sales,,2024-01-29,Canada
+Salesforce,Sales,700.0,2024-01-26,United States
+Flexport,Logistics,,2024-01-26,United States
+Productboard,Product,,2024-01-26,United States
+Jamf,Other,,2024-01-25,United States
+Cova,Finance,,2024-01-25,Nigeria
+Business Insider,Media,,2024-01-25,United States
+MVPindex,Marketing,12.0,2024-01-25,United States
+Amperity,Marketing,20.0,2024-01-25,United States
+Veho,Logistics,65.0,2024-01-25,United States
+Swiggy,Food,400.0,2024-01-25,India
+Microsoft,Other,1900.0,2024-01-25,United States
+Cult.fit,Fitness,100.0,2024-01-24,India
+Personio,HR,100.0,2024-01-24,Germany
+Storytel,Media,80.0,2024-01-24,Sweden
+Aurora,Transportation,,2024-01-24,United States
+Desktop Metal,Other,,2024-01-24,United States
+HubSpot,Marketing,,2024-01-24,United States
+Jellysmack,Media,30.0,2024-01-23,France
+GoTo,Other,29.0,2024-01-23,United States
+Seedr,Finance,15.0,2024-01-23,United Kingdom
+GoStudent,Education,100.0,2024-01-23,Austria
+SAP,Other,8000.0,2024-01-23,Germany
+eBay,Retail,1000.0,2024-01-23,United States
+Vroom,Transportation,800.0,2024-01-23,United States
+Cure.fit,Fitness,120.0,2024-01-23,India
+Brex,Finance,282.0,2024-01-23,United States
+Xendit,Finance,,2024-01-22,Indonesia
+2U,Education,,2024-01-22,United States
+Riot Games,Consumer,530.0,2024-01-22,United States
+Google,Consumer,,2024-01-22,United States
+Xendit,Finance,200.0,2024-01-22,Indonesia
+TikTok,Consumer,60.0,2024-01-22,United States
+SolarEdge,Energy,900.0,2024-01-21,Israel
+Wayfair,Retail,1650.0,2024-01-19,United States
+Stitch Fix,Retail,,2024-01-18,United States
+Fashinza,Retail,,2024-01-18,United States
+Amazon,Retail,30.0,2024-01-18,United States
+YouTube,Media,100.0,2024-01-17,United States
+Sirplus,Food,60.0,2024-01-17,Germany
+SonderMind,Healthcare,49.0,2024-01-16,United States
+ALI Technologies,Transportation,,2024-01-16,Japan
+Google,Consumer,,2024-01-16,United States
+Thursday,Consumer,,2024-01-16,United Kingdom
+First Mode,Transportation,48.0,2024-01-16,United States
+Vendr,Other,,2024-01-12,United States
+Veeam,Data,300.0,2024-01-12,United States
+Hologram,Infrastructure,,2024-01-12,United States
+Dastgyr,Retail,,2024-01-12,Pakistan
+Artifact,Media,,2024-01-12,United States
+GrabCAD,Other,13.0,2024-01-12,Estonia
+Dextrous Robotics,Logistics,,2024-01-11,United States
+888,Consumer,,2024-01-11,Israel
+Certinia,Other,,2024-01-11,United States
+Chief,HR,,2024-01-11,United States
+Cloudflare,Security,40.0,2024-01-11,United States
+Inmobi,Marketing,125.0,2024-01-11,India
+New Work SE,Consumer,400.0,2024-01-11,Germany
+Playtika,Consumer,300.0,2024-01-11,Israel
+Discord,Consumer,170.0,2024-01-11,United States
+Sisense,Data,60.0,2024-01-11,United States
+7Shifts,Food,68.0,2024-01-11,Canada
+Audible,Media,100.0,2024-01-11,United States
+IAC,Consumer,330.0,2024-01-10,United States
+Beam Benefits,Healthcare,74.0,2024-01-10,United States
+Instagram,Consumer,60.0,2024-01-10,United States
+Amazon,Retail,,2024-01-10,United States
+ChargePoint,Manufacturing,,2024-01-10,United States
+SoFi,Finance,,2024-01-10,United States
+Citrix,Infrastructure,1000.0,2024-01-10,United States
+Google,Consumer,1000.0,2024-01-10,United States
+FreshDirect,Food,100.0,2024-01-10,United States
+EVBox,Energy,,2024-01-09,Netherlands
+Trend Micro,Security,,2024-01-09,Japan
+Morning Consult,Data,,2024-01-09,United States
+Rent the Runway,Retail,37.0,2024-01-09,United States
+Humane,Hardware,10.0,2024-01-09,United States
+Treasure Financial,Finance,14.0,2024-01-09,United States
+Uber Freight,Logistics,40.0,2024-01-09,United States
+FullStory,Marketing,50.0,2024-01-09,United States
+Branch,Finance,85.0,2024-01-09,United States
+Twitch,Consumer,500.0,2024-01-09,United States
+Nevro,Healthcare,63.0,2024-01-09,United States
+Ledger Investing,Finance,,2024-01-08,United States
+MeridianLink,Finance,,2024-01-08,United States
+Lendio,Finance,,2024-01-08,United States
+Here,Real Estate,,2024-01-08,United States
+BenchSci,Healthcare,70.0,2024-01-08,Canada
+Pitch,Other,80.0,2024-01-08,Germany
+Unity,Other,1800.0,2024-01-08,United States
+Flipkart,Retail,1100.0,2024-01-08,India
+NuScale Power,Energy,154.0,2024-01-08,United States
+Flexe,Logistics,99.0,2024-01-08,United States
+LiveVox,Support,,2024-01-07,United States
+NanoString Technologies,Healthcare,50.0,2024-01-06,United States
+Lever,Recruiting,,2024-01-05,United States
+Cue Health,Healthcare,94.0,2024-01-05,United States
+InVision,Product,,2024-01-04,United States
+Trigo,Retail,30.0,2024-01-04,Israel
+VideoAmp,Marketing,,2024-01-04,United States
+Orca Security,Security,60.0,2024-01-03,Israel
+Xerox,Hardware,3000.0,2024-01-03,United States
+Lazada Group ,Retail,100.0,2024-01-03,Singapore
+Frontdesk,Travel,200.0,2024-01-02,United States
+The Messenger,Media,24.0,2024-01-02,United States
+Ocado,Food,1000.0,2023-12-31,United Kingdom
+Bolt.Earth,Energy,,2023-12-29,India
+Strake,Infrastructure,,2023-12-28,United States
+Paytm,Finance,1000.0,2023-12-25,India
+Intel,Hardware,311.0,2023-12-21,United States
+Hyperloop One,Transportation,,2023-12-21,United States
+Palmetto Clean Technology,Energy,,2023-12-21,United States
+ShareChat,Consumer,200.0,2023-12-20,India
+InSightec,Healthcare,100.0,2023-12-19,Israel
+Kaspien,Retail,,2023-12-19,United States
+Arm Holdings,Hardware,70.0,2023-12-18,China
+Delivery Hero,Food,,2023-12-18,Germany
+Checkout.com,Finance,80.0,2023-12-18,United Kingdom
+Enphase Energy,Energy,350.0,2023-12-18,United States
+Udaan,Retail,100.0,2023-12-18,India
+eBay,Retail,20.0,2023-12-17,Israel
+Glowforge,Manufacturing,30.0,2023-12-15,United States
+Jellysmack,Media,,2023-12-15,France
+Superpedestrian,Transportation,,2023-12-15,United States
+Stellar Pizza,Food,,2023-12-14,United States
+Bolt,Finance,,2023-12-14,United States
+Flyhomes,Real Estate,,2023-12-14,United States
+Curbio,Real Estate,,2023-12-14,United States
+Cruise,Transportation,900.0,2023-12-14,United States
+Solarisbank,Finance,20.0,2023-12-14,Germany
+Curalie,Healthcare,,2023-12-14,Germany
+Etsy,Retail,225.0,2023-12-13,United States
+Analog Devices,Manufacturing,111.0,2023-12-13,United States
+ForgeRock,Other,109.0,2023-12-13,United States
+Flex,Manufacturing,31.0,2023-12-13,United States
+FourKites,Logistics,,2023-12-13,United States
+Sojern,Marketing,,2023-12-13,United States
+Invitae,Healthcare,235.0,2023-12-13,United States
+TomTom,Transportation,45.0,2023-12-12,Poland
+Chipper Cash,Finance,15.0,2023-12-11,United States
+Sunfolding,Energy,,2023-12-09,United States
+SmileDirectClub,Healthcare,,2023-12-09,United States
+Jungle Scout,Retail,,2023-12-09,United States
+D2iQ,Infrastructure,,2023-12-08,United States
+Zulily,Retail,839.0,2023-12-08,United States
+Simplilearn,Education,200.0,2023-12-07,India
+Rivian,Transportation,20.0,2023-12-07,United States
+Atmosphere,Other,,2023-12-07,United States
+Navan,Travel,145.0,2023-12-06,United States
+Tidal,Consumer,40.0,2023-12-06,United States
+Yahoo,Consumer,,2023-12-05,United States
+Pivo,Finance,,2023-12-05,Nigeria
+Course Hero,Education,,2023-12-05,United States
+Contentful,Marketing,,2023-12-05,Germany
+ZestMoney,Finance,150.0,2023-12-05,India
+Navan,Finance,145.0,2023-12-05,United States
+Incredibuild,Product,40.0,2023-12-05,Israel
+Bill.com,Finance,,2023-12-05,United States
+Twilio,Other,,2023-12-04,United States
+Meow Wolf,Media,8.0,2023-12-04,United States
+TuSimple,Transportation,150.0,2023-12-04,United States
+Spotify,Media,1500.0,2023-12-04,Sweden
+DwellWell,Real Estate,,2023-12-04,United States
+Filmic,Other,,2023-12-01,United States
+Pipedrive,Sales,,2023-11-30,Estonia
+Vox Media,Media,,2023-11-30,United States
+Loco,Consumer,40.0,2023-11-30,India
+Zepz,Finance,30.0,2023-11-30,United Kingdom
+Mojo,Consumer,,2023-11-30,United States
+Domo,Data,,2023-11-30,United States
+Unity,Other,265.0,2023-11-28,United States
+Dataminr,AI,150.0,2023-11-28,United States
+Multiverse,Education,,2023-11-28,United Kingdom
+Tier Mobility,Transportation,,2023-11-28,Germany
+Our Next Energy,Transportation,128.0,2023-11-27,United States
+Bytedance,Consumer,1000.0,2023-11-27,China
+VMware,Infrastructure,2837.0,2023-11-27,United States
+Veev,Construction,,2023-11-26,United States
+Anar,Marketing,,2023-11-25,India
+McMakler,Real Estate,60.0,2023-11-21,Germany
+Tulip Retail,Retail,25.0,2023-11-21,Canada
+Alerzo,Retail,100.0,2023-11-21,Nigeria
+Jodo,Finance,100.0,2023-11-20,India
+C3.ai,AI,,2023-11-20,United States
+Presto,Food,,2023-11-20,United States
+Physics Wallah,Education,120.0,2023-11-19,India
+Jane,Retail,,2023-11-17,United States
+NextGen Healthcare,Healthcare,84.0,2023-11-17,United States
+Amazon,Retail,,2023-11-17,United States
+Buildertrend,Construction,,2023-11-17,United States
+Zazuu,Finance,,2023-11-17,United Kingdom
+Paystack,Finance,33.0,2023-11-16,Nigeria
+Sierra Space,Aerospace,115.0,2023-11-16,United States
+Beamery,HR,,2023-11-16,United Kingdom
+Sonos,Consumer,,2023-11-16,United States
+Landing,Real Estate,,2023-11-15,United States
+Uleet,Healthcare,,2023-11-15,United States
+FintechOS,Finance,,2023-11-15,Romania
+FreshBooks,Finance,,2023-11-15,Canada
+Singular Genomics,Healthcare,,2023-11-15,United States
+Ping Identity,Security,,2023-11-14,United States
+Halodoc,Healthcare,,2023-11-14,India
+Markforged,Manufacturing,,2023-11-14,United States
+Cake Group,Crypto,50.0,2023-11-14,Singapore
+Sarcos,Aerospace,150.0,2023-11-14,United States
+Chewy,Retail,200.0,2023-11-14,United States
+Amazon,Retail,180.0,2023-11-13,United States
+TripAdvisor,Travel,125.0,2023-11-12,United States
+Bowery Farming,Food,,2023-11-10,United States
+Carta,HR,,2023-11-09,United States
+Commure,Healthcare,,2023-11-09,United States
+OSlash,Other,,2023-11-09,India
+Amazon,Retail,,2023-11-08,United States
+Google,Consumer,,2023-11-08,United States
+CloudKitchens,Real Estate,,2023-11-08,United States
+BigCommerce,Retail,,2023-11-08,United States
+Snap,Consumer,20.0,2023-11-08,United States
+Zillow,Real Estate,23.0,2023-11-07,United States
+Oportun,Finance,185.0,2023-11-07,United States
+Zeus Living,Real Estate,,2023-11-07,United States
+Nextdoor,Consumer,,2023-11-07,United States
+Ava Labs,Crypto,,2023-11-06,United States
+Homie,Real Estate,,2023-11-06,United States
+Pico Interactive,Other,,2023-11-06,United States
+Moore Threads,Hardware,,2023-11-06,China
+OpenSea,Crypto,,2023-11-03,United States
+NIO,Transportation,,2023-11-03,China
+F5,Security,120.0,2023-11-03,United States
+OpenSpace,Construction,,2023-11-02,United States
+Viasat,Other,800.0,2023-11-02,United States
+Beyond Meat,Food,65.0,2023-11-02,United States
+Sportradar,Data,,2023-11-02,Switzerland
+Orchard,Real Estate,,2023-11-02,United States
+Faire,Retail,250.0,2023-11-01,United States
+Sana Benefits,HR,73.0,2023-11-01,United States
+Splunk,Data,500.0,2023-11-01,United States
+Informatica,Data,545.0,2023-11-01,United States
+Olive,Healthcare,,2023-10-31,United States
+StepStone,Recruiting,215.0,2023-10-30,Germany
+Hubilo,Other,50.0,2023-10-30,United States
+Karat Financial,Finance,,2023-10-27,United States
+Hippo Insurance,Finance,120.0,2023-10-26,United States
+Graphy,Education,50.0,2023-10-26,India
+Slync,Logistics,,2023-10-25,United States
+Multiverse,Education,,2023-10-25,United Kingdom
+Exabeam,Security,,2023-10-25,United States
+Virgio,Retail,20.0,2023-10-25,India
+ F-Secure ,Security,70.0,2023-10-25,Finland
+Salsify,Retail,110.0,2023-10-25,United States
+SiFive,Hardware,130.0,2023-10-24,United States
+Pebble,Consumer,,2023-10-24,United States
+Shipt,Retail,,2023-10-24,United States
+Parity Technologies,Crypto,100.0,2023-10-23,United Kingdom
+Roblox China,Consumer,15.0,2023-10-23,China
+Nomad Health,Healthcare,119.0,2023-10-20,United States
+Tropic,Finance,26.0,2023-10-20,United States
+Nomad Health,Healthcare,,2023-10-20,United States
+LegalZoom,Legal,100.0,2023-10-19,United States
+Convoy,Logistics,500.0,2023-10-19,United States
+Bullhorn,Sales,140.0,2023-10-19,United States
+StellarAlgo,Data,21.0,2023-10-19,Canada
+ManoMano,Retail,230.0,2023-10-18,France
+WeTransfer,Other,35.0,2023-10-18,Netherlands
+Google,Consumer,40.0,2023-10-18,United States
+Made Renovation,Construction,,2023-10-18,United States
+Volta Trucks,Transportation,,2023-10-18,Sweden
+Plume,Healthcare,24.0,2023-10-18,United States
+Belora Paris,Retail,,2023-10-18,India
+Expedia,Travel,100.0,2023-10-17,United States
+Waymo,Transportation,,2023-10-17,United States
+LinkedIn,Recruiting,660.0,2023-10-16,United States
+CityMall,Retail,90.0,2023-10-16,India
+C2FO,Finance,80.0,2023-10-16,United States
+Kayak / OpenTable,Travel,80.0,2023-10-16,United States
+Bandcamp,Other,58.0,2023-10-16,United States
+Stack Overflow,Recruiting,,2023-10-16,United States
+PokerStars,Consumer,,2023-10-15,United Kingdom
+Adda247,Education,300.0,2023-10-14,India
+Flexport,Logistics,,2023-10-13,United States
+Uno Health,Healthcare,,2023-10-13,United States
+Lending Club,Finance,172.0,2023-10-12,United States
+MariaDB,Data,84.0,2023-10-12,United States
+Qualcomm,Hardware,1258.0,2023-10-12,United States
+Deepgram,AI,20.0,2023-10-11,United States
+Acronis,Security,,2023-10-11,Switzerland
+Neon,Finance,180.0,2023-10-10,Brazil
+Product Hunt,Consumer,,2023-10-09,United States
+Carbon Health,Healthcare,114.0,2023-10-09,United States
+Braid,Finance,,2023-10-09,United States
+Stitch Fix,Retail,558.0,2023-10-09,United States
+Blue Origin,Aerospace,40.0,2023-10-09,United States
+VTrips,Travel,75.0,2023-10-07,United States
+Shift,Transportation,,2023-10-06,United States
+Dash,Finance,,2023-10-06,United States
+Brave,Consumer,,2023-10-06,United States
+InvestCloud,Finance,80.0,2023-10-06,United States
+Juniper Networks,Hardware,440.0,2023-10-06,United States
+Yuga Labs,Crypto,,2023-10-06,United States
+Arrival,Transportation,,2023-10-05,United Kingdom
+Ledger,Crypto,,2023-10-05,France
+Enovix,Energy,185.0,2023-10-05,United States
+SeekOut,Recruiting,16.0,2023-10-05,United States
+Bizongo,Retail,50.0,2023-10-05,India
+SchoolMint,Education,29.0,2023-10-05,United States
+Qualtrics,Other,780.0,2023-10-04,United States
+Hopper,Travel,250.0,2023-10-04,Canada
+Bird,Transportation,,2023-10-04,United States
+Block,Finance,,2023-10-04,United States
+Meta,Consumer,,2023-10-04,United States
+Sendoso,Marketing,,2023-10-03,United States
+Twitch,Consumer,,2023-10-03,United States
+Dare,Energy,,2023-10-03,United Kingdom
+Chia Network,Crypto,26.0,2023-10-02,United States
+IronNet,Security,,2023-10-02,United States
+Sono Motors,Transportation,,2023-10-02,Germany
+Chainalysis,Crypto,150.0,2023-10-02,United States
+Synapse,Finance,86.0,2023-10-02,United States
+Cowbell,Finance,28.0,2023-09-29,United States
+N26,Finance,14.0,2023-09-29,Germany
+Andgo,HR,9.0,2023-09-29,Canada
+Vendasta,Marketing,,2023-09-29,Canada
+Fit Analytics,Retail,,2023-09-28,
+Epic Games,Consumer,870.0,2023-09-28,United States
+Lululemon Studio,Fitness,120.0,2023-09-28,United States
+2U,Education,,2023-09-28,United States
+Snap,Consumer,170.0,2023-09-27,United States
+Fi.Money,Finance,30.0,2023-09-27,India
+Dunzo,Food,150.0,2023-09-26,India
+Flexe,Logistics,131.0,2023-09-26,United States
+Talkdesk,Support,,2023-09-26,United States
+Lucid Software,Other,75.0,2023-09-25,United States
+Eat Just,Food,40.0,2023-09-22,United States
+Roblox,Consumer,30.0,2023-09-22,United States
+Foodpanda,Food,,2023-09-22,Singapore
+Recast,Media,,2023-09-22,United Kingdom
+Appsmith,,35.0,2023-09-22,United States
+DealShare,Retail,130.0,2023-09-21,India
+Merative,Healthcare,100.0,2023-09-21,Ireland
+Robinhood,Finance,,2023-09-21,United States
+Truss Works,Real Estate,,2023-09-20,United States
+Outreach,Sales,,2023-09-20,United States
+Akudo,Finance,,2023-09-20,India
+Nowadays,Food,,2023-09-18,United States
+Hooray Foods,Food,,2023-09-17,United States
+Cisco,Infrastructure,350.0,2023-09-17,United States
+Sage Therapeutics copy,Healthcare,290.0,2023-09-15,United States
+7shifts,Food,30.0,2023-09-15,Canada
+Velocity,Finance,,2023-09-15,India
+VideoAmp,Marketing,40.0,2023-09-14,United States
+R3,Crypto,,2023-09-14,United States
+Project44,Logistics,116.0,2023-09-14,United States
+Airtable,Product,237.0,2023-09-14,United States
+Google,Consumer,75.0,2023-09-13,United States
+Akili Labs,Healthcare,,2023-09-13,United States
+At-Bay,Security,27.0,2023-09-12,United States
+Evolve,Travel,175.0,2023-09-12,United States
+Paper,Education,87.0,2023-09-12,Canada
+Binance.US,Crypto,100.0,2023-09-12,United States
+Homeday,Real Estate,40.0,2023-09-12,Germany
+Bonterra ,Other,,2023-09-11,United States
+Mollie,Finance,,2023-09-11,Netherlands
+Oyster,HR,,2023-09-11,United States
+Chargebee,Finance,100.0,2023-09-11,United States
+Divvy Homes,Real Estate,94.0,2023-09-11,United States
+Eurora,Other,111.0,2023-09-11,Estonia
+Grabango,Food,34.0,2023-09-11,United States
+ChargePoint,Manufacturing,,2023-09-08,United States
+Sensor Tower,Marketing,,2023-09-08,United States
+Drift,Marketing,100.0,2023-09-07,United States
+Hijra,Finance,,2023-09-07,Indonesia
+iSpecimen,Healthcare,,2023-09-06,United States
+Blue Origin,Aerospace,,2023-09-06,United States
+ForeScout,Security,40.0,2023-09-06,Israel
+Roku,Media,360.0,2023-09-06,United States
+Better.com,Real Estate,,2023-09-06,United States
+MaxMilhas,Travel,82.0,2023-09-05,Brazil
+Absci,Healthcare,30.0,2023-09-05,United States
+Hodinkee,Retail,24.0,2023-09-05,United States
+Talent.com,Recruiting,,2023-09-05,Canada
+mPharma,Healthcare,150.0,2023-09-04,Ghana
+Xolo,Finance,24.0,2023-09-04,Estonia
+Nexar,Transportation,17.0,2023-09-04,United States
+Lunchtime,Food,,2023-09-01,Czech Republic
+Khatabook,Finance,42.0,2023-09-01,India
+Clearcover,Finance,,2023-09-01,United States
+Gated,Other,,2023-09-01,United States
+Pegasystems,HR,240.0,2023-08-31,United States
+Malwarebytes,Security,100.0,2023-08-31,United States
+Biofourmis,Healthcare,120.0,2023-08-31,United States
+Expedia,Travel,,2023-08-31,United States
+Productboard,Product,,2023-08-31,United States
+Kenko Health,Healthcare,50.0,2023-08-30,India
+SkyKick,Other,140.0,2023-08-30,United States
+Zeplin,Product,37.0,2023-08-30,United States
+Omuni,Retail,60.0,2023-08-30,India
+Huma,Healthcare,45.0,2023-08-30,United Kingdom
+Kenko Health,Healthcare,50.0,2023-08-29,India
+123Milhas,Travel,,2023-08-29,Brazil
+Zebra Technologies,Manufacturing,700.0,2023-08-28,United States
+CoinSwitch,Crypto,44.0,2023-08-28,India
+Clockwork,Crypto,,2023-08-28,United States
+SenseTime,AI,,2023-08-28,Hong Kong
+HackerRank,Recruiting,53.0,2023-08-27,United States
+Cuemath,Education,100.0,2023-08-26,India
+Fortinet,Security,,2023-08-25,United States
+Chingari,Media,,2023-08-24,India
+Captiv8,Marketing,8.0,2023-08-24,United States
+Atlas,HR,150.0,2023-08-23,United States
+Veriff,Security,101.0,2023-08-23,Estonia
+BlackLine,Finance,95.0,2023-08-23,United States
+Rivos,Hardware,24.0,2023-08-23,United States
+Cellulant,Finance,,2023-08-23,Kenya
+JOIN,Recruiting,,2023-08-23,Germany
+Datagen,AI,,2023-08-22,Israel
+Getir,Food,2500.0,2023-08-22,United Kingdom
+Tempo Automation,Other,,2023-08-22,United States
+Hypefast,Retail,,2023-08-22,Indonesia
+CoinDCX,Crypto,,2023-08-22,India
+Recur,Crypto,,2023-08-21,United States
+Unite Us,Healthcare,,2023-08-21,United States
+Twiga,Food,283.0,2023-08-20,Kenya
+Spartan Poker,Consumer,125.0,2023-08-19,India
+Embrace,Product,,2023-08-18,United States
+Detectify,Security,30.0,2023-08-18,Sweden
+Times Internet ,Media,100.0,2023-08-18,India
+Zylo,Other,,2023-08-18,United States
+Illumina,Healthcare,151.0,2023-08-17,United States
+AppFolio,Real Estate,149.0,2023-08-17,United States
+Intel,Hardware,140.0,2023-08-17,United States
+StreamElements,Media,60.0,2023-08-17,Israel
+CircleCI,Product,,2023-08-17,United States
+FlexCar,Transportation,20.0,2023-08-16,United States
+Xendit,Finance,,2023-08-16,Indonesia
+Noice,Consumer,,2023-08-15,Finland
+iQiyi Smart,Other,,2023-08-14,China
+Easee,Energy,200.0,2023-08-14,Norway
+SecureWorks,Security,300.0,2023-08-14,United States
+CoinDesk,Crypto,,2023-08-14,United States
+LingoAce,Education,,2023-08-11,Singapore
+Shutterfly,Manufacturing,246.0,2023-08-10,United States
+SHINE Technologies,Other,59.0,2023-08-10,United States
+Hike,Consumer,55.0,2023-08-10,India
+NCC Group,Security,,2023-08-10,United Kingdom
+Quizy,Consumer,,2023-08-09,India
+StyleSeat,Consumer,,2023-08-09,United States
+Podium,Support,,2023-08-09,United States
+Bukalapak,Retail,,2023-08-09,Indonesia
+Blend,Finance,150.0,2023-08-09,United States
+Niantic,Other,100.0,2023-08-09,United States
+Babylon Health,Healthcare,94.0,2023-08-09,United Kingdom
+Dealtale,Sales,70.0,2023-08-09,Israel
+Thoughtworks,Other,579.0,2023-08-08,United States
+Rapid7,Security,470.0,2023-08-08,United States
+MPL,Consumer,350.0,2023-08-08,India
+Doximity,Healthcare,100.0,2023-08-08,United States
+23andMe,Healthcare,71.0,2023-08-08,United States
+Caliva,Retail,54.0,2023-08-08,United States
+Sendy,Logistics,,2023-08-08,Kenya
+Dell,Hardware,,2023-08-07,United States
+Verse,Finance,,2023-08-07,Spain
+Big Cabal Media,Media,,2023-08-04,Nigeria
+Astra,Aerospace,,2023-08-04,United States
+Top Hat,Education,42.0,2023-08-04,Canada
+CodeClan,Education,57.0,2023-08-04,United Kingdom
+Qomplx,AI,60.0,2023-08-04,United States
+Discord,Consumer,37.0,2023-08-03,United States
+Bardee,Food,30.0,2023-08-03,Australia
+Aware,Security,,2023-08-03,United States
+Ayoconnect,Finance,,2023-08-03,Indonesia
+Finastra,Finance,,2023-08-03,Israel
+ConnectedH,Healthcare,,2023-08-02,India
+Silofit,Fitness,,2023-08-02,Canada
+HackerOne,Security,,2023-08-02,United States
+DICE,Consumer,,2023-08-02,United Kingdom
+TripAdvisor,Travel,,2023-08-02,United States
+Actyv.ai,Finance,,2023-08-02,India
+Salesforce,Sales,50.0,2023-08-02,Ireland
+Gupy,HR,58.0,2023-08-02,Brazil
+Spinny,Transportation,300.0,2023-08-02,India
+Tekion,Other,300.0,2023-08-02,India
+BetterUp,HR,100.0,2023-08-02,United States
+Gem,Recruiting,70.0,2023-08-02,United States
+Augury,Manufacturing,70.0,2023-08-02,United States
+FamPay,Finance,18.0,2023-08-02,India
+inDrive,Transportation,,2023-08-01,United States
+Outreach ,Sales,,2023-08-01,United States
+Paper,Education,106.0,2023-08-01,Canada
+Indigo,Other,,2023-08-01,United States
+Archipelago,Real Estate,40.0,2023-08-01,United States
+Planet,Aerospace,117.0,2023-08-01,United States
+Vesttoo,Finance,150.0,2023-08-01,Israel
+Increff,Retail,,2023-08-01,India
+Qoala,Finance,80.0,2023-07-31,Indonesia
+Fable,Other,13.0,2023-07-31,Canada
+Nexar,Transportation,12.0,2023-07-31,United States
+Cambricon,Hardware,,2023-07-31,China
+Kape Technologies,Security,200.0,2023-07-30,United Kingdom
+Eroad,Transportation,200.0,2023-07-28,New Zealand
+Homology,Healthcare,,2023-07-28,United States
+Kape,Security,180.0,2023-07-28,United Kingdom
+Milkbasket,Food,400.0,2023-07-27,India
+Wish,Retail,255.0,2023-07-27,United States
+Point,Real Estate,61.0,2023-07-27,United States
+Akseleran,Finance,60.0,2023-07-27,Indonesia
+Verbit,Data,60.0,2023-07-27,United States
+Datree,Other,,2023-07-27,United States
+Degreed,Education,,2023-07-27,United States
+Ripl,Marketing,,2023-07-26,United States
+Myntra,Retail,50.0,2023-07-26,India
+Kleos Space,Aerospace,,2023-07-26,Luxembourg
+Calendly,Other,60.0,2023-07-26,United States
+Figure,Crypto,90.0,2023-07-26,United States
+Copia,Retail,350.0,2023-07-26,Kenya
+Deep Instict,Security,46.0,2023-07-25,United States
+Pluralsight,Education,,2023-07-25,United States
+AppHarvest,Food,,2023-07-24,United States
+Arive,Retail,,2023-07-24,Germany
+Onfido,Finance,,2023-07-24,United Kingdom
+PathAI,Healthcare,87.0,2023-07-21,United States
+Bundle Africa,Crypto,,2023-07-21,Nigeria
+Saarthi.ai,Support,,2023-07-20,India
+Stoa,Real Estate,80.0,2023-07-20,United States
+Dunzo,Food,,2023-07-20,India
+Phunware,Other,,2023-07-20,United States
+MiQ,Marketing,,2023-07-20,United Kingdom
+Viaplay,Media,450.0,2023-07-20,Sweden
+Inspirato,Travel,50.0,2023-07-19,United States
+Tilia,Finance,28.0,2023-07-19,United States
+Blue Apron,Food,,2023-07-19,United States
+AgentSync,Finance,67.0,2023-07-19,United States
+Microsoft,Other,1000.0,2023-07-18,United States
+Cameo,Consumer,80.0,2023-07-18,United States
+Square Roots,Food,,2023-07-18,United States
+Lamudi Indonesia,Real Estate,,2023-07-17,Indonesia
+IBM,Hardware,,2023-07-17,Israel
+Ezoic,Infrastructure,,2023-07-17,United States
+Code42,Security,,2023-07-17,United States
+Sarcos,Aerospace,75.0,2023-07-17,United States
+Binance,Crypto,1000.0,2023-07-14,Cayman Islands
+PayScale,HR,14.0,2023-07-14,United States
+Peloton,Fitness,11.0,2023-07-13,United States
+SAS,Data,,2023-07-13,United States
+Netlify,Other,,2023-07-13,United States
+Khoros,Sales,,2023-07-13,United States
+Bark,Retail,,2023-07-13,United States
+Amazon,Retail,80.0,2023-07-13,United States
+Factorial,HR,20.0,2023-07-13,Spain
+Centr,Fitness,22.0,2023-07-13,Australia
+Deepwatch,Security,30.0,2023-07-13,United States
+Uber Freight,Logistics,40.0,2023-07-13,United States
+Tempo Automation,Other,62.0,2023-07-13,United States
+AudioCodes,Other,80.0,2023-07-13,Israel
+Navi Technologies,Finance,200.0,2023-07-13,India
+Skill Lync,Education,200.0,2023-07-13,India
+Duck Creek Technologies,Finance,,2023-07-12,United States
+Expedia,Travel,,2023-07-12,United States
+Dapper Labs,Crypto,51.0,2023-07-12,Canada
+CyberGRX,Security,,2023-07-12,United States
+Circle,Crypto,,2023-07-12,United States
+DeepVerge,Healthcare,50.0,2023-07-12,Ireland
+Stitch Fix,Retail,400.0,2023-07-12,United States
+Freightos,Logistics,50.0,2023-07-12,United States
+Built Technologies,Construction,,2023-07-11,United States
+Everquote,Finance,100.0,2023-07-11,United States
+Dukaan,Retail,,2023-07-11,India
+Jasper,AI,,2023-07-11,Canada
+Shift,Transportation,,2023-07-11,United States
+Matterport,Data,170.0,2023-07-11,United States
+Sisense,Data,100.0,2023-07-11,United States
+WayCool,Food,300.0,2023-07-11,India
+Butterfly Network copy,Healthcare,,2023-07-11,United States
+Rad Power Bikes,Transportation,40.0,2023-07-10,United States
+FrontRow,Education,,2023-07-10,India
+IntelyCare,Healthcare,,2023-07-10,United States
+Latch,Security,,2023-07-10,United States
+Motive,Transportation,,2023-07-10,United States
+Trellix,Security,,2023-07-07,United States
+PaulCamper,Travel,,2023-07-07,Germany
+Medsaf,Healthcare,30.0,2023-07-07,Nigeria
+Evernote,Consumer,,2023-07-07,United States
+FNZ,Finance,1000.0,2023-07-06,United Kingdom
+Perfect Day,Food,134.0,2023-07-06,United States
+Solidigm,Hardware,98.0,2023-07-06,United States
+TytoCare,Healthcare,20.0,2023-07-06,United States
+Circles.Life,Marketing,,2023-07-06,Singapore
+ConnectRN,Healthcare,,2023-07-06,United States
+Crunchbase,Sales,,2023-07-06,United States
+DayTwo,Healthcare,,2023-07-06,United States
+Amdocs,Support,2000.0,2023-07-06,United States
+Vista Group,Data,,2023-07-05,New Zealand
+Athennian,Legal,30.0,2023-07-05,Canada
+Highsnobiety,Media,24.0,2023-07-03,Germany
+Zip,Finance,300.0,2023-07-02,Australia
+Lunya,Retail,,2023-06-30,United States
+Petal,Finance,,2023-06-30,United States
+Buzzer,Consumer,,2023-06-30,United States
+MediaMath,Marketing,,2023-06-30,United States
+Merama,Retail,,2023-06-29,Mexico
+Stripe,Finance,,2023-06-29,United States
+Qyuki,Other,,2023-06-29,India
+Vowel,Other,,2023-06-29,United States
+Insider Intelligence,Media,20.0,2023-06-29,United States
+Torii,Other,28.0,2023-06-29,Israel
+Xiaomi India,Other,30.0,2023-06-29,India
+Candy Digital,Crypto,30.0,2023-06-29,United States
+Artsy,Retail,35.0,2023-06-29,United States
+Headspace,Healthcare,181.0,2023-06-29,United States
+Niantic,Other,230.0,2023-06-29,United States
+ClickUp,Other,90.0,2023-06-28,United States
+Ludia,Consumer,55.0,2023-06-28,
+Karat,HR,47.0,2023-06-28,United States
+Plex,Media,37.0,2023-06-28,United States
+Starburst,Data,,2023-06-28,United States
+Zapier,Other,,2023-06-28,United States
+Waze,Transportation,,2023-06-27,United States
+Lordstown Motors,Transportation,,2023-06-27,United States
+Loopio,Sales,,2023-06-27,Canada
+Honor,Healthcare,,2023-06-27,United States
+Eyowo,Finance,,2023-06-27,Nigeria
+New Relic,Infrastructure,255.0,2023-06-27,United States
+Tibber,Energy,50.0,2023-06-27,Norway
+ClearPay,Finance,,2023-06-27,United Kingdom
+Selina,Travel,350.0,2023-06-27,United Kingdom
+Payoneer,Finance,200.0,2023-06-26,United States
+Convoy,Logistics,30.0,2023-06-26,United States
+Robinhood,Finance,150.0,2023-06-26,United States
+Joonko,Recruiting,,2023-06-25,United States
+IRL,Consumer,,2023-06-23,United States
+Retool,Other,,2023-06-22,United States
+Ritual,Food,38.0,2023-06-21,Canada
+Tackle.io,Infrastructure,75.0,2023-06-21,United States
+Uber,Transportation,200.0,2023-06-21,United States
+Anaplan,Other,300.0,2023-06-21,United States
+Friday Health Plans,Healthcare,,2023-06-21,United States
+Illumina,Healthcare,,2023-06-21,United States
+Mutiny,Marketing,,2023-06-21,United States
+AvantStay,Travel,37.0,2023-06-20,United States
+Karakuki,Food,,2023-06-20,United Kingdom
+Grab,Transportation,1000.0,2023-06-20,Singapore
+OLX Group,Marketing,800.0,2023-06-20,Netherlands
+Chingari,Media,48.0,2023-06-19,India
+Panther,HR,,2023-06-19,United States
+Fuzzy,Healthcare,,2023-06-18,United States
+Mojocare,Healthcare,170.0,2023-06-17,India
+Zulily,Retail,,2023-06-16,United States
+Karshare,Transportation,,2023-06-16,United Kingdom
+Pilot,Finance,45.0,2023-06-16,United States
+Nikola,Transportation,270.0,2023-06-16,United States
+Qualcomm,Hardware,84.0,2023-06-16,United States
+CareRev,Healthcare,100.0,2023-06-15,United States
+TADA,Transportation,45.0,2023-06-15,South Korea
+Binance.US,Crypto,,2023-06-15,United States
+Cerner,Healthcare,,2023-06-15,United States
+FrontRow,Education,,2023-06-15,India
+Synapse,Finance,,2023-06-14,United States
+Mamaearth,Retail,80.0,2023-06-14,India
+Sonos,Consumer,130.0,2023-06-14,United States
+Bitwise,Crypto,900.0,2023-06-14,United States
+TrueCar,Transportation,102.0,2023-06-14,United States
+Olo,Food,81.0,2023-06-14,United States
+JupiterOne,Security,8.0,2023-06-13,United States
+Western Digital,Hardware,211.0,2023-06-13,United States
+Zalando,Retail,,2023-06-13,Germany
+Chegg,Education,80.0,2023-06-12,United States
+dot.LA,Media,,2023-06-12,United States
+Grubhub,Food,400.0,2023-06-12,United States
+Pendo,Product,100.0,2023-06-12,United States
+GoCardless,Finance,150.0,2023-06-12,United Kingdom
+TaxBit,Crypto,80.0,2023-06-11,United States
+Tiki,Consumer,,2023-06-11,Singapore
+Expel,Security,60.0,2023-06-09,United States
+23andMe,Healthcare,75.0,2023-06-09,United States
+Trybe,Education,128.0,2023-06-09,Brazil
+Cityblock Health,Healthcare,155.0,2023-06-08,United States
+Cohesity,Data,,2023-06-08,United States
+Freshworks,Support,,2023-06-08,United States
+Opora,Security,,2023-06-08,United States
+Branch,Finance,186.0,2023-06-08,United States
+Highspot,Sales,140.0,2023-06-08,United States
+HashiCorp,Infrastructure,,2023-06-07,United States
+Ursa Major,Aerospace,,2023-06-07,United States
+Better.com,Real Estate,,2023-06-07,United States
+Byju's,Education,1000.0,2023-06-07,India
+Flatiron Health,Healthcare,39.0,2023-06-07,United States
+Nubank,Finance,296.0,2023-06-07,Brazil
+Sumo Logic,Data,79.0,2023-06-07,United States
+Bunnii,Healthcare,,2023-06-06,United States
+Coherent,Manufacturing,196.0,2023-06-06,United States
+Reddit,Consumer,90.0,2023-06-06,United States
+Mara,Crypto,6.0,2023-06-06,Kenya
+Edgio,Infrastructure,134.0,2023-06-06,United States
+Linktree,Consumer,60.0,2023-06-06,Australia
+Unity,Other,50.0,2023-06-06,United States
+Dragos,Security,50.0,2023-06-06,United States
+Azibo,Finance,,2023-06-05,United States
+Flyhomes,Real Estate,,2023-06-05,United States
+Spotify,Media,200.0,2023-06-05,Sweden
+Meati Foods,Food,,2023-06-03,United States
+ZoomInfo,Sales,120.0,2023-06-02,Canada
+Zume,Food,,2023-06-02,United States
+Staffbase,Other,90.0,2023-06-02,Germany
+Fractal Software,Other,,2023-06-01,United States
+SentinelOne,Security,,2023-06-01,United States
+SmartAsset,Finance,,2023-06-01,United States
+CloudTrucks,Logistics,,2023-06-01,United States
+Outbrain,Marketing,90.0,2023-06-01,United States
+Glamyo Health,Healthcare,160.0,2023-06-01,India
+Mural,Product,170.0,2023-06-01,United States
+Haven Technologies,Finance,280.0,2023-06-01,United States
+CoachHub,HR,,2023-06-01,Germany
+Zendesk,Support,320.0,2023-05-31,United States
+ZipRecruiter,Recruiting,270.0,2023-05-31,United States
+Vendr,Other,100.0,2023-05-31,United States
+McMakler,Real Estate,60.0,2023-05-31,Germany
+Mux,Infrastructure,40.0,2023-05-31,United States
+Away,Retail,22.0,2023-05-31,United States
+Mensa Brands,Retail,30.0,2023-05-30,India
+PacketFabric,Infrastructure,,2023-05-30,United States
+Nansen,Crypto,,2023-05-30,Singapore
+Taxfix,Finance,120.0,2023-05-30,Germany
+Coupa,Finance,,2023-05-30,United States
+Evolve,Travel,164.0,2023-05-29,United States
+Project44,Logistics,130.0,2023-05-26,United States
+DHI Group,Recruiting,53.0,2023-05-26,United States
+Circus Kitchens,Food,35.0,2023-05-25,Germany
+Airmeet,Marketing,75.0,2023-05-25,India
+Kabam,Consumer,,2023-05-25,United States
+BenevolentAI,Healthcare,180.0,2023-05-25,United Kingdom
+Jellysmack,Media,13.0,2023-05-25,France
+Guild,Education,172.0,2023-05-24,United States
+WillowTree,Marketing,120.0,2023-05-24,United States
+Flink,Food,100.0,2023-05-24,Germany
+Western Digital,Hardware,60.0,2023-05-24,Israel
+Alibaba Cloud,Data,,2023-05-24,China
+Brainly,Education,,2023-05-24,Poland
+Tractable,Finance,,2023-05-23,United Kingdom
+SoundCloud,Consumer,,2023-05-23,Germany
+Qualcomm,Hardware,30.0,2023-05-23,Israel
+Reliance JioMart,Food,1000.0,2023-05-23,India
+Daylight,Finance,,2023-05-22,United States
+FemTech Health,Healthcare,,2023-05-22,United States
+Paperless Parts,Manufacturing,,2023-05-22,United States
+AppFolio,Real Estate,62.0,2023-05-22,United States
+Nuance Communications,Healthcare,,2023-05-20,United States
+Moss,Finance,30.0,2023-05-19,Germany
+TuSimple,Transportation,,2023-05-18,United States
+Pie Insurance,Finance,63.0,2023-05-18,United States
+Clearbit,Sales,,2023-05-18,United States
+Nextbite,Food,,2023-05-18,United States
+L1ght,Other,,2023-05-18,Israel
+dbt Labs,Data,,2023-05-18,United States
+Stash,Finance,40.0,2023-05-17,United States
+Formstack,Other,,2023-05-17,United States
+Quanto,Finance,,2023-05-16,Brazil
+Cerner,Healthcare,3000.0,2023-05-16,United States
+DroneUp,Logistics,,2023-05-16,United States
+Lemonade,Finance,45.0,2023-05-16,United States
+Zepz,Finance,420.0,2023-05-16,United Kingdom
+Cana,Food,,2023-05-13,United States
+Toothsi,Healthcare,20.0,2023-05-12,India
+Nuro,Transportation,340.0,2023-05-12,United States
+Slickdeals,Retail,79.0,2023-05-12,United States
+Happay,Finance,160.0,2023-05-12,India
+Telenav,Transportation,172.0,2023-05-12,Romania
+Everlaw,Legal,,2023-05-12,United States
+Tessera,Crypto,,2023-05-12,United States
+CS Disco,Legal,,2023-05-11,United States
+Varo,Finance,97.0,2023-05-11,United States
+Cornershop,Food,250.0,2023-05-11,Chile
+Microsoft,Other,158.0,2023-05-10,United States
+Redbubble,Retail,70.0,2023-05-10,Australia
+Similarweb,Other,60.0,2023-05-10,United States
+Stack Overflow,Recruiting,58.0,2023-05-10,United States
+AudioCodes,Other,80.0,2023-05-09,Israel
+Buzzer,Media,,2023-05-09,United States
+Marqeta,Finance,,2023-05-09,United States
+Akamai,Security,290.0,2023-05-09,United States
+Sonatype,Security,100.0,2023-05-09,United States
+Momentis Surgical,Healthcare,70.0,2023-05-08,Israel
+Everledger,Crypto,,2023-05-08,Australia
+Glean AI,Finance,5.0,2023-05-08,United States
+Cuemath,Education,100.0,2023-05-08,India
+LinkedIn,Recruiting,716.0,2023-05-08,United States
+Meesho,Retail,251.0,2023-05-05,India
+Teachmint,Education,70.0,2023-05-05,India
+Eventus,Finance,,2023-05-05,United States
+Twist Bioscience,Healthcare,270.0,2023-05-05,United States
+Karma,Retail,20.0,2023-05-04,Israel
+Glassbox,Data,,2023-05-04,United Kingdom
+Scribe Media,Marketing,90.0,2023-05-04,United States
+Sabre,Travel,1100.0,2023-05-04,United States
+Earnix,Finance,30.0,2023-05-04,Israel
+Shopify,Retail,2300.0,2023-05-04,Canada
+Autograph,Crypto,30.0,2023-05-04,United States
+Brightline,Healthcare,,2023-05-03,United States
+Unity,Other,600.0,2023-05-03,United States
+Cars24,Transportation,100.0,2023-05-03,Indonesia
+TheSkimm,Media,22.0,2023-05-03,United States
+Zymergen,Other,27.0,2023-05-03,United States
+Healthy.io,Healthcare,70.0,2023-05-03,Israel
+Brightcove,Marketing,70.0,2023-05-03,United States
+Upwork,Other,137.0,2023-05-03,United States
+Zoomo,Transportation,27.0,2023-05-02,Australia
+Vallai,Data,,2023-05-02,France
+Bishop Fox,Security,50.0,2023-05-02,United States
+SAS,Data,250.0,2023-05-01,United States
+Lev,Real Estate,34.0,2023-05-01,United States
+PharmEasy,Healthcare,,2023-05-01,India
+Vah Vah!,Education,150.0,2023-04-30,India
+Cogito,Data,177.0,2023-04-29,India
+Poparazzi,Consumer,,2023-04-28,United States
+Providoor,Food,,2023-04-28,Australia
+Embark Vet,Healthcare,28.0,2023-04-28,United States
+N26,Finance,71.0,2023-04-28,Germany
+Cue Health,Healthcare,326.0,2023-04-28,United States
+Rad Power Bikes,Transportation,,2023-04-27,United States
+Oddle,Food,,2023-04-27,Singapore
+Clubhouse,Consumer,,2023-04-27,United States
+Tickertape,Finance,29.0,2023-04-27,India
+Airtasker,Retail,45.0,2023-04-27,Australia
+Chief,Other,43.0,2023-04-27,United States
+Megaport,Infrastructure,50.0,2023-04-27,Australia
+Dropbox,Other,500.0,2023-04-27,United States
+Alteryx,Data,320.0,2023-04-27,United States
+Vroom,Transportation,120.0,2023-04-27,United States
+Greenhouse,Recruiting,100.0,2023-04-27,United States
+Rebellion Defense,Data,90.0,2023-04-27,United States
+Poppulo,HR,85.0,2023-04-27,United States
+RenoRun,Construction,,2023-04-26,Canada
+Teampay,Finance,30.0,2023-04-26,United States
+Extramarks,Education,300.0,2023-04-26,India
+Rapid,Finance,115.0,2023-04-25,United States
+Skill Lync,Education,400.0,2023-04-25,India
+Rapid,Finance,70.0,2023-04-25,United States
+BigPanda,Infrastructure,40.0,2023-04-24,United States
+Red Hat,Other,760.0,2023-04-24,United States
+Flink,Food,8000.0,2023-04-24,Germany
+Lyft,Transportation,1072.0,2023-04-21,United States
+Benchling,Other,74.0,2023-04-21,United States
+Pluralsight,Education,,2023-04-21,United States
+BuzzFeed,Media,180.0,2023-04-20,United States
+Koo,Consumer,78.0,2023-04-20,India
+Gloat,HR,35.0,2023-04-20,United States
+Insider,Media,,2023-04-20,United States
+Iress,Finance,,2023-04-20,Australia
+Lenovo,Hardware,,2023-04-20,United States
+Open,Finance,47.0,2023-04-20,India
+F5,Security,623.0,2023-04-19,United States
+WalkMe,Other,112.0,2023-04-19,United States
+TRM Labs,Crypto,16.0,2023-04-18,United States
+CoLab,Food,,2023-04-18,Australia
+Opendoor,Real Estate,560.0,2023-04-18,United States
+Noon,Retail,340.0,2023-04-18,Saudi Arabia
+Culture Amp,HR,90.0,2023-04-18,Australia
+Ten Square Games,Consumer,120.0,2023-04-17,Poland
+Clearcover,Finance,81.0,2023-04-17,United States
+Paper,Education,81.0,2023-04-17,Canada
+Utopia Music,Other,,2023-04-17,Switzerland
+Ynsect,Food,17.0,2023-04-17,France
+FamPay,Finance,,2023-04-17,India
+Kumu,Media,,2023-04-17,Philippines
+Quadream,Security,,2023-04-16,Israel
+Community Gaming,Crypto,17.0,2023-04-14,United States
+Calibrate,Healthcare,,2023-04-14,United States
+OpenClassrooms,Education,,2023-04-14,France
+Sayurbox,Food,,2023-04-14,Indonesia
+Drip Capital,Finance,75.0,2023-04-14,United States
+Mediafly,Sales,,2023-04-13,United States
+Lazerpay,Crypto,,2023-04-13,Nigeria
+Heygo,Travel,,2023-04-13,United Kingdom
+Bluepad,Media,,2023-04-13,India
+Astronomer,Data,100.0,2023-04-13,United States
+Snyk,Security,128.0,2023-04-13,United States
+Viasat,Other,300.0,2023-04-12,United States
+Science 37,Healthcare,140.0,2023-04-12,United States
+Medtronic,Healthcare,59.0,2023-04-12,United States
+Euler Motors,Transportation,,2023-04-11,India
+Reforge,Education,,2023-04-11,United States
+Milkrun,Food,400.0,2023-04-11,Australia
+Acxiom,Marketing,,2023-04-11,United States
+Examedi,Healthcare,45.0,2023-04-11,Chile
+Permutive,Marketing,80.0,2023-04-11,United Kingdom
+Redfin,Real Estate,201.0,2023-04-11,United States
+Flock Freight,Logistics,45.0,2023-04-10,United States
+Nori,Energy,10.0,2023-04-10,United States
+Simpl,Finance,150.0,2023-04-09,India
+Practo,Healthcare,41.0,2023-04-08,India
+ZestMoney,Finance,100.0,2023-04-07,India
+Workit Health,Healthcare,100.0,2023-04-07,United States
+Pear Therapeutics,Healthcare,170.0,2023-04-07,United States
+Absolute Software,Security,40.0,2023-04-06,Canada
+Avocargo,Transportation,16.0,2023-04-06,Germany
+Dunzo,Food,300.0,2023-04-05,India
+Amplitude,Data,99.0,2023-04-05,United States
+Talent.com,Recruiting,86.0,2023-04-05,Canada
+1K Kirana,Retail,600.0,2023-04-04,India
+Foundation Medicine,Healthcare,135.0,2023-04-04,United States
+Finder,Retail,40.0,2023-04-04,Australia
+Boost,Finance,15.0,2023-04-04,United States
+Cin7,Retail,,2023-04-04,New Zealand
+Checkout.com,Finance,,2023-04-03,United Kingdom
+Textio,Recruiting,15.0,2023-04-03,United States
+Apple,Retail,,2023-04-03,United States
+Guideline,Finance,48.0,2023-04-03,United States
+View,Other,170.0,2023-04-03,United States
+Hyland Software,Other,1000.0,2023-04-03,United States
+Domestika,Education,89.0,2023-03-31,Spain
+Airbyte,Data,,2023-03-31,United States
+Endowus,Finance,,2023-03-30,Singapore
+Unacademy,Education,,2023-03-30,India
+Nowports,Logistics,,2023-03-30,Mexico
+GoodWorker,Recruiting,,2023-03-30,Singapore
+Kyndryl,Infrastructure,,2023-03-30,United States
+AnswerLab,Marketing,,2023-03-30,United States
+FanClash,Consumer,100.0,2023-03-30,India
+Hulu,Media,200.0,2023-03-30,China
+Roku,Media,200.0,2023-03-30,United States
+LendingTree,Finance,150.0,2023-03-30,United States
+Spotify,Media,15.0,2023-03-30,Sweden
+Crossbeam,Sales,17.0,2023-03-30,United States
+Loop,Finance,19.0,2023-03-30,United States
+Seagate,Hardware,480.0,2023-03-29,United States
+Drizly,Retail,100.0,2023-03-29,United States
+iCAD,Healthcare,23.0,2023-03-29,United States
+Anyline,Other,,2023-03-29,Austria
+OnePipe,Finance,,2023-03-29,Nigeria
+Shift,Transportation,,2023-03-29,United States
+CoverMyMeds,Healthcare,800.0,2023-03-29,United States
+Electronic Arts,Consumer,780.0,2023-03-29,United States
+AEye,Transportation,46.0,2023-03-28,United States
+Blue Nile,Retail,119.0,2023-03-28,United States
+Lucid Motors,Transportation,1300.0,2023-03-28,United States
+Better Therapeutics,Healthcare,,2023-03-27,United States
+Rackspace,Data,275.0,2023-03-27,United States
+The Meet Group,Consumer,,2023-03-24,United States
+Aspiration,Finance,170.0,2023-03-24,United States
+Cimpress,Retail,500.0,2023-03-23,France
+Veeam,Data,200.0,2023-03-23,United States
+Glovo,Food,140.0,2023-03-23,Spain
+TakeOff,Retail,50.0,2023-03-23,Ukraine
+Slite,Other,10.0,2023-03-23,France
+Rewind,Data,,2023-03-22,Canada
+Roofstock,Real Estate,,2023-03-22,United States
+Copper,Crypto,,2023-03-22,United Kingdom
+Wejo,Transportation,40.0,2023-03-22,United Kingdom
+Glassdoor,HR,140.0,2023-03-22,United States
+Logitech,Hardware,300.0,2023-03-22,Switzerland
+Indeed,HR,2200.0,2023-03-22,United States
+GAMURS Group,Consumer,,2023-03-21,Australia
+Laybuy,Finance,,2023-03-21,New Zealand
+Grin,Marketing,,2023-03-21,United States
+Just Eat,Food,1700.0,2023-03-21,United Kingdom
+Expedia,Travel,,2023-03-21,United States
+Mr Yum,Food,40.0,2023-03-21,Australia
+Marvell,Hardware,320.0,2023-03-21,United States
+Workhuman,HR,130.0,2023-03-21,Ireland
+FreshBooks,Finance,80.0,2023-03-21,Canada
+Xing,HR,68.0,2023-03-21,Germany
+Smallcase,Finance,15.0,2023-03-21,India
+Amazon,Retail,9000.0,2023-03-20,United States
+Huuuge Games,Consumer,,2023-03-20,Poland
+Livspace,Retail,100.0,2023-03-17,India
+Symend,Other,50.0,2023-03-17,Canada
+Candor Technology,Real Estate,,2023-03-17,United States
+Bonusly,HR,,2023-03-16,United States
+Leafly,Retail,40.0,2023-03-16,United States
+Course Hero,Education,42.0,2023-03-16,United States
+Runtastic,Fitness,70.0,2023-03-16,Austria
+Coherent,Manufacturing,108.0,2023-03-16,United States
+Freshworks,Support,114.0,2023-03-16,United States
+Klaviyo,Marketing,140.0,2023-03-15,United States
+Dukaan,Retail,56.0,2023-03-15,India
+Boxed,Retail,32.0,2023-03-15,United States
+Nubank,Finance,30.0,2023-03-15,Brazil
+TradeWindow,Finance,25.0,2023-03-15,New Zealand
+Hometap,Real Estate,,2023-03-15,United States
+Kaleidoscope,Finance,15.0,2023-03-14,United States
+Samsung,Hardware,30.0,2023-03-14,United States
+Avidbots,Hardware,50.0,2023-03-14,Canada
+Meta,Consumer,10000.0,2023-03-14,United States
+Anchorage Digital,Crypto,75.0,2023-03-14,United States
+Fetch,Retail,100.0,2023-03-14,United States
+Cookpad,Consumer,80.0,2023-03-10,Japan
+GoTo Group,Transportation,600.0,2023-03-10,Indonesia
+Morning Brew,Media,40.0,2023-03-09,United States
+Bonusly,HR,,2023-03-09,United States
+Toucan,Education,,2023-03-09,United States
+Wave Financial,Finance,50.0,2023-03-09,Canada
+Gopuff,Food,100.0,2023-03-09,United States
+Shopee,Food,200.0,2023-03-09,Indonesia
+Xero,Finance,800.0,2023-03-09,New Zealand
+Neoleukin Therapeutics,Healthcare,,2023-03-09,United States
+Wattpad,Media,42.0,2023-03-08,Canada
+Appcues,Data,,2023-03-08,United States
+Zulily,Retail,,2023-03-07,United States
+RDX Works,Crypto,,2023-03-07,United Kingdom
+Take-Two Interactive,Consumer,,2023-03-07,United States
+Catch,Finance,,2023-03-07,United States
+Zwift,Fitness,80.0,2023-03-07,United States
+Pristyn Care,Healthcare,300.0,2023-03-07,India
+Atlassian,Other,500.0,2023-03-06,Australia
+SiriusXM,Media,475.0,2023-03-06,United States
+Alerzo,Retail,400.0,2023-03-06,Nigeria
+UKG,HR,265.0,2023-03-06,United States
+UpGrad,Education,120.0,2023-03-06,India
+HomeLane,Retail,30.0,2023-03-06,India
+Ankorstore,Retail,,2023-03-06,France
+No Fluff Jobs,HR,13.0,2023-03-04,Poland
+Indigo,Other,,2023-03-03,United States
+Airbnb,Travel,30.0,2023-03-03,United States
+Accolade,Healthcare,,2023-03-03,United States
+Loft,Real Estate,340.0,2023-03-03,Brazil
+Lendi,Real Estate,100.0,2023-03-03,Australia
+Embark Trucks,Transportation,230.0,2023-03-03,United States
+UserTesting,Marketing,63.0,2023-03-03,United States
+CNET,Media,12.0,2023-03-02,United States
+Zscaler,Security,177.0,2023-03-02,United States
+Flipkart,Retail,,2023-03-02,India
+Kandela,Consumer,,2023-03-02,United States
+Orchard,Real Estate,,2023-03-02,United States
+Truckstop.com,Logistics,,2023-03-02,United States
+MasterClass,Education,79.0,2023-03-02,United States
+Ambev Tech,Food,50.0,2023-03-02,Brazil
+Fittr,Fitness,30.0,2023-03-02,India
+Comparis,Finance,,2023-03-02,Switzerland
+Protego Trust Bank,Crypto,,2023-03-01,United States
+Sonder,Travel,100.0,2023-03-01,United States
+Yellow.ai,Support,200.0,2023-03-01,United States
+PayFit,HR,200.0,2023-03-01,France
+Waymo,Transportation,209.0,2023-03-01,United States
+Thoughtworks,Other,500.0,2023-03-01,United States
+iFood,Food,355.0,2023-03-01,Brazil
+Color Health,Healthcare,300.0,2023-03-01,United States
+Electronic Arts,Consumer,200.0,2023-02-28,United States
+MeridianLink,Finance,,2023-02-28,United States
+DUX Education,Education,,2023-02-28,India
+Ezoic,Infrastructure,10.0,2023-02-28,United States
+Eventbrite,Consumer,80.0,2023-02-28,United States
+Sono Motors,Transportation,300.0,2023-02-27,Germany
+Amount,Finance,130.0,2023-02-27,United States
+Palantir,Data,75.0,2023-02-27,United States
+Outreach,Sales,70.0,2023-02-27,United States
+Stytch,Security,19.0,2023-02-27,United States
+Cerebral,Healthcare,285.0,2023-02-27,United States
+BitSight,Security,40.0,2023-02-26,Israel
+Twitter,Consumer,200.0,2023-02-25,United States
+Medallia,Support,59.0,2023-02-24,United States
+Lucira Health,Healthcare,26.0,2023-02-24,United States
+Stax,Finance,24.0,2023-02-24,United States
+EQRx,Healthcare,,2023-02-24,United States
+Poshmark,Retail,,2023-02-24,United States
+Ericsson,Other,8500.0,2023-02-24,Sweden
+SAP Labs,Other,300.0,2023-02-24,India
+Velodyne Lidar,Transportation,220.0,2023-02-24,United States
+Eat Just,Food,40.0,2023-02-24,United States
+Messari,Crypto,,2023-02-23,United States
+Vibrent Health,Healthcare,,2023-02-23,United States
+Dapper Labs,Crypto,,2023-02-23,Canada
+StrongDM,Infrastructure,40.0,2023-02-23,United States
+EVgo,Transportation,40.0,2023-02-23,United States
+The Iconic,Retail,69.0,2023-02-23,Australia
+OneFootball,Marketing,150.0,2023-02-23,Germany
+Merative,Healthcare,200.0,2023-02-23,United States
+Synamedia,Media,200.0,2023-02-22,United Kingdom
+TaskUs,Support,186.0,2023-02-22,United States
+Arch Oncology,Healthcare,,2023-02-22,United States
+Immutable,Crypto,,2023-02-22,Australia
+Jounce Therapeutics,Healthcare,,2023-02-22,United States
+Locomation,Transportation,,2023-02-22,United States
+Criteo,Marketing,,2023-02-21,France
+PeerStreet,Real Estate,,2023-02-21,United States
+Zalando,Retail,,2023-02-21,Germany
+Bolt,Transportation,17.0,2023-02-21,Nigeria
+Green Labs,Food,350.0,2023-02-21,South Korea
+Ethos Life,Finance,50.0,2023-02-21,United States
+Crunchyroll,Media,85.0,2023-02-21,Japan
+Polygon,Crypto,100.0,2023-02-21,India
+Basis Technologies,Marketing,40.0,2023-02-21,United States
+MyGate,Other,200.0,2023-02-20,India
+Fipola,Food,,2023-02-20,India
+Kinde,Other,8.0,2023-02-20,Australia
+Fireblocks,Crypto,30.0,2023-02-20,United States
+HP,Hardware,100.0,2023-02-19,Israel
+Tencent,Consumer,300.0,2023-02-17,China
+Evernote,Consumer,129.0,2023-02-17,United States
+Chipper Cash,Finance,100.0,2023-02-17,United States
+Digimarc,Other,,2023-02-17,United States
+Reserve,Crypto,,2023-02-17,United States
+Micron,Hardware,2400.0,2023-02-17,United States
+Smartsheet,Other,85.0,2023-02-16,United States
+Convoy,Logistics,,2023-02-16,United States
+The RealReal,Retail,230.0,2023-02-16,United States
+Pico Interactive,Other,400.0,2023-02-16,United States
+DocuSign,Sales,680.0,2023-02-16,United States
+Observe.AI,Support,,2023-02-15,United States
+Vicarious Surgical,Healthcare,,2023-02-15,United States
+Tackle,Other,,2023-02-15,United States
+SurveyMonkey,Marketing,,2023-02-15,United States
+Religion of Sports,Media,,2023-02-15,United States
+Jellysmack,Media,208.0,2023-02-15,France
+Milkrun,Food,,2023-02-15,Australia
+Divvy Homes,Real Estate,,2023-02-15,United States
+Betterment,Finance,28.0,2023-02-15,United States
+Sprinklr,Support,100.0,2023-02-15,United States
+DigitalOcean,Infrastructure,200.0,2023-02-15,United States
+Neon,Finance,210.0,2023-02-15,Brazil
+ServiceTitan,Sales,221.0,2023-02-15,United States
+Wix,Marketing,370.0,2023-02-15,Israel
+Udemy,Education,,2023-02-14,United States
+Blackbaud,Other,500.0,2023-02-14,United States
+PhableCare,Healthcare,,2023-02-14,India
+HackerEarth,HR,,2023-02-14,United States
+Dropp,Retail,60.0,2023-02-14,Germany
+CommerceHub,Retail,371.0,2023-02-14,United States
+Getir,Food,,2023-02-13,United Kingdom
+Electric,Other,141.0,2023-02-13,United States
+LinkedIn,Recruiting,,2023-02-13,United States
+Twilio,Other,1500.0,2023-02-13,United States
+Casavo,Real Estate,,2023-02-13,Italy
+Magic Eden,Crypto,22.0,2023-02-13,United States
+Collective Health,Healthcare,54.0,2023-02-13,United States
+iRobot,Consumer,85.0,2023-02-13,United States
+PetLove,Retail,94.0,2023-02-13,Brazil
+EMX Digital,Marketing,100.0,2023-02-13,United States
+Foodpanda,Food,,2023-02-13,Singapore
+Moladin,Transportation,360.0,2023-02-12,Indonesia
+Wonderschool,Education,,2023-02-10,United States
+Titan Medical,Healthcare,48.0,2023-02-10,Canada
+Rigetti Computing,Hardware,,2023-02-10,United States
+Open Co,Finance,,2023-02-10,Brazil
+Syft Technologies,Manufacturing,30.0,2023-02-10,New Zealand
+TikTok India,Consumer,40.0,2023-02-10,India
+TripleLift,Marketing,100.0,2023-02-10,United States
+WeTrade,Crypto,,2023-02-09,India
+Quillt,Media,,2023-02-09,United States
+Veriff,Security,66.0,2023-02-09,Estonia
+REE Automotive,Transportation,31.0,2023-02-09,Israel
+GitHub,Product,,2023-02-09,United States
+REE Automotive,Transportation,100.0,2023-02-09,Israel
+Yahoo,Consumer,1600.0,2023-02-09,United States
+Deliveroo,Food,350.0,2023-02-09,United Kingdom
+Bark,Retail,126.0,2023-02-09,United States
+Olive AI,Healthcare,215.0,2023-02-09,United States
+Misfits Market,Food,649.0,2023-02-09,United States
+GitLab,Product,130.0,2023-02-09,United States
+Oportun,Finance,155.0,2023-02-09,United States
+Gusto,HR,126.0,2023-02-08,United States
+Beam Benefits,Healthcare,31.0,2023-02-08,United States
+Equitybee,Finance,24.0,2023-02-08,United States
+Baraja,Transportation,,2023-02-08,Australia
+Koho,Finance,,2023-02-08,Canada
+Medly,Healthcare,,2023-02-08,United States
+Nearmap,Construction,,2023-02-08,Australia
+GoDaddy,Marketing,530.0,2023-02-08,United States
+Affirm,Finance,500.0,2023-02-08,United States
+Gong,Sales,80.0,2023-02-08,United States
+LearnUpon,Education,27.0,2023-02-07,Ireland
+Sana Benefits,HR,,2023-02-07,United States
+Openpay,Finance,83.0,2023-02-07,Australia
+SecureWorks,Security,212.0,2023-02-07,United States
+eBay,Retail,500.0,2023-02-07,United States
+Zoom,Other,1300.0,2023-02-07,United States
+Salesloft,Sales,100.0,2023-02-07,United States
+Dell,Hardware,6650.0,2023-02-06,United States
+Loggi,Logistics,300.0,2023-02-06,Brazil
+Catch.com.au,Retail,100.0,2023-02-06,Australia
+VinFast US,Transportation,80.0,2023-02-06,United States
+Drift,Marketing,59.0,2023-02-06,United States
+Pocket Aces,Media,50.0,2023-02-06,India
+Clari,Sales,20.0,2023-02-06,United States
+C6 Bank,Finance,,2023-02-06,Brazil
+Daraz,Retail,,2023-02-06,Singapore
+TenureX,Finance,,2023-02-06,Israel
+Lightico,Finance,20.0,2023-02-05,Israel
+Kyruus,Healthcare,70.0,2023-02-05,United States
+Built Technologies copy,Construction,,2023-02-03,United States
+Eightfold AI,HR,90.0,2023-02-03,United States
+FarEye,Logistics,90.0,2023-02-03,India
+Protocol Labs,Crypto,89.0,2023-02-03,United States
+Finder,Retail,,2023-02-03,Australia
+Articulate,Education,38.0,2023-02-02,United States
+Talkdesk,Support,,2023-02-02,United States
+Sharesies,Finance,,2023-02-02,New Zealand
+NCSoft,Consumer,,2023-02-02,South Korea
+Desktop Metal,Other,,2023-02-02,United States
+Getaround,Transportation,,2023-02-02,United States
+Snowplow,Data,40.0,2023-02-02,United Kingdom
+Mindstrong,Healthcare,127.0,2023-02-02,United States
+Byju's,Education,1500.0,2023-02-02,India
+Bittrex,Crypto,80.0,2023-02-02,United States
+Autodesk,Other,250.0,2023-02-02,United States
+Okta,Security,300.0,2023-02-02,United States
+NCC Group,Security,125.0,2023-02-02,United Kingdom
+Miro,Other,119.0,2023-02-02,United States
+Getir,Food,100.0,2023-02-02,United States
+Highspot,Sales,100.0,2023-02-02,United States
+Rivian,Transportation,,2023-02-01,United States
+Picnic,Food,,2023-02-01,United States
+Omnipresent,HR,,2023-02-01,United Kingdom
+Match Group,Consumer,,2023-02-01,United States
+MariaDB,Data,,2023-02-01,Finland
+Frequency Therapeutics,Healthcare,,2023-02-01,United States
+Bustle Digital Group,Media,,2023-02-01,United States
+Ada,Support,,2023-02-01,Canada
+TheSkimm,Media,17.0,2023-02-01,United States
+Appgate,Security,34.0,2023-02-01,United States
+Chainalysis,Crypto,44.0,2023-02-01,United States
+Wheel,Healthcare,56.0,2023-02-01,United States
+VerticalScope,Media,60.0,2023-02-01,Canada
+Workato,Other,90.0,2023-02-01,United States
+Exterro,Legal,24.0,2023-02-01,United States
+Cyren,Security,121.0,2023-02-01,United States
+DraftKings,Consumer,140.0,2023-02-01,United States
+Pinterest,Consumer,150.0,2023-02-01,United States
+Splunk,Data,325.0,2023-02-01,United States
+Gokada,Transportation,54.0,2023-01-31,Nigeria
+OpenText,Data,,2023-01-31,Canada
+National Instruments,Hardware,,2023-01-31,United States
+AU10TIX,Security,19.0,2023-01-31,Israel
+Nubank,Finance,40.0,2023-01-31,Brazil
+Tilting Point,Consumer,60.0,2023-01-31,United States
+Wefox,Finance,100.0,2023-01-31,Germany
+Wish,Retail,150.0,2023-01-31,United States
+Software AG,Data,200.0,2023-01-31,Germany
+Upstart,Finance,365.0,2023-01-31,United States
+HubSpot,Marketing,500.0,2023-01-31,United States
+Workday,HR,525.0,2023-01-31,United States
+NetApp,Data,960.0,2023-01-31,United States
+PayPal,Finance,2000.0,2023-01-31,United States
+BM Technologies,Finance,,2023-01-30,United States
+SoFi,Finance,,2023-01-30,United States
+Quantum SI,Healthcare,,2023-01-30,United States
+Prime Trust,Crypto,,2023-01-30,United States
+Olist,Retail,,2023-01-30,Brazil
+Oyster,HR,,2023-01-30,United States
+Chrono24,Retail,65.0,2023-01-30,Germany
+Delivery Hero,Food,156.0,2023-01-30,Germany
+Glovo,Food,250.0,2023-01-30,Spain
+Intel,Hardware,343.0,2023-01-30,United States
+Philips,Healthcare,6000.0,2023-01-30,Netherlands
+OLX Group,Marketing,1500.0,2023-01-30,Netherlands
+Arrival,Transportation,800.0,2023-01-30,United Kingdom
+Groupon,Retail,500.0,2023-01-30,United States
+Impossible Foods copy,Food,140.0,2023-01-30,United States
+Hoxhunt,Security,,2023-01-29,Finland
+Me Poupe,Finance,60.0,2023-01-28,Brazil
+CoinTracker,Crypto,19.0,2023-01-28,United States
+Decent,Healthcare,,2023-01-27,United States
+Soundwide,Other,,2023-01-27,Germany
+Nate,Retail,,2023-01-27,United States
+Feedzai,Finance,,2023-01-27,Portugal
+#Paid,Marketing,19.0,2023-01-27,Canada
+Shakepay,Crypto,21.0,2023-01-27,Canada
+Matrixport,Crypto,29.0,2023-01-27,Singapore
+Heycar,Transportation,73.0,2023-01-27,Germany
+SSense,Retail,138.0,2023-01-27,Canada
+DealShare,Retail,100.0,2023-01-27,India
+Ruggable,Retail,100.0,2023-01-27,United States
+Synopsys,Other,100.0,2023-01-27,United States
+Quora,Consumer,,2023-01-26,United States
+Plus One Robotics,Other,,2023-01-26,United States
+Mode Global,Finance,,2023-01-26,United Kingdom
+DriveWealth,Finance,,2023-01-26,United States
+Glisser,Travel,25.0,2023-01-26,United Kingdom
+Confluent,Data,221.0,2023-01-26,United States
+SAP,Other,3000.0,2023-01-26,Germany
+Prosus,Other,,2023-01-25,Netherlands
+Noom,Fitness,,2023-01-25,United States
+Finastra,Finance,,2023-01-25,Israel
+PagSeguro,Finance,,2023-01-25,Brazil
+Tier Mobility,Transportation,80.0,2023-01-25,Germany
+SirionLabs,Legal,130.0,2023-01-25,United States
+IBM,Hardware,3900.0,2023-01-25,United States
+Lam Research,Hardware,1300.0,2023-01-25,United States
+Shutterfly,Retail,360.0,2023-01-25,United States
+CareRev,Healthcare,,2023-01-25,United States
+Luno,Crypto,330.0,2023-01-25,United Kingdom
+Clear Capital,Real Estate,250.0,2023-01-25,United States
+Guardant Health,Healthcare,130.0,2023-01-25,United States
+Innovaccer,Healthcare,245.0,2023-01-24,United States
+Icon,Construction,,2023-01-24,United States
+Bolt,Finance,50.0,2023-01-24,United States
+Scoro,HR,,2023-01-24,United Kingdom
+PagerDuty,Product,,2023-01-24,United States
+Vacasa,Travel,1300.0,2023-01-24,United States
+Corvus Insurance,Finance,,2023-01-24,United States
+PartnerStack,Sales,40.0,2023-01-24,Canada
+Venngage,Marketing,11.0,2023-01-24,Canada
+OFFOR Health,Healthcare,16.0,2023-01-24,United States
+Gitpod,Product,21.0,2023-01-24,Germany
+CoachHub,HR,,2023-01-24,Germany
+Booktopia,Retail,30.0,2023-01-23,Australia
+Namogoo,Marketing,20.0,2023-01-23,Israel
+Camp K12,Education,,2023-01-23,India
+Gemini,Crypto,,2023-01-23,United States
+Yext,Marketing,,2023-01-23,United States
+Ermetic,Security,30.0,2023-01-23,United States
+Spotify,Media,600.0,2023-01-23,Sweden
+Uber Freight,Logistics,150.0,2023-01-23,United States
+Inmobi,Marketing,50.0,2023-01-23,India
+Innovid,Marketing,40.0,2023-01-23,United States
+BUX,Finance,,2023-01-22,Netherlands
+Avalara,Finance,,2023-01-20,United States
+Zappos,Retail,,2023-01-20,United States
+TikTok,Consumer,,2023-01-20,United States
+Morning Consult,Data,,2023-01-20,United States
+Cyteir Therapeutics,Healthcare,,2023-01-20,United States
+Citrine Informatics,Data,22.0,2023-01-20,United States
+Edifecs,Healthcare,30.0,2023-01-20,United States
+Enjoei,Retail,31.0,2023-01-20,Brazil
+Karat,HR,47.0,2023-01-20,United States
+BitTorrent,Infrastructure,92.0,2023-01-20,United States
+Vox Media,Media,130.0,2023-01-20,United States
+MediBuddy,Healthcare,200.0,2023-01-20,India
+Swiggy,Food,380.0,2023-01-20,India
+Wayfair,Retail,1750.0,2023-01-20,United States
+Google,Consumer,12000.0,2023-01-20,United States
+Icertis,Legal,,2023-01-19,United States
+Wallbox,Energy,,2023-01-19,Spain
+Spaceship,Finance,,2023-01-19,Australia
+Prisma,Data,,2023-01-19,United States
+Personalis,Healthcare,,2023-01-19,United States
+Mudafy,Real Estate,,2023-01-19,Mexico
+Magnite,Marketing,,2023-01-19,United States
+Saks.com,Retail,100.0,2023-01-19,United States
+IAM Robotics,Hardware,,2023-01-19,United States
+Hubilo,Other,115.0,2023-01-19,United States
+Capital One,Finance,1100.0,2023-01-19,United States
+Fandom,Media,,2023-01-19,United States
+WeWork ,Real Estate,300.0,2023-01-19,United States
+Proterra,Transportation,300.0,2023-01-19,United States
+CS Disco,Legal,62.0,2023-01-19,United States
+Riot Games,Consumer,46.0,2023-01-19,United States
+Hydrow,Fitness,30.0,2023-01-19,United States
+Earth Rides,Transportation,,2023-01-19,United States
+80 Acres Farms,Food,,2023-01-18,United States
+Redbubble,Retail,,2023-01-18,Australia
+Lucid Diagnostics,Healthcare,,2023-01-18,United States
+Cypress.io,Product,,2023-01-18,United States
+Coda,Other,,2023-01-18,United States
+Cazoo,Transportation,,2023-01-18,United Kingdom
+Betterfly,Healthcare,,2023-01-18,Chile
+Bally's Interactive,Consumer,,2023-01-18,United States
+Aiven,Infrastructure,,2023-01-18,Finland
+Mavenir,Infrastructure,,2023-01-18,United States
+Addepar,Finance,20.0,2023-01-18,United States
+Microsoft,Other,10000.0,2023-01-18,United States
+Teladoc Health,Healthcare,300.0,2023-01-18,United States
+Sophos,Security,450.0,2023-01-18,United Kingdom
+Clue,Healthcare,31.0,2023-01-18,Germany
+8x8,Support,155.0,2023-01-18,United States
+Pagaya,Finance,140.0,2023-01-18,Israel
+Vroom,Transportation,275.0,2023-01-18,United States
+Benevity,Other,137.0,2023-01-18,Canada
+Hootsuite,Marketing,70.0,2023-01-18,Canada
+Starry,Other,100.0,2023-01-18,United States
+nCino,Finance,100.0,2023-01-18,United States
+Inspirato,Travel,109.0,2023-01-18,United States
+Jumpcloud,Security,100.0,2023-01-18,United States
+Fishbrain,Consumer,,2023-01-17,Sweden
+XP,Finance,,2023-01-17,Brazil
+RateGenius,Finance,,2023-01-17,United States
+Rappi,Food,,2023-01-17,Argentina
+Oracle,Other,,2023-01-17,United States
+GoMechanic,Transportation,,2023-01-17,India
+LiveVox,Support,,2023-01-17,United States
+Avaya,Other,,2023-01-17,United States
+Clutch,Transportation,150.0,2023-01-17,Canada
+Lightspeed Commerce,Retail,300.0,2023-01-17,Canada
+Unity,Other,284.0,2023-01-17,United States
+Britishvolt,Transportation,206.0,2023-01-17,United Kingdom
+Luxury Presence,Real Estate,44.0,2023-01-17,United States
+RingCentral,Other,30.0,2023-01-17,United States
+Exotel,Support,142.0,2023-01-17,India
+Unico,Other,110.0,2023-01-17,Brazil
+Tul,Construction,100.0,2023-01-17,Colombia
+American Robotics,Other,50.0,2023-01-17,United States
+PagBank,Finance,500.0,2023-01-16,Brazil
+ShareChat,Consumer,500.0,2023-01-16,India
+ClearCo,Finance,50.0,2023-01-16,Canada
+Dunzo,Food,,2023-01-16,India
+Ignition,Finance,,2023-01-16,Australia
+Rebel Foods,Food,,2023-01-16,India
+Gramophone,Food,75.0,2023-01-16,India
+Captain Fresh ,Food,120.0,2023-01-15,India
+Snappy,Marketing,100.0,2023-01-15,United States
+DeHaat,Food,,2023-01-15,India
+BharatAgri,Food,40.0,2023-01-15,India
+Jellyfish,Product,,2023-01-13,United States
+Bonterra ,Other,140.0,2023-01-13,United States
+Black Shark,Hardware,900.0,2023-01-13,China
+Ola,Transportation,200.0,2023-01-13,India
+GoCanvas,Other,,2023-01-13,United States
+CoSchedule,Marketing,,2023-01-13,United States
+Carvana,Transportation,,2023-01-13,United States
+Arch Oncology,Healthcare,,2023-01-13,United States
+Vial,Healthcare,40.0,2023-01-13,United States
+Akili Labs,Healthcare,46.0,2023-01-12,United States
+Rock Content,Marketing,,2023-01-12,United States
+Life360,Consumer,,2023-01-12,United States
+Crypto.com,Crypto,,2023-01-12,Singapore
+Career Karma,Education,22.0,2023-01-12,United States
+Cashfree Payments,Finance,100.0,2023-01-12,India
+Definitive Healthcare,Healthcare,55.0,2023-01-12,United States
+Mapbox,Data,64.0,2023-01-12,United States
+Greenlight,Finance,104.0,2023-01-12,United States
+Lattice,HR,105.0,2023-01-12,United States
+Blockchain.com,Crypto,110.0,2023-01-12,United Kingdom
+Pier,Finance,111.0,2023-01-12,Brazil
+Skit.ai,Support,115.0,2023-01-12,India
+SmartNews,Media,120.0,2023-01-12,Japan
+Lending Club,Finance,225.0,2023-01-12,United States
+Paddle,Finance,,2023-01-11,United Kingdom
+Citizen,Consumer,33.0,2023-01-11,United States
+Limeade,HR,,2023-01-11,United States
+Carta,HR,,2023-01-11,United States
+Oyster,HR,,2023-01-11,United States
+Intrinsic,Other,40.0,2023-01-11,United States
+Tipalti,Finance,123.0,2023-01-11,United States
+Embark Vet,Healthcare,41.0,2023-01-11,United States
+Qualtrics,Other,270.0,2023-01-11,United States
+Flexport,Logistics,640.0,2023-01-11,United States
+Verily,Healthcare,250.0,2023-01-11,United States
+Jumio,Security,100.0,2023-01-11,United States
+CoinDCX,Crypto,80.0,2023-01-11,India
+HashiCorp,Security,69.0,2023-01-11,United States
+Informatica,Data,450.0,2023-01-10,United States
+100 Thieves,Retail,,2023-01-10,United States
+Coinbase,Crypto,950.0,2023-01-10,United States
+WHOOP,Fitness,,2023-01-10,United States
+Esper,Other,,2023-01-10,United States
+Blend,Finance,340.0,2023-01-10,United States
+Cart.com,Retail,,2023-01-10,United States
+Beamery,HR,,2023-01-10,United Kingdom
+Citrix,Infrastructure,,2023-01-10,United States
+Cart.com,Retail,25.0,2023-01-10,United States
+Thinkific,Education,76.0,2023-01-10,Canada
+Relevel,HR,40.0,2023-01-10,India
+GoBolt,Logistics,55.0,2023-01-10,Canada
+Parler,Consumer,60.0,2023-01-10,United States
+LEAD,Education,60.0,2023-01-10,India
+Till Payments,Finance,120.0,2023-01-10,Australia
+ConsenSys,Crypto,100.0,2023-01-10,United States
+ForeScout,Security,100.0,2023-01-10,Israel
+StreamElements,Media,40.0,2023-01-10,Israel
+Scale AI,Data,,2023-01-09,United States
+Editas Medicine,Healthcare,,2023-01-09,United States
+Century Therapeutics,Healthcare,,2023-01-09,United States
+Fate Therapeutics,Healthcare,315.0,2023-01-09,United States
+WalkMe,Other,43.0,2023-01-08,United States
+Minute Media,Media,50.0,2023-01-08,United Kingdom
+Integrate,Marketing,,2023-01-07,United States
+SuperRare,Crypto,,2023-01-06,United States
+Mojo Vision,Hardware,,2023-01-06,United States
+Lantern,Retail,,2023-01-06,United States
+CreateMe,Manufacturing,,2023-01-06,United States
+CareerArc,HR,,2023-01-06,United States
+Huobi,Crypto,275.0,2023-01-06,China
+Carbon Health,Healthcare,200.0,2023-01-06,United States
+Bounce,Transportation,40.0,2023-01-06,India
+Aware,Security,,2023-01-06,United States
+Moglix,Retail,40.0,2023-01-05,Singapore
+Genesis,Crypto,60.0,2023-01-05,United States
+Cue,Healthcare,388.0,2023-01-05,United States
+SoundHound,Other,200.0,2023-01-05,United States
+Socure,Finance,104.0,2023-01-05,United States
+Twitter,Consumer,40.0,2023-01-05,United States
+TCR2,Healthcare,,2023-01-05,United States
+Stitch Fix,Retail,,2023-01-05,United States
+Megaport,Infrastructure,,2023-01-05,Australia
+Compass,Real Estate,,2023-01-05,United States
+Attentive,Marketing,,2023-01-05,United States
+UpScalio,Retail,25.0,2023-01-05,India
+Twine Solutions ,Hardware,30.0,2023-01-05,Israel
+Personetics,Support,30.0,2023-01-05,United States
+Pecan AI,Data,30.0,2023-01-05,Israel
+Everlane,Retail,30.0,2023-01-05,United States
+Salesforce,Sales,8000.0,2023-01-04,United States
+Astronomer,Data,76.0,2023-01-04,United States
+Kaltura,Media,75.0,2023-01-04,United States
+Augury,Manufacturing,20.0,2023-01-04,United States
+Butterfly Network,Healthcare,,2023-01-04,United States
+Vimeo,Consumer,,2023-01-04,United States
+Wyre,Crypto,,2023-01-04,United States
+Amazon,Retail,8000.0,2023-01-04,United States
+Harappa,Education,60.0,2023-01-03,India
+Bytedance,Consumer,,2023-01-03,China
+Uniphore,Support,76.0,2023-01-03,United States
+Pegasystems,HR,245.0,2023-01-03,United States
+Amdocs,Support,700.0,2023-01-02,United States
+Graphcore,Hardware,,2023-01-01,China
+Micron,Hardware,4800.0,2023-01-01,United States
+Ezoic,Infrastructure,35.0,2022-12-31,United States
+Gousto,Food,,2022-12-31,United Kingdom
+Mara,Crypto,,2022-12-31,Kenya
+Octopus Network,Crypto,,2022-12-27,Seychelles
+Bilibili,Media,,2022-12-27,China
+PayU,Finance,150.0,2022-12-26,Netherlands
+Element,Other,,2022-12-25,United Kingdom
+Willow,Real Estate,99.0,2022-12-23,Australia
+Back Market,Retail,93.0,2022-12-23,France
+Zoopla,Real Estate,50.0,2022-12-23,United Kingdom
+Qualcomm,Hardware,153.0,2022-12-22,United States
+TuSimple,Transportation,350.0,2022-12-21,United States
+Lendis,Other,,2022-12-21,Germany
+Zhihu,Consumer,,2022-12-20,China
+StreetBees,Data,,2022-12-20,United Kingdom
+Briza,Finance,26.0,2022-12-20,Canada
+Chope,Food,65.0,2022-12-20,Singapore
+Health IQ,Healthcare,,2022-12-19,United States
+Homebot,Real Estate,18.0,2022-12-19,United States
+YourGrocer,Food,,2022-12-19,Australia
+Xiaomi,Consumer,,2022-12-19,China
+Tomorrow,Finance,30.0,2022-12-16,Germany
+Revelate,Data,24.0,2022-12-16,Canada
+ E Inc.,Transportation,,2022-12-16,Canada
+Autograph,Crypto,,2022-12-16,United States
+FreshBooks,Finance,,2022-12-16,Canada
+Improbable,Other,,2022-12-16,United Kingdom
+Modern Treasury,Finance,,2022-12-16,United States
+Reach,Retail,,2022-12-16,Canada
+SonderMind,Healthcare,,2022-12-16,United States
+BigCommerce,Retail,180.0,2022-12-15,United States
+Apollo,Product,,2022-12-15,United States
+Freshworks,Support,90.0,2022-12-15,United States
+LeafLink,Other,80.0,2022-12-15,United States
+Workmotion,HR,60.0,2022-12-15,Germany
+JD.ID,Retail,200.0,2022-12-14,Indonesia
+Quanergy Systems,Transportation,72.0,2022-12-14,United States
+Headspace,Healthcare,50.0,2022-12-14,United States
+ChowNow,Food,40.0,2022-12-14,United States
+Landing,Real Estate,,2022-12-14,United States
+GoStudent,Education,100.0,2022-12-14,Austria
+Thumbtack,Consumer,160.0,2022-12-13,United States
+Edgio,Infrastructure,95.0,2022-12-13,United States
+Komodo Health,Healthcare,78.0,2022-12-13,United States
+Viant,Marketing,46.0,2022-12-13,United States
+TaxBit,Crypto,,2022-12-13,United States
+Balto,Sales,35.0,2022-12-12,United States
+Caribou,Finance,,2022-12-12,United States
+Freshly,Food,329.0,2022-12-12,United States
+Pluralsight,Education,400.0,2022-12-12,United States
+Xentral,Product,20.0,2022-12-10,Germany
+Autobooks,Finance,,2022-12-10,United States
+Convene,Real Estate,,2022-12-10,United States
+PharmEasy,Healthcare,,2022-12-10,India
+Outschool,Education,43.0,2022-12-10,United States
+ZenLedger,Crypto,,2022-12-09,United States
+N-able Technologies,Other,,2022-12-09,United States
+Digital Surge,Crypto,,2022-12-09,Australia
+Brodmann17,Other,,2022-12-09,Israel
+C2FO,Finance,20.0,2022-12-09,United States
+OneFootball,Marketing,62.0,2022-12-09,Germany
+Playtika,Consumer,600.0,2022-12-09,Israel
+Bol.com,Retail,300.0,2022-12-09,Netherlands
+Share Now,Transportation,150.0,2022-12-09,Germany
+Alice,Healthcare,113.0,2022-12-09,Brazil
+Primer,Finance,85.0,2022-12-09,United Kingdom
+BlackLine,Finance,95.0,2022-12-08,United States
+FireHydrant,Infrastructure,,2022-12-08,United States
+Glints,HR,198.0,2022-12-08,Singapore
+Swiggy,Food,250.0,2022-12-08,India
+Buser,Transportation,160.0,2022-12-08,Brazil
+Airtable,Product,254.0,2022-12-08,United States
+Vanta,Security,,2022-12-08,United States
+Nerdy,Education,,2022-12-08,United States
+Lenovo,Hardware,,2022-12-08,United States
+Chrono24,Retail,80.0,2022-12-08,Germany
+Blue Apron,Food,,2022-12-08,United States
+Armis,Security,25.0,2022-12-08,United States
+Otonomo,Transportation,80.0,2022-12-08,Israel
+TechTarget,Marketing,60.0,2022-12-08,United States
+Inscripta,Healthcare,43.0,2022-12-08,United States
+CyCognito,Security,30.0,2022-12-08,United States
+Bakkt,Crypto,,2022-12-08,United States
+Lev,Real Estate,30.0,2022-12-07,United States
+Zywave,Finance,,2022-12-07,United States
+Sayurbox,Food,,2022-12-07,Indonesia
+Detectify,Security,,2022-12-07,Sweden
+CircleCI,Product,,2022-12-07,United States
+Lithic,Finance,27.0,2022-12-07,United States
+Grover,Retail,40.0,2022-12-07,Germany
+Houzz,Consumer,95.0,2022-12-07,United States
+Integral Ad Science,Marketing,120.0,2022-12-07,United States
+Voi,Transportation,130.0,2022-12-07,Sweden
+Relativity,Legal,150.0,2022-12-07,United States
+Recur Forever,Crypto,235.0,2022-12-07,United States
+Motive,Transportation,237.0,2022-12-07,United States
+Plaid,Finance,260.0,2022-12-07,United States
+Loft,Real Estate,312.0,2022-12-07,Brazil
+Vedantu,Education,385.0,2022-12-07,India
+Filevine,Legal,,2022-12-06,United States
+Zuora,Finance,,2022-12-06,United States
+OneStudyTeam,Healthcare,,2022-12-06,United States
+Nextiva,Other,,2022-12-06,United States
+Moove,Transportation,,2022-12-06,Nigeria
+Koinly,Crypto,16.0,2022-12-06,United Kingdom
+Bridgit,Construction,13.0,2022-12-06,Canada
+Adobe,Marketing,100.0,2022-12-06,United States
+Perimeter 81,Security,20.0,2022-12-06,Israel
+Stash,Finance,32.0,2022-12-06,United States
+Chipper Cash,Finance,50.0,2022-12-06,United States
+Doma,Finance,515.0,2022-12-06,United States
+Intel,Hardware,201.0,2022-12-06,United States
+BuzzFeed,Media,180.0,2022-12-06,United States
+Weedmaps,Other,175.0,2022-12-06,United States
+Swyftx,Crypto,90.0,2022-12-05,Australia
+Aqua Security,Security,65.0,2022-12-05,United States
+DataRails,Finance,30.0,2022-12-05,Israel
+Elemy,Healthcare,,2022-12-05,United States
+Route,Retail,,2022-12-05,United States
+Thinkific,Education,,2022-12-05,Canada
+Bybit,Crypto,,2022-12-03,Singapore
+HealthifyMe,Fitness,150.0,2022-12-03,India
+OYO,Travel,600.0,2022-12-03,India
+Polly,Finance,47.0,2022-12-02,United States
+Homebound,Real Estate,,2022-12-02,United States
+Lora DiCarlo,Consumer,,2022-12-02,United States
+ShareChat,Consumer,100.0,2022-12-02,India
+Cognyte,Security,100.0,2022-12-02,Israel
+Strava,Fitness,,2022-12-01,United States
+Yapily,Finance,,2022-12-01,United Kingdom
+Synlogic,Healthcare,,2022-12-01,United States
+Podium,Support,,2022-12-01,United States
+SQZ Biotech,Healthcare,,2022-12-01,United States
+Springbig,Sales,37.0,2022-12-01,United States
+Carousell,Retail,110.0,2022-12-01,Singapore
+Bizzabo,Marketing,100.0,2022-12-01,United States
+BloomTech,Education,88.0,2022-12-01,United States
+Netlify,Product,48.0,2022-12-01,United States
+Nexar,Transportation,25.0,2022-11-30,United States
+Venafi,Security,,2022-11-30,United States
+Sana,Healthcare,,2022-11-30,United States
+Pinterest,Consumer,,2022-11-30,United States
+Motional,Transportation,,2022-11-30,United States
+Elastic,Data,,2022-11-30,United States
+DoorDash,Food,1250.0,2022-11-30,United States
+Thread,Retail,30.0,2022-11-30,United Kingdom
+Teachmint,Education,45.0,2022-11-30,India
+Ualá,Finance,53.0,2022-11-30,Argentina
+Grin,Marketing,60.0,2022-11-30,United States
+StudySmarter,Education,70.0,2022-11-30,Germany
+Wonder,Food,130.0,2022-11-30,United States
+Ula,Retail,134.0,2022-11-30,Indonesia
+Happy Money,Finance,158.0,2022-11-30,United States
+Kraken,Crypto,1100.0,2022-11-30,United States
+Etermax,Other,40.0,2022-11-30,Argentina
+MessageBird,Other,,2022-11-29,Netherlands
+Proton.ai,Sales,,2022-11-29,United States
+Plerk,Finance,,2022-11-29,Mexico
+Lazerpay,Crypto,,2022-11-29,Nigeria
+Firework,Retail,,2022-11-29,United States
+Codexis,Healthcare,,2022-11-29,United States
+Bitfront,Crypto,,2022-11-29,United States
+CoinJar,Crypto,10.0,2022-11-29,Australia
+Lyst,Retail,50.0,2022-11-29,United Kingdom
+Bitso,Crypto,100.0,2022-11-29,Mexico
+Spora Health,Healthcare,,2022-11-28,United States
+NCX,Energy,,2022-11-28,United States
+Ledn,Crypto,,2022-11-28,Canada
+Inspectify,Real Estate,,2022-11-28,United States
+FutureLearn,Education,,2022-11-28,United Kingdom
+BlockFi,Crypto,,2022-11-28,United States
+ResearchGate,Other,25.0,2022-11-28,Germany
+Infarm,Other,500.0,2022-11-28,Germany
+Hirect,Recruiting,200.0,2022-11-28,India
+ApplyBoard,Education,90.0,2022-11-28,Canada
+Wildlife Studios,Consumer,300.0,2022-11-28,Brazil
+Candy Digital,Crypto,33.0,2022-11-28,United States
+Ajaib,Finance,67.0,2022-11-28,Indonesia
+Change Invest,Finance,,2022-11-27,Netherlands
+Zilch,Finance,,2022-11-26,United Kingdom
+VerSe Innovation,Media,150.0,2022-11-25,India
+Carwow,Transportation,70.0,2022-11-25,United Kingdom
+Vendease,Food,27.0,2022-11-25,Nigeria
+Menulog,Food,,2022-11-24,Australia
+Utopia Music,Media,,2022-11-24,Switzerland
+Quidax,Crypto,20.0,2022-11-24,Nigeria
+Lemon,Crypto,100.0,2022-11-24,Argentina
+Assure,Finance,,2022-11-23,United States
+Muni Tienda,Other,,2022-11-23,Colombia
+SWVL,Transportation,,2022-11-23,Egypt
+GoodGood,Retail,,2022-11-23,Canada
+Rapyd,Finance,,2022-11-22,Israel
+Reynen Court,Legal,,2022-11-22,Netherlands
+Natera,Healthcare,,2022-11-22,United States
+Flash Coffee,Food,,2022-11-22,Singapore
+Trax,Retail,80.0,2022-11-22,Singapore
+Western Digital,Hardware,251.0,2022-11-22,United States
+Movidesk,Support,118.0,2022-11-22,Brazil
+SIRCLO,Retail,160.0,2022-11-22,Indonesia
+Jumia,Retail,900.0,2022-11-21,Nigeria
+GloriFi,Finance,,2022-11-21,United States
+Devo,Security,,2022-11-21,United States
+Kitopi,Food,93.0,2022-11-21,UAE
+Zomato,Food,100.0,2022-11-19,India
+Ruangguru,Education,,2022-11-18,Indonesia
+Carvana,Transportation,1500.0,2022-11-18,United States
+Unchained Capital,Crypto,,2022-11-18,United States
+StoryBlocks,Media,,2022-11-18,United States
+Metaplex,Crypto,,2022-11-18,United States
+Kavak,Transportation,,2022-11-18,Brazil
+Capitolis,Finance,,2022-11-18,United States
+Splyt,Transportation,57.0,2022-11-18,United Kingdom
+Synthego,Healthcare,105.0,2022-11-18,United States
+Nuro,Transportation,300.0,2022-11-18,United States
+&Open,Marketing,9.0,2022-11-17,Ireland
+Symend,Other,,2022-11-17,Canada
+Morning Brew,Media,,2022-11-17,United States
+Kandji,Other,,2022-11-17,United States
+Capitolis,Finance,37.0,2022-11-17,United States
+Koho,Finance,15.0,2022-11-17,Canada
+TealBook,Other,34.0,2022-11-17,Canada
+Chili Piper,Sales,58.0,2022-11-17,United States
+Juni,Finance,72.0,2022-11-17,Sweden
+Homepoint,Real Estate,113.0,2022-11-17,United States
+Orchard,Real Estate,180.0,2022-11-17,United States
+Roku,Media,200.0,2022-11-17,United States
+Dance,Transportation,,2022-11-16,Germany
+Kite,Product,,2022-11-16,United States
+Infogrid,Other,,2022-11-16,United Kingdom
+Hopin,Other,,2022-11-16,United Kingdom
+Homeward,Real Estate,,2022-11-16,United States
+Cisco,Infrastructure,4100.0,2022-11-16,United States
+D2L,Education,,2022-11-16,Canada
+Pear Therapeutics,Healthcare,59.0,2022-11-16,United States
+Yotpo,Marketing,70.0,2022-11-16,United States
+Lokalise,Other,76.0,2022-11-16,United States
+Salsify,Retail,90.0,2022-11-16,United States
+Similarweb,Other,120.0,2022-11-16,United States
+Wayflyer,Marketing,200.0,2022-11-16,Ireland
+Twiga,Food,211.0,2022-11-16,Kenya
+Amazon,Retail,10000.0,2022-11-16,United States
+Nirvana Money,Finance,,2022-11-15,United States
+Typeform,Marketing,,2022-11-15,Spain
+Tencent,Consumer,,2022-11-15,China
+Rubicon Technologies,Other,,2022-11-15,United States
+Outside,Media,,2022-11-15,United States
+OfferUp,Retail,,2022-11-15,United States
+Oatly,Food,,2022-11-15,Sweden
+Whispir,Other,,2022-11-15,Australia
+Apollo Insurance,Finance,,2022-11-15,Canada
+Productboard,Product,100.0,2022-11-15,United States
+CaptivateIQ,Sales,31.0,2022-11-15,United States
+OwnBackup,Security,170.0,2022-11-15,United States
+Asana,Other,180.0,2022-11-15,United States
+Deliveroo Australia,Food,120.0,2022-11-15,Australia
+UiPath,Data,241.0,2022-11-15,United States
+Properly,Real Estate,71.0,2022-11-15,Canada
+Protocol,Media,60.0,2022-11-15,United States
+Jimdo,Other,50.0,2022-11-15,Germany
+The Zebra,Finance,50.0,2022-11-15,United States
+Viber,Consumer,45.0,2022-11-15,Luxembourg
+Cloudinary,Media,40.0,2022-11-14,United States
+Tricida,Healthcare,,2022-11-14,United States
+Shopee,Food,,2022-11-14,Indonesia
+Gokada,Transportation,20.0,2022-11-14,Nigeria
+Nestcoin,Crypto,30.0,2022-11-14,Nigeria
+Sema4,Healthcare,500.0,2022-11-14,United States
+Cardlytics,Marketing,51.0,2022-11-14,United States
+iFit,Fitness,300.0,2022-11-14,United States
+Pipedrive,Sales,143.0,2022-11-14,Estonia
+Pear Therapeutics,Healthcare,59.0,2022-11-14,United States
+Ribbon,Real Estate,170.0,2022-11-14,United States
+Illumina,Healthcare,500.0,2022-11-14,United States
+Intercom,Support,124.0,2022-11-14,United States
+Science 37 ,Healthcare,90.0,2022-11-14,United States
+Chipax,Finance,,2022-11-11,Chile
+Juniper,Marketing,,2022-11-11,United States
+Offerpad,Real Estate,,2022-11-11,United States
+Forto,Logistics,60.0,2022-11-11,Germany
+Veev,Real Estate,100.0,2022-11-11,United States
+Reforge,Education,,2022-11-10,United States
+ZenBusiness,Other,,2022-11-10,United States
+Wavely,HR,,2022-11-10,United States
+Voly,Food,,2022-11-10,Australia
+SendCloud,Logistics,,2022-11-10,Netherlands
+Ocavu,Crypto,20.0,2022-11-10,United States
+Avast,Security,,2022-11-10,United States
+SoundHound,Other,45.0,2022-11-10,United States
+Coinbase,Crypto,60.0,2022-11-10,United States
+GoTo Group,Transportation,1300.0,2022-11-10,Indonesia
+Juul,Consumer,400.0,2022-11-10,United States
+InfluxData,Data,65.0,2022-11-10,United States
+Blend,Finance,100.0,2022-11-10,United States
+Wistia,Marketing,40.0,2022-11-10,United States
+Namogoo,Marketing,25.0,2022-11-09,Israel
+Spotify,Media,,2022-11-09,Sweden
+RingCentral,Other,,2022-11-09,United States
+Faze Medicines,Healthcare,,2022-11-09,United States
+Coursera,Education,,2022-11-09,United States
+Amobee,Marketing,,2022-11-09,United States
+CloudFactory,Data,,2022-11-09,Kenya
+HighRadius,Finance,25.0,2022-11-09,India
+Kabam,Consumer,35.0,2022-11-09,United States
+Meta,Consumer,11000.0,2022-11-09,United States
+Redfin,Real Estate,862.0,2022-11-09,United States
+AvantStay,Travel,144.0,2022-11-09,United States
+Flyhomes,Real Estate,300.0,2022-11-09,United States
+Root Insurance,Finance,137.0,2022-11-09,United States
+Liftoff,Marketing,130.0,2022-11-09,United States
+Cameo,Consumer,80.0,2022-11-09,United States
+Plum,Healthcare,36.0,2022-11-09,India
+EverBridge,Other,200.0,2022-11-08,United States
+Repertoire Immune Medicines,Healthcare,65.0,2022-11-08,United States
+Beat,Transportation,,2022-11-08,Greece
+NanoString,Healthcare,,2022-11-08,United States
+SADA,Other,,2022-11-08,United States
+Astra,Aerospace,,2022-11-08,United States
+Domino Data Lab,Data,,2022-11-07,United States
+Code42,Security,,2022-11-07,United States
+Salesforce,Sales,1000.0,2022-11-07,United States
+Unacademy,Education,350.0,2022-11-07,India
+Zendesk,Support,350.0,2022-11-07,United States
+Dock,Finance,190.0,2022-11-07,Brazil
+Brainly,Education,25.0,2022-11-06,Poland
+Varonis,Security,110.0,2022-11-06,United States
+Practically,Education,,2022-11-06,India
+KoinWorks,Finance,70.0,2022-11-04,Indonesia
+Udaan,Retail,350.0,2022-11-04,India
+Twitter,Consumer,3700.0,2022-11-04,United States
+Planetly,Other,200.0,2022-11-04,Germany
+Exodus,Crypto,59.0,2022-11-04,United States
+Mythical Games,Crypto,,2022-11-04,United States
+Benitago Group,Retail,,2022-11-04,United States
+LendingTree,Finance,200.0,2022-11-03,United States
+Rubius,Healthcare,,2022-11-03,United States
+Stripe,Finance,1000.0,2022-11-03,United States
+Lyft,Transportation,700.0,2022-11-03,United States
+Studio,Education,,2022-11-03,United States
+Snapdocs,Real Estate,,2022-11-03,United States
+Pleo,Finance,150.0,2022-11-03,Denmark
+Provi,Food,,2022-11-03,United States
+LiveRamp,Marketing,,2022-11-03,United States
+Affirm,Finance,,2022-11-03,United States
+Shippo,Logistics,60.0,2022-11-03,United States
+Delivery Hero,Food,100.0,2022-11-03,Germany
+CloudKitchens,Real Estate,,2022-11-03,United States
+Checkmarx,Security,100.0,2022-11-02,Israel
+Opendoor,Real Estate,550.0,2022-11-02,United States
+Smava,Finance,100.0,2022-11-02,Germany
+Chargebee,Finance,142.0,2022-11-02,United States
+Chime,Finance,156.0,2022-11-02,United States
+Dapper Labs,Crypto,134.0,2022-11-02,Canada
+Signicat,Security,,2022-11-02,Norway
+BitMEX,Crypto,,2022-11-02,Seychelles
+Digital Currency Gruop,Crypto,10.0,2022-11-02,United States
+Iron Ox,Food,50.0,2022-11-02,United States
+Argo AI,Transportation,259.0,2022-11-01,United States
+Booking.com,Travel,226.0,2022-11-01,United States
+Oracle,Other,200.0,2022-11-01,United States
+Upstart,Finance,140.0,2022-11-01,United States
+Gem,Recruiting,100.0,2022-11-01,United States
+Hootsuite,Marketing,50.0,2022-11-01,Canada
+Drop,Marketing,24.0,2022-11-01,Canada
+Tapps Games,Consumer,10.0,2022-11-01,Brazil
+Brightline,Healthcare,,2022-11-01,United States
+Help Scout,Support,,2022-11-01,United States
+Oda,Food,70.0,2022-11-01,Sweden
+Doubtnut,Education,,2022-10-31,India
+Dukaan,Retail,23.0,2022-10-31,India
+Equitybee,Finance,25.0,2022-10-31,United States
+Kry,Healthcare,300.0,2022-10-31,Sweden
+Notarize,Legal,60.0,2022-10-31,United States
+EquityZen,Finance,30.0,2022-10-31,United States
+Amazon,Retail,150.0,2022-10-28,United States
+Fifth Season,Food,100.0,2022-10-28,United States
+Advata,Healthcare,32.0,2022-10-28,United States
+Springlane,Food,,2022-10-28,Germany
+Lattice,HR,13.0,2022-10-27,United States
+Spreetail,Retail,,2022-10-27,United States
+RenoRun,Construction,210.0,2022-10-27,Canada
+Recharge,Finance,84.0,2022-10-27,United States
+GoNuts,Media,,2022-10-27,India
+GoFundMe,Finance,94.0,2022-10-26,United States
+Carbon,Hardware,,2022-10-26,United States
+Argo AI,Transportation,173.0,2022-10-26,United States
+Zillow,Real Estate,300.0,2022-10-26,United States
+MindBody,Fitness,400.0,2022-10-26,United States
+Seagate,Hardware,3000.0,2022-10-26,United States
+Cybereason,Security,200.0,2022-10-26,United States
+Fundbox,Finance,150.0,2022-10-25,United States
+Embroker,Finance,30.0,2022-10-25,United States
+Vee,HR,17.0,2022-10-25,Israel
+Callisto Media,Media,,2022-10-25,United States
+Convoy,Logistics,,2022-10-25,United States
+Unico,Other,50.0,2022-10-24,Brazil
+Philips,Healthcare,4000.0,2022-10-24,Netherlands
+Cerebral,Healthcare,400.0,2022-10-24,United States
+Snyk,Security,198.0,2022-10-24,United States
+McMakler,Real Estate,100.0,2022-10-24,Germany
+OrCam,Healthcare,62.0,2022-10-23,Israel
+Antidote Health,Healthcare,23.0,2022-10-23,Israel
+Elinvar,Finance,43.0,2022-10-21,Germany
+Volta,Transportation,,2022-10-21,United States
+Synapsica,Healthcare,30.0,2022-10-21,India
+F5,Security,100.0,2022-10-21,United States
+Khoros,Sales,120.0,2022-10-21,United States
+Starry,Other,,2022-10-20,United States
+Zeus Living,Real Estate,64.0,2022-10-20,United States
+Hotmart,Marketing,227.0,2022-10-20,Brazil
+Loom,Product,23.0,2022-10-20,United States
+Sales Boomerang,Sales,20.0,2022-10-20,United States
+Arrival,Transportation,,2022-10-20,United Kingdom
+Roofstock,Real Estate,,2022-10-20,United States
+Gopuff,Food,250.0,2022-10-19,United States
+AtoB,Finance,32.0,2022-10-19,United States
+Side,Real Estate,,2022-10-19,United States
+Collibra,Data,,2022-10-19,Belgium
+Clever Real Estate,Real Estate,,2022-10-19,United States
+InfoSum,Security,20.0,2022-10-19,United Kingdom
+Leafly,Retail,56.0,2022-10-18,United States
+Faire,Retail,84.0,2022-10-18,United States
+Ada Health,Healthcare,50.0,2022-10-17,Germany
+Microsoft,Other,,2022-10-17,United States
+Nuri,Crypto,,2022-10-17,Germany
+Tiendanube,Marketing,50.0,2022-10-17,Argentina
+Flipboard,Media,24.0,2022-10-16,United States
+Huawei,Hardware,,2022-10-16,China
+Qin1,Education,,2022-10-14,India
+Clear Capital,Real Estate,378.0,2022-10-14,United States
+Beyond Meat,Food,200.0,2022-10-14,United States
+Flux Systems,Finance,,2022-10-14,United Kingdom
+Playdots,Consumer,65.0,2022-10-13,United States
+ExtraHop,Security,,2022-10-13,United States
+Salesforce,Sales,90.0,2022-10-13,United States
+Byju's,Education,2500.0,2022-10-12,India
+6sense,Sales,150.0,2022-10-12,United States
+Sinch,Other,150.0,2022-10-12,Sweden
+FrontRow,Education,130.0,2022-10-12,India
+MX,Finance,200.0,2022-10-11,United States
+GSR,Crypto,,2022-10-11,Hong Kong
+Brex,Finance,136.0,2022-10-11,United States
+Noom,Healthcare,500.0,2022-10-11,United States
+VanHack,HR,,2022-10-11,Canada
+Emitwise,Energy,,2022-10-11,United Kingdom
+Linkfire,Marketing,35.0,2022-10-11,Denmark
+Udacity,Education,55.0,2022-10-11,United States
+Sketch,Other,80.0,2022-10-11,Netherlands
+Pacaso,Real Estate,100.0,2022-10-11,United States
+HelloFresh,Food,611.0,2022-10-10,United States
+SurveyMonkey,Marketing,180.0,2022-10-10,United States
+Redesign Health,Healthcare,67.0,2022-10-10,United States
+Nyriad,Infrastructure,,2022-10-10,United States
+Pavilion Data,Infrastructure,96.0,2022-10-10,United States
+Collage.com,Retail,,2022-10-09,United States
+BioMarin,Healthcare,120.0,2022-10-07,United States
+Rev.com,Data,85.0,2022-10-07,United States
+Foresight Insurance,Finance,,2022-10-06,United States
+Spotify,Media,,2022-10-06,Sweden
+Atome,Finance,,2022-10-06,Singapore
+First AML,Finance,,2022-10-06,New Zealand
+Impossible Foods,Food,50.0,2022-10-06,United States
+Crypto.com,Crypto,2000.0,2022-10-06,Singapore
+Peloton,Fitness,500.0,2022-10-06,United States
+Turnitin,Education,51.0,2022-10-06,United States
+Landing,Real Estate,110.0,2022-10-06,United States
+Built In,Recruiting,50.0,2022-10-05,United States
+TwinStrand,Healthcare,,2022-10-05,United States
+Homie,Real Estate,40.0,2022-10-04,United States
+Fivetran,Data,,2022-10-04,United States
+8x8,Support,200.0,2022-10-04,United States
+Zoomo,Transportation,65.0,2022-10-04,Australia
+Xendit,Finance,,2022-10-04,Indonesia
+Tempo,Fitness,,2022-10-03,United States
+ActiveCampaign,Marketing,,2022-10-03,United States
+WazirX,Crypto,60.0,2022-10-02,India
+Spin,Transportation,78.0,2022-09-30,United States
+Carsome,Transportation,,2022-09-30,Malaysia
+Pastel,Food,,2022-09-30,United States
+Truepill,Healthcare,,2022-09-30,United States
+Solarisbank,Finance,,2022-09-29,Germany
+Westwing,Retail,125.0,2022-09-29,Germany
+Mux,Infrastructure,40.0,2022-09-29,United States
+Zenjob,HR,,2022-09-29,Germany
+DocuSign,Sales,671.0,2022-09-28,United States
+Front,Support,,2022-09-28,United States
+Volta,Transportation,,2022-09-28,United States
+Divvy Homes,Real Estate,40.0,2022-09-27,United States
+Graphcore,Data,,2022-09-27,United Kingdom
+Instacart,Food,,2022-09-24,United States
+Pesto,Other,,2022-09-23,United States
+Truiloo,Security,24.0,2022-09-23,Canada
+Moss,Finance,70.0,2022-09-23,Germany
+Konfio,Finance,180.0,2022-09-23,Mexico
+Foxtrot,Food,26.0,2022-09-23,United States
+NYDIG,Crypto,110.0,2022-09-22,United States
+Klarna,Finance,100.0,2022-09-22,Sweden
+Made.com,Retail,,2022-09-22,United Kingdom
+Kitty Hawk,Aerospace,100.0,2022-09-21,United States
+Candidate Labs,HR,,2022-09-21,United States
+99,Transportation,75.0,2022-09-20,Brazil
+Ouster,Transportation,,2022-09-20,United States
+Compass,Real Estate,271.0,2022-09-20,United States
+Ada,Support,78.0,2022-09-20,Canada
+Curative,Healthcare,109.0,2022-09-20,United States
+Zappos,Retail,,2022-09-20,United States
+Ola,Transportation,200.0,2022-09-19,India
+Vesalius Therapeutics,Healthcare,29.0,2022-09-19,United States
+VideoAmp,Marketing,,2022-09-19,United States
+Shopee,Food,,2022-09-18,Indonesia
+Clear,Finance,190.0,2022-09-16,India
+TrueLayer,Finance,40.0,2022-09-16,United Kingdom
+DayTwo,Healthcare,,2022-09-15,United States
+NextRoll,Marketing,,2022-09-15,United States
+WorkRamp,HR,35.0,2022-09-15,United States
+Acast,Media,70.0,2022-09-15,Sweden
+LivePerson,Support,193.0,2022-09-15,United States
+Twilio,Other,800.0,2022-09-14,United States
+Infarm,Other,50.0,2022-09-14,Germany
+Netflix,Media,30.0,2022-09-14,United States
+Bitrise,Infrastructure,,2022-09-14,Hungary
+Pitch,Marketing,59.0,2022-09-14,Germany
+Propzy,Real Estate,,2022-09-13,Vietnam
+FullStory,Marketing,,2022-09-13,United States
+Patreon,Media,80.0,2022-09-13,United States
+Rubius,Healthcare,160.0,2022-09-13,United States
+Checkout.com,Finance,100.0,2022-09-13,United Kingdom
+Taboola,Marketing,100.0,2022-09-13,United States
+Quicko,Transportation,60.0,2022-09-12,Brazil
+Mode Analytics,Data,25.0,2022-09-12,United States
+Karbon,Other,,2022-09-12,United States
+Compete,HR,11.0,2022-09-12,Israel
+Sama,Data,,2022-09-12,United States
+Rent the Runway,Retail,,2022-09-12,United States
+SkipTheDishes,Food,350.0,2022-09-09,Canada
+Flowhub,Retail,,2022-09-09,United States
+Lido Learning,Education,,2022-09-09,India
+Brighte,Energy,58.0,2022-09-09,Australia
+DreamBox Learning,Education,,2022-09-09,United States
+CommonBond,Finance,,2022-09-09,United States
+Patreon,Media,5.0,2022-09-09,United States
+Amber Group,Crypto,,2022-09-09,Hong Kong
+Capiter,Finance,,2022-09-09,Egypt
+Pomelo Fashion,Retail,55.0,2022-09-08,Thailand
+Genome Medical,Healthcare,23.0,2022-09-08,United States
+BigBear.ai,Data,,2022-09-08,United States
+Realtor.com,Real Estate,,2022-09-08,United States
+GoStudent,Education,200.0,2022-09-08,Austria
+Firebolt,Data,,2022-09-07,Israel
+Xsight Labs,Other,,2022-09-07,Israel
+Medly,Healthcare,,2022-09-07,United States
+Intercom,Support,49.0,2022-09-07,United States
+Demandbase,Sales,27.0,2022-09-07,United States
+Pendo,Product,45.0,2022-09-07,United States
+Rupeek,Finance,50.0,2022-09-07,India
+Uber,Transportation,60.0,2022-09-07,Lithuania
+Foodpanda,Food,60.0,2022-09-07,Singapore
+Simple Feast,Food,150.0,2022-09-07,Denmark
+Medium,Media,,2022-09-06,United States
+Brave Care,Healthcare,40.0,2022-09-06,United States
+Lawgeex,Legal,30.0,2022-09-06,Israel
+Juniper Square,Real Estate,,2022-09-06,United States
+Sea,Consumer,,2022-09-02,Singapore
+Kuda,Finance,23.0,2022-09-02,Nigeria
+Alerzo,Retail,,2022-09-02,Nigeria
+Hedvig,Finance,12.0,2022-09-01,Sweden
+2TM,Crypto,100.0,2022-09-01,Brazil
+Innovaccer,Healthcare,90.0,2022-09-01,United States
+Shopify,Retail,70.0,2022-09-01,Canada
+Urban Sports Club,Fitness,55.0,2022-09-01,Germany
+Artnight,Retail,26.0,2022-08-31,Germany
+Viamo,Other,,2022-08-31,Ghana
+The Wing,Real Estate,,2022-08-31,United States
+Snap,Consumer,1280.0,2022-08-31,United States
+Snagajob,HR,,2022-08-31,United States
+Apartment List,Real Estate,29.0,2022-08-31,United States
+Koo,Consumer,40.0,2022-08-31,India
+Clari,Sales,45.0,2022-08-31,United States
+Hippo Insurance,Finance,70.0,2022-08-31,United States
+Smava,Finance,100.0,2022-08-31,Germany
+GoodRx,Healthcare,140.0,2022-08-31,United States
+TCR2,Healthcare,30.0,2022-08-31,United States
+Electric,Other,81.0,2022-08-30,United States
+Immersive Labs,Security,38.0,2022-08-30,United Kingdom
+Nate,Retail,30.0,2022-08-30,United States
+Skillz,Consumer,,2022-08-29,United States
+Meesho,Retail,300.0,2022-08-29,India
+54gene,Healthcare,95.0,2022-08-29,United States
+Fungible,Crypto,,2022-08-29,United States
+Otonomo,Transportation,,2022-08-28,Israel
+Okta,Security,24.0,2022-08-26,United States
+Zymergen,Other,80.0,2022-08-26,United States
+Argyle,Finance,20.0,2022-08-26,United States
+Better.com,Real Estate,,2022-08-26,United States
+Impact.com,Marketing,,2022-08-25,United States
+ShipBob,Logistics,,2022-08-25,United States
+FreshDirect,Food,40.0,2022-08-25,United States
+Loja Integrada,Retail,25.0,2022-08-25,Brazil
+Reali,Real Estate,140.0,2022-08-24,United States
+Loop,Finance,15.0,2022-08-24,United States
+Pix,Food,,2022-08-24,United States
+Packable,Retail,138.0,2022-08-23,United States
+Tier Mobility,Transportation,180.0,2022-08-23,Germany
+Skedulo,HR,31.0,2022-08-23,United States
+Plato,HR,29.0,2022-08-23,United States
+DataRobot,Data,,2022-08-23,United States
+Kogan,Retail,,2022-08-23,Australia
+Skillshare,Education,,2022-08-23,United States
+Q4,Other,50.0,2022-08-23,Canada
+Mr. Yum,Food,,2022-08-22,Australia
+ShopX,Retail,,2022-08-22,India
+NSO,Security,100.0,2022-08-21,Israel
+Tufin,Security,55.0,2022-08-21,United States
+Amperity,Marketing,13.0,2022-08-20,United States
+Wayfair,Retail,870.0,2022-08-19,United States
+Hodlnaut,Crypto,40.0,2022-08-19,Singapore
+Stripe,Finance,50.0,2022-08-19,United States
+Petal,Finance,,2022-08-18,United States
+Thirty Madison,Healthcare,,2022-08-18,United States
+Vendasta,Marketing,,2022-08-18,Canada
+Wheel,Healthcare,35.0,2022-08-18,United States
+New Relic,Infrastructure,110.0,2022-08-18,United States
+Malwarebytes,Security,125.0,2022-08-17,United States
+Fluke,Other,83.0,2022-08-17,Brazil
+Swyftx,Crypto,74.0,2022-08-17,Australia
+Tempo Automation,Other,54.0,2022-08-17,United States
+Genesis,Crypto,52.0,2022-08-17,United States
+Warren,Finance,50.0,2022-08-17,Brazil
+Updater,Other,,2022-08-16,United States
+Crypto.com,Crypto,,2022-08-16,Singapore
+Snapdocs,Real Estate,,2022-08-16,United States
+AlayaCare,Healthcare,80.0,2022-08-16,Canada
+Pliops,Data,12.0,2022-08-16,Israel
+Woven,HR,5.0,2022-08-16,United States
+Edmodo,Education,,2022-08-16,United States
+Blend,Finance,220.0,2022-08-15,United States
+ContraFect,Healthcare,16.0,2022-08-15,United States
+ThredUp,Retail,,2022-08-15,United States
+Sema4,Healthcare,250.0,2022-08-15,United States
+Anywell,Real Estate,11.0,2022-08-14,Israel
+Almanac,Other,,2022-08-13,United States
+Peloton,Fitness,784.0,2022-08-12,United States
+Core Scientific,Crypto,,2022-08-12,United States
+Orbit,Other,,2022-08-12,United States
+Expert360,Recruiting,7.0,2022-08-11,Australia
+Guidewire,Finance,,2022-08-11,United States
+Betterfly,Healthcare,30.0,2022-08-11,Chile
+Marketforce,Retail,54.0,2022-08-11,Kenya
+FourKites,Logistics,60.0,2022-08-11,United States
+Calm,Healthcare,90.0,2022-08-11,United States
+Truepill,Healthcare,175.0,2022-08-11,United States
+Trybe,Education,47.0,2022-08-10,Brazil
+Permutive,Marketing,30.0,2022-08-10,United Kingdom
+Homeward,Real Estate,,2022-08-10,United States
+Pollen,Marketing,,2022-08-10,United Kingdom
+Vedanta Biosciences,Healthcare,,2022-08-10,United States
+Berkeley Lights,Healthcare,,2022-08-09,United States
+Sweetgreen,Food,,2022-08-09,United States
+Shift,Transportation,,2022-08-09,United States
+Kaltura,Media,,2022-08-09,United States
+Haus,Food,,2022-08-09,United States
+DailyPay,Finance,,2022-08-09,United States
+GoHealth,Healthcare,800.0,2022-08-09,United States
+Dooly,Sales,12.0,2022-08-09,Canada
+Hootsuite,Marketing,400.0,2022-08-09,Canada
+Quanterix,Healthcare,130.0,2022-08-09,United States
+Wix,Marketing,100.0,2022-08-09,Israel
+Absci,Healthcare,40.0,2022-08-09,Canada
+Nutanix,Infrastructure,270.0,2022-08-09,United States
+MadeiraMadeira,Retail,60.0,2022-08-09,Brazil
+Melio,Finance,60.0,2022-08-09,United States
+Linktree,Consumer,50.0,2022-08-09,Australia
+Shogun,Retail,48.0,2022-08-09,United States
+Groupon,Retail,500.0,2022-08-08,United States
+Loggi,Logistics,500.0,2022-08-08,Brazil
+Vroom,Transportation,337.0,2022-08-08,United States
+Labelbox,Data,36.0,2022-08-08,United States
+Perion,Marketing,20.0,2022-08-08,Israel
+Daily Harvest,Food,,2022-08-08,United States
+DataRobot,Data,,2022-08-08,United States
+Warby Parker,Consumer,63.0,2022-08-08,United States
+iRobot,Consumer,140.0,2022-08-05,United States
+Talkdesk,Support,,2022-08-05,United States
+Slync,Logistics,,2022-08-05,United States
+Uberflip,Marketing,31.0,2022-08-05,Canada
+Mejuri,Retail,50.0,2022-08-05,Canada
+Zenius,Education,,2022-08-04,Indonesia
+Medly,Healthcare,,2022-08-04,United States
+Weedmaps,Other,,2022-08-04,United States
+StubHub,Consumer,,2022-08-04,United States
+Nomad,Finance,,2022-08-04,Brazil
+Zendesk,Support,80.0,2022-08-04,United States
+RingCentral,Support,50.0,2022-08-04,United States
+RenoRun,Construction,70.0,2022-08-04,Canada
+On Deck,Education,73.0,2022-08-04,United States
+LEAD,Education,80.0,2022-08-04,India
+Doma,Finance,250.0,2022-08-04,United States
+Article,Retail,216.0,2022-08-04,Canada
+Jam City,Consumer,200.0,2022-08-04,United States
+10X Genomics,Healthcare,100.0,2022-08-04,United States
+Talkwalker,Marketing,,2022-08-03,Luxembourg
+SoundCloud,Consumer,,2022-08-03,Germany
+Puppet,Infrastructure,,2022-08-03,United States
+CarDekho,Transportation,,2022-08-03,India
+The Org,HR,13.0,2022-08-03,United States
+Beyond Meat,Food,40.0,2022-08-03,United States
+Unbounce,Marketing,47.0,2022-08-03,Canada
+Healthcare.com,Healthcare,149.0,2022-08-03,United States
+FuboTV,Media,,2022-08-02,United States
+Butterfly Network,Healthcare,,2022-08-02,United States
+Sendy,Logistics,30.0,2022-08-02,Kenya
+Stedi,Product,23.0,2022-08-02,United States
+Glossier,Retail,19.0,2022-08-02,United States
+The Predictive Index,HR,40.0,2022-08-02,United States
+Outreach,Sales,60.0,2022-08-02,United States
+Nylas,Product,80.0,2022-08-02,United States
+Seegrid,Logistics,90.0,2022-08-02,United States
+Robinhood,Finance,713.0,2022-08-02,United States
+Latch,Security,115.0,2022-08-02,United States
+Vedantu,Education,100.0,2022-08-02,India
+Sendy,Logistics,54.0,2022-08-02,Kenya
+Whereby,Other,,2022-08-01,Norway
+Hash,Finance,58.0,2022-08-01,Brazil
+Perceptive Automata,Transportation,,2022-08-01,United States
+Classkick,Education,,2022-08-01,United States
+OnlyFans,Media,,2022-08-01,United Kingdom
+DeHaat,Food,,2022-08-01,India
+Oracle,Other,,2022-08-01,United States
+Gatherly,Marketing,,2022-07-31,United States
+Vee,HR,16.0,2022-07-31,Israel
+Metigy,Marketing,75.0,2022-07-31,Australia
+Clearco,Finance,125.0,2022-07-29,Canada
+Yabonza,Real Estate,,2022-07-29,Australia
+Imperfect Foods,Food,50.0,2022-07-29,United States
+Ola,Transportation,1000.0,2022-07-29,India
+MissFresh,Food,,2022-07-29,China
+Shelf Engine,Food,43.0,2022-07-29,United States
+Quantcast,Marketing,40.0,2022-07-29,United States
+Sherpa,Travel,22.0,2022-07-29,Canada
+CoinFLEX,Crypto,,2022-07-29,Seychelles
+Brainbase,Sales,,2022-07-28,United States
+Turntide,Energy,,2022-07-28,United States
+Tapas Media,Media,,2022-07-28,United States
+Change.org,Other,,2022-07-28,United States
+Bikayi,Retail,,2022-07-28,India
+Ribbon,Real Estate,136.0,2022-07-28,United States
+2U,Education,,2022-07-28,United States
+TextNow,Consumer,22.0,2022-07-28,Canada
+Laybuy,Finance,45.0,2022-07-28,New Zealand
+Metromile,Finance,60.0,2022-07-28,United States
+Career Karma,Education,60.0,2022-07-28,United States
+Allbirds,Retail,23.0,2022-07-28,United States
+Skai,Marketing,30.0,2022-07-27,Israel
+Rivian,Transportation,840.0,2022-07-27,United States
+Vox Media,Media,39.0,2022-07-27,United States
+Coinsquare,Crypto,30.0,2022-07-27,Canada
+Shopify,Retail,1000.0,2022-07-26,Canada
+Fiverr,Other,60.0,2022-07-26,Israel
+McMakler,Real Estate,90.0,2022-07-26,Germany
+InDebted,Finance,40.0,2022-07-26,Australia
+Outbrain,Marketing,38.0,2022-07-26,United States
+Dover,Recruiting,23.0,2022-07-26,United States
+Immutable,Crypto,20.0,2022-07-26,Australia
+Zymergen,Other,80.0,2022-07-25,United States
+Pear Therapeutics ,Healthcare,25.0,2022-07-25,United States
+ Included Health,Healthcare,,2022-07-25,United States
+Soluto,Support,120.0,2022-07-24,Israel
+Wizeline,Product,,2022-07-22,United States
+People.ai,Sales,,2022-07-22,United States
+Owlet,Healthcare,,2022-07-22,United States
+Boosted Commerce,Retail,,2022-07-22,United States
+Arete,Security,,2022-07-22,United States
+Quanto,Finance,28.0,2022-07-22,Brazil
+Workstream,HR,45.0,2022-07-22,United States
+Eucalyptus,Healthcare,50.0,2022-07-22,Australia
+Clarify Health,Healthcare,15.0,2022-07-22,United States
+Catalyst,Support,,2022-07-21,United States
+Mural,Product,,2022-07-21,United States
+InVision,Product,,2022-07-21,United States
+Smarsh,Other,,2022-07-21,United States
+98point6,Healthcare,,2022-07-21,United States
+Lunchbox,Food,60.0,2022-07-21,United States
+Blockchain.com,Crypto,150.0,2022-07-21,United Kingdom
+Callisto Media,Media,140.0,2022-07-21,United States
+AppGate,Security,130.0,2022-07-21,United States
+RealSelf,Healthcare,11.0,2022-07-21,United States
+WHOOP,Fitness,95.0,2022-07-21,United States
+Rad Power Bikes,Transportation,63.0,2022-07-21,United States
+Varo,Finance,75.0,2022-07-20,United States
+Arc,HR,13.0,2022-07-20,United States
+Just Eat Takeaway,Food,390.0,2022-07-20,Netherlands
+BlueStacks,Other,60.0,2022-07-20,United States
+Flyhomes,Real Estate,200.0,2022-07-20,United States
+Forma.ai,Sales,15.0,2022-07-20,Canada
+Splice,Media,23.0,2022-07-20,United States
+Lyft,Transportation,60.0,2022-07-20,United States
+Introhive,Sales,57.0,2022-07-20,Canada
+Zencity,Other,30.0,2022-07-20,Israel
+Invitae,Healthcare,1000.0,2022-07-19,United States
+Capsule,Healthcare,,2022-07-19,United States
+Stint,HR,28.0,2022-07-19,United Kingdom
+SellerX,Retail,28.0,2022-07-19,Germany
+M1,Finance,38.0,2022-07-19,United States
+Olive,Healthcare,450.0,2022-07-19,United States
+PACT Pharma,Healthcare,94.0,2022-07-18,United States
+Gemini,Crypto,68.0,2022-07-18,United States
+Elemy,Healthcare,,2022-07-18,United States
+Freshly,Food,,2022-07-18,United States
+Hydrow,Fitness,,2022-07-18,United States
+TikTok,Consumer,,2022-07-18,United States
+Vimeo,Consumer,,2022-07-18,United States
+Lusha,Marketing,30.0,2022-07-18,United States
+Aspire,Marketing,23.0,2022-07-15,United States
+Bright Money,Finance,100.0,2022-07-15,India
+Project44,Logistics,63.0,2022-07-15,United States
+Heroes,Retail,24.0,2022-07-15,United Kingdom
+StyleSeat,Consumer,,2022-07-15,United States
+Zego,Finance,85.0,2022-07-14,United Kingdom
+OpenSea,Crypto,,2022-07-14,United States
+The Mom Project,HR,54.0,2022-07-14,United States
+Cosuno,Construction,,2022-07-14,Germany
+Unstoppable Domains,Crypto,42.0,2022-07-14,United States
+Kiavi,Real Estate,39.0,2022-07-14,United States
+Alto Pharmacy,Healthcare,,2022-07-14,United States
+Wave,Finance,300.0,2022-07-13,Senegal
+Tonal,Fitness,262.0,2022-07-13,United States
+Papa,Other,,2022-07-13,United States
+CircleUp,Finance,,2022-07-13,United States
+Arrival,Transportation,,2022-07-13,United Kingdom
+Nuro,Transportation,7.0,2022-07-13,United States
+100 Thieves,Consumer,12.0,2022-07-13,United States
+Involves,Retail,70.0,2022-07-13,Brazil
+ChowNow,Food,100.0,2022-07-13,United States
+Bryter,Product,100.0,2022-07-13,Germany
+Fabric,Logistics,120.0,2022-07-13,United States
+Fraazo,Food,150.0,2022-07-12,India
+Babylon,Healthcare,100.0,2022-07-12,United Kingdom
+Hubilo,Marketing,45.0,2022-07-12,United States
+Airlift,Logistics,,2022-07-12,Pakistan
+Microsoft,Other,,2022-07-12,United States
+Spring,Retail,,2022-07-12,United States
+Gopuff,Food,1500.0,2022-07-12,United States
+Ignite,Crypto,,2022-07-11,United States
+Forward,Healthcare,,2022-07-11,United States
+Apeel Sciences,Food,,2022-07-11,United States
+Hopin,Other,242.0,2022-07-11,United Kingdom
+Alice,Healthcare,63.0,2022-07-11,Brazil
+SundaySky,Marketing,24.0,2022-07-11,United States
+Nextbite,Food,,2022-07-09,United States
+PuduTech,Other,1500.0,2022-07-08,China
+NextRoll,Marketing,,2022-07-08,United States
+Calibrate,Healthcare,156.0,2022-07-08,United States
+Butler Hospitality,Food,1000.0,2022-07-08,United States
+Next Insurance,Finance,150.0,2022-07-07,United States
+Adwerx,Marketing,40.0,2022-07-07,United States
+Argo AI,Transportation,150.0,2022-07-07,United States
+Emotive,Marketing,30.0,2022-07-07,United States
+Twitter,Consumer,,2022-07-07,United States
+Cedar,Healthcare,,2022-07-07,United States
+Shopify,Retail,50.0,2022-07-06,Canada
+Remote,HR,100.0,2022-07-06,United States
+Anodot,Data,35.0,2022-07-06,Israel
+SQream,Data,30.0,2022-07-06,United States
+Anodot,Data,15.0,2022-07-06,Israel
+Motif Foodworks,Food,,2022-07-06,United States
+Syte,Retail,13.0,2022-07-05,Israel
+Loft,Real Estate,384.0,2022-07-05,Brazil
+eToro,Finance,100.0,2022-07-05,Israel
+Bizzabo,Marketing,120.0,2022-07-05,United States
+Thimble,Finance,20.0,2022-07-05,United States
+Verbit,Data,80.0,2022-07-05,United States
+Transmit Security,Security,27.0,2022-07-05,United States
+Bullish,Crypto,30.0,2022-07-05,Hong Kong
+Outschool,Education,31.0,2022-07-05,United States
+Chessable,Consumer,29.0,2022-07-04,United Kingdom
+Sendle,Logistics,27.0,2022-07-04,Australia
+Lendis,Other,18.0,2022-07-04,Germany
+Airtasker,Consumer,,2022-07-04,Australia
+Lightricks,Consumer,80.0,2022-07-04,Israel
+Gorillas,Food,540.0,2022-07-03,Germany
+Celsius,Crypto,150.0,2022-07-03,United States
+LetsGetChecked,Healthcare,,2022-07-02,United States
+Perx Health,Healthcare,,2022-07-02,Australia
+Zepto,Finance,,2022-07-02,Australia
+WanderJaunt,Travel,85.0,2022-07-01,United States
+Remesh,Support,,2022-07-01,United States
+Teleport,Infrastructure,15.0,2022-07-01,United States
+Bamboo Health,Healthcare,52.0,2022-07-01,United States
+Canoo,Transportation,58.0,2022-07-01,United States
+Abra,Crypto,12.0,2022-06-30,United States
+Secfi,Finance,,2022-06-30,United States
+Gavelytics,Legal,,2022-06-30,United States
+Sundae,Real Estate,,2022-06-30,United States
+Finleap Connect,Finance,14.0,2022-06-30,Germany
+Enjoy,Retail,400.0,2022-06-30,United States
+Crejo.Fun,Education,170.0,2022-06-30,India
+Stash Financial,Finance,40.0,2022-06-30,United States
+Snyk,Security,30.0,2022-06-30,United States
+Nate,Retail,30.0,2022-06-30,United States
+Stream,Product,20.0,2022-06-30,United States
+Substack,Media,13.0,2022-06-29,United States
+Volt Bank,Finance,,2022-06-29,Australia
+HomeLight,Real Estate,,2022-06-29,United States
+Degreed,Education,,2022-06-29,United States
+CommentSold,Retail,,2022-06-29,United States
+Modsy,Retail,,2022-06-29,United States
+Baton,Transportation,16.0,2022-06-29,United States
+Rows,Other,18.0,2022-06-29,Germany
+Toppr,Education,350.0,2022-06-29,India
+Unity,Other,200.0,2022-06-29,United States
+AvantStay,Travel,80.0,2022-06-29,United States
+Niantic,Consumer,85.0,2022-06-29,United States
+Qumulo,Data,80.0,2022-06-29,United States
+Clutch,Transportation,76.0,2022-06-29,Canada
+Parallel Wireless,Infrastructure,60.0,2022-06-29,United States
+Oye Rickshaw,Transportation,40.0,2022-06-29,India
+Huobi,Crypto,300.0,2022-06-28,China
+WhiteHat Jr,Education,300.0,2022-06-28,India
+StockX,Retail,120.0,2022-06-28,United States
+Sidecar Health,Healthcare,110.0,2022-06-28,United States
+StockX,Retail,80.0,2022-06-28,United States
+Bright Machines,Data,30.0,2022-06-28,Israel
+HealthMatch,Healthcare,18.0,2022-06-28,Australia
+Booktopia,Retail,,2022-06-28,Australia
+Nova Benefits,Healthcare,,2022-06-28,India
+Una Brands,Retail,,2022-06-28,Singapore
+Vezeeta,Healthcare,50.0,2022-06-28,United Arab Emirates
+Amount,Finance,,2022-06-27,United States
+Cue,Healthcare,170.0,2022-06-27,United States
+SafeGraph,Data,27.0,2022-06-27,United States
+AppLovin,Marketing,300.0,2022-06-27,United States
+Udaan,Retail,180.0,2022-06-27,India
+UiPath,Data,210.0,2022-06-27,United States
+Banxa,Crypto,70.0,2022-06-27,Australia
+Postscript,Marketing,43.0,2022-06-26,United States
+Ethos Life,Finance,40.0,2022-06-24,United States
+Give Legacy,Healthcare,,2022-06-24,United States
+Bitpanda,Crypto,270.0,2022-06-24,Austria
+Sunday,Finance,90.0,2022-06-24,United States
+Bestow,Finance,41.0,2022-06-24,United States
+Feather,Retail,,2022-06-24,United States
+Mark43,Other,,2022-06-23,United States
+StreamElements,Media,,2022-06-23,Israel
+Orchard,Real Estate,,2022-06-23,United States
+Ro,Healthcare,,2022-06-23,United States
+Kune,Food,,2022-06-23,Kenya
+Esper,Other,,2022-06-23,United States
+Netflix,Media,300.0,2022-06-23,United States
+Voyage SMS,Marketing,8.0,2022-06-23,United States
+Aura,Security,70.0,2022-06-23,United States
+Pipl,Security,22.0,2022-06-23,United States
+Vouch,Finance,15.0,2022-06-23,United States
+Ritual,Food,23.0,2022-06-22,Canada
+Voly,Food,,2022-06-22,Australia
+Mindgeek,Media,,2022-06-22,Luxembourg
+Voi,Transportation,35.0,2022-06-22,Sweden
+Balto,Sales,30.0,2022-06-22,United States
+Superpedestrian,Transportation,35.0,2022-06-22,United States
+Sprinklr,Support,50.0,2022-06-22,United States
+IronNet,Security,55.0,2022-06-22,United States
+Bungalow,Real Estate,70.0,2022-06-22,United States
+MasterClass,Education,120.0,2022-06-22,United States
+IronNet,Security,90.0,2022-06-22,United States
+Tray.io,Data,,2022-06-21,United States
+TaskUs,Support,52.0,2022-06-21,United States
+SuperLearn,Education,,2022-06-21,India
+Frubana,Food,,2022-06-21,Colombia
+Ebanx,Finance,340.0,2022-06-21,Brazil
+Community,Marketing,40.0,2022-06-21,United States
+Sourcegraph,Product,24.0,2022-06-21,United States
+SummerBio,Healthcare,101.0,2022-06-20,United States
+Trax,Retail,100.0,2022-06-20,Singapore
+Aqgromalin,Food,80.0,2022-06-20,India
+Bonsai,Retail,30.0,2022-06-20,Canada
+Brighte,Energy,30.0,2022-06-20,Australia
+Buzzer,Media,,2022-06-20,United States
+Bybit,Crypto,,2022-06-20,Singapore
+Bybit,Crypto,600.0,2022-06-20,Singapore
+CityMall,Retail,191.0,2022-06-19,India
+BitOasis,Crypto,9.0,2022-06-19,United Arab Emirates
+Unacademy,Education,150.0,2022-06-18,India
+Socure,Finance,69.0,2022-06-17,United States
+Finite State,Security,16.0,2022-06-17,United States
+Bytedance,Consumer,150.0,2022-06-17,China
+PharmEasy,Healthcare,40.0,2022-06-16,India
+Circulo Health,Healthcare,,2022-06-16,United States
+Zumper,Real Estate,45.0,2022-06-16,United States
+JOKR,Food,50.0,2022-06-16,United States
+Swyft,Logistics,10.0,2022-06-15,Canada
+JetClosing,Real Estate,,2022-06-15,United States
+Crehana,Education,,2022-06-15,Peru
+Tonkean,Other,23.0,2022-06-15,United States
+OpenWeb,Media,14.0,2022-06-15,Israel
+Airtame,Consumer,15.0,2022-06-15,Denmark
+Swappie,Retail,250.0,2022-06-15,Finland
+Wealthsimple,Finance,159.0,2022-06-15,Canada
+Notarize,Legal,110.0,2022-06-15,United States
+Weee!,Food,150.0,2022-06-15,United States
+Elementor,Media,60.0,2022-06-15,Israel
+Sami,Healthcare,75.0,2022-06-14,Brazil
+Breathe,Healthcare,50.0,2022-06-14,India
+Redfin,Real Estate,470.0,2022-06-14,United States
+Coinbase,Crypto,1100.0,2022-06-14,United States
+Compass,Real Estate,450.0,2022-06-14,United States
+Shopee,Food,,2022-06-14,Singapore
+Addi,Finance,,2022-06-14,Colombia
+TIFIN,Crypto,24.0,2022-06-14,United States
+Hunty,HR,30.0,2022-06-14,Colombia
+BlockFi,Crypto,250.0,2022-06-13,United States
+Studio,Education,33.0,2022-06-13,United States
+Automox,Infrastructure,,2022-06-13,United States
+Desktop Metal,Other,,2022-06-13,United States
+Wave Sports and Entertainment,Media,56.0,2022-06-13,United States
+Liongard,Infrastructure,,2022-06-10,United States
+Ziroom,Real Estate,,2022-06-10,China
+Albert,Finance,20.0,2022-06-10,United States
+Keepe,Real Estate,,2022-06-10,United States
+Freetrade,Finance,45.0,2022-06-10,United Kingdom
+Sanar,Healthcare,60.0,2022-06-10,Brazil
+Berlin Brands Group,Retail,100.0,2022-06-10,Germany
+FarEye,Logistics,250.0,2022-06-10,India
+Crypto.com,Crypto,260.0,2022-06-10,Singapore
+Stashaway,Finance,31.0,2022-06-09,Singapore
+Starship,Transportation,,2022-06-09,United States
+Jellysmack,Media,,2022-06-09,United States
+Trade Republic,Finance,,2022-06-09,Germany
+Preply,Education,26.0,2022-06-09,United States
+Boozt,Retail,70.0,2022-06-09,Sweden
+Hologram,Infrastructure,80.0,2022-06-09,United States
+OneTrust,Security,950.0,2022-06-09,United States
+Stitch Fix,Retail,330.0,2022-06-09,United States
+Daniel Wellington,Retail,200.0,2022-06-09,Sweden
+Convoy,Logistics,90.0,2022-06-09,United States
+The Grommet,Retail,40.0,2022-06-09,United States
+Sonder,Travel,250.0,2022-06-08,United States
+Kavak,Transportation,150.0,2022-06-08,Brazil
+Truepill,Healthcare,150.0,2022-06-08,United States
+iPrice Group,Retail,50.0,2022-06-08,Malaysia
+Memmo,Consumer,,2022-06-08,Sweden
+CyberCube,Finance,,2022-06-07,United States
+Propzy,Real Estate,,2022-06-07,Vietnam
+KiwiCo,Retail,40.0,2022-06-07,United States
+Bond,Finance,,2022-06-07,United States
+ID.me,Security,130.0,2022-06-07,United States
+Bird,Transportation,138.0,2022-06-07,United States
+Lummo,Marketing,150.0,2022-06-07,Indonesia
+Rupeek,Finance,180.0,2022-06-07,India
+Cazoo,Transportation,750.0,2022-06-07,United Kingdom
+Clearco,Finance,60.0,2022-06-06,Canada
+Dutchie,Other,50.0,2022-06-06,United States
+Clearco,Finance,,2022-06-06,Ireland
+Deep Instinct,Security,,2022-06-06,United States
+Sendoso,Marketing,,2022-06-06,United States
+Eruditus,Education,40.0,2022-06-04,India
+Tesla,Transportation,,2022-06-03,United States
+Clubhouse,Consumer,,2022-06-03,United States
+Afterverse,Consumer,60.0,2022-06-03,Brazil
+Superhuman,Consumer,23.0,2022-06-03,United States
+Food52,Food,21.0,2022-06-03,United States
+5B Solar,Energy,,2022-06-03,Australia
+Carbon Health,Healthcare,250.0,2022-06-02,United States
+IRL,Consumer,25.0,2022-06-02,United States
+Rain,Finance,,2022-06-02,Bahrain
+Kaodim,Consumer,,2022-06-02,Malaysia
+Esme Learning,Education,,2022-06-02,United States
+Favo,Food,170.0,2022-06-02,Brazil
+Shef,Food,29.0,2022-06-02,United States
+Gather,Consumer,30.0,2022-06-02,United States
+Yojak,Construction,140.0,2022-06-02,India
+PolicyGenius,Finance,170.0,2022-06-02,United States
+Gemini,Crypto,100.0,2022-06-02,United States
+Envato,Marketing,100.0,2022-06-02,Australia
+Stord,Logistics,59.0,2022-06-02,United States
+2TM,Crypto,90.0,2022-06-01,Brazil
+Truck It In,Logistics,,2022-06-01,Pakistan
+TomTom,Transportation,500.0,2022-06-01,Netherlands
+Cybereason,Security,100.0,2022-06-01,United States
+Curve,Finance,65.0,2022-06-01,United Kingdom
+Side,Real Estate,,2022-06-01,United States
+Udayy,Education,100.0,2022-06-01,India
+Eaze,Consumer,25.0,2022-06-01,United States
+Impala,Travel,30.0,2022-06-01,United Kingdom
+Skillshare,Education,31.0,2022-06-01,United States
+Loom,Product,34.0,2022-06-01,United States
+Playtika,Consumer,250.0,2022-05-31,Israel
+Tomo,Finance,44.0,2022-05-31,United States
+Getta,Transportation,30.0,2022-05-31,Israel
+BookClub,Education,12.0,2022-05-31,United States
+Cerebral,Healthcare,,2022-05-31,United States
+Replicated,Infrastructure,50.0,2022-05-31,United States
+SWVL,Transportation,400.0,2022-05-30,United Arab Emirates
+Mobile Premier League,Consumer,100.0,2022-05-30,India
+SumUp,Finance,100.0,2022-05-30,Brazil
+Tempus Ex,Data,,2022-05-30,United States
+FrontRow,Education,145.0,2022-05-27,India
+Uncapped,Finance,29.0,2022-05-27,United Kingdom
+Daloopa,Data,40.0,2022-05-27,India
+Akerna,Logistics,,2022-05-27,United States
+Terminus,Marketing,,2022-05-27,United States
+Foodpanda,Food,80.0,2022-05-26,Romania
+VTEX,Retail,200.0,2022-05-26,Brazil
+Bitso,Crypto,80.0,2022-05-26,Mexico
+Dazn,Consumer,50.0,2022-05-26,United Kingdom
+Airlift,Logistics,,2022-05-25,Pakistan
+Zapp,Food,,2022-05-25,United Kingdom
+Getir,Food,,2022-05-25,Turkey
+Coterie Insurance,Finance,30.0,2022-05-25,United States
+Kontist,Finance,50.0,2022-05-25,Germany
+PeerStreet,Finance,75.0,2022-05-25,United States
+Bolt,Finance,240.0,2022-05-25,United States
+Lacework,Security,300.0,2022-05-25,United States
+Nuri,Finance,45.0,2022-05-25,Germany
+Gorillas,Food,300.0,2022-05-24,Germany
+Zenius,Education,200.0,2022-05-24,Indonesia
+The Zebra,Finance,40.0,2022-05-24,United States
+Olist,Retail,,2022-05-23,Brazil
+ClickUp,Other,60.0,2022-05-23,United States
+Airtime,Consumer,30.0,2022-05-23,United States
+BeyondMinds,Data,65.0,2022-05-23,Israel
+Klarna,Finance,700.0,2022-05-23,Sweden
+Buenbit,Crypto,80.0,2022-05-23,Argentina
+PayPal,Finance,83.0,2022-05-23,United States
+MFine,Healthcare,600.0,2022-05-21,India
+Outside,Media,87.0,2022-05-20,United States
+Skillz,Consumer,70.0,2022-05-20,United States
+Latch,Security,130.0,2022-05-20,United States
+Cars24,Transportation,600.0,2022-05-19,India
+Vedantu,Education,424.0,2022-05-18,India
+Kry,Healthcare,100.0,2022-05-17,Sweden
+Netflix,Media,150.0,2022-05-17,United States
+Picsart,Consumer,90.0,2022-05-17,United States
+Zak,Food,100.0,2022-05-16,Brazil
+Zulily,Retail,,2022-05-16,United States
+Thirty Madison,Healthcare,24.0,2022-05-14,United States
+AliExpress Russia,Retail,400.0,2022-05-14,Russia
+CommonBond,Finance,22.0,2022-05-13,United States
+Subspace,Infrastructure,,2022-05-13,United States
+Zwift,Fitness,150.0,2022-05-12,United States
+Section4,Education,32.0,2022-05-12,United States
+Tripwire,Security,,2022-05-12,United States
+DataRobot,Data,70.0,2022-05-11,United States
+Pollen,Travel,200.0,2022-05-10,United Kingdom
+Latch,Security,30.0,2022-05-10,United States
+Doma,Finance,310.0,2022-05-10,United States
+Carvana,Transportation,2500.0,2022-05-10,United States
+Meero,Other,350.0,2022-05-09,France
+Vroom,Transportation,270.0,2022-05-09,United States
+Reef,Transportation,750.0,2022-05-06,United States
+divvyDOSE,Healthcare,62.0,2022-05-06,United States
+Mural,Product,90.0,2022-05-05,United States
+On Deck,Education,72.0,2022-05-05,United States
+Progrexion,Finance,100.0,2022-05-05,United States
+Vedantu,Education,200.0,2022-05-05,India
+SEND,Food,300.0,2022-05-04,Australia
+Cameo,Consumer,87.0,2022-05-04,United States
+Mainstreet,Finance,45.0,2022-05-04,United States
+Ideoclick,Retail,40.0,2022-05-04,United States
+Vise,Finance,25.0,2022-05-04,United States
+Bizpay,Finance,,2022-05-04,Australia
+Colossus,Energy,97.0,2022-05-04,United States
+Thrasio,Retail,,2022-05-02,United States
+Avo,Food,500.0,2022-05-01,Israel
+Noom,Healthcare,495.0,2022-04-29,United States
+Domestika,Education,150.0,2022-04-28,United States
+Netflix,Media,25.0,2022-04-28,United States
+Wahoo Fitness,Fitness,50.0,2022-04-27,United States
+Robinhood,Finance,340.0,2022-04-26,United States
+Bonsai,Retail,29.0,2022-04-26,Canada
+Sigfox,Other,64.0,2022-04-25,France
+Clyde,Marketing,22.0,2022-04-25,United States
+Xiaohongshu,Consumer,180.0,2022-04-21,China
+Lemonade,Finance,52.0,2022-04-20,United States
+Facily,Retail,260.0,2022-04-20,Brazil
+QuintoAndar,Real Estate,160.0,2022-04-19,Brazil
+Loft,Real Estate,159.0,2022-04-19,Brazil
+Better.com,Real Estate,,2022-04-19,United States
+Blend,Finance,200.0,2022-04-19,United States
+Automox,Infrastructure,,2022-04-18,United States
+Humble,Media,10.0,2022-04-15,United States
+Halcyon Health,Healthcare,,2022-04-15,United States
+Ahead,Healthcare,44.0,2022-04-14,United States
+Truepill,Healthcare,,2022-04-14,United States
+Rad Power Bikes,Transportation,100.0,2022-04-12,United States
+Meesho,Retail,150.0,2022-04-11,India
+Food52,Food,20.0,2022-04-08,United States
+Unacademy,Education,1000.0,2022-04-07,India
+Goodfood,Food,70.0,2022-04-07,Canada
+Workrise,Energy,450.0,2022-04-05,United States
+Fast,Finance,,2022-04-05,United States
+Legible,Media,23.0,2022-04-04,Canada
+BitMEX,Crypto,75.0,2022-04-04,Seychelles
+Lightico,Finance,20.0,2022-03-31,Israel
+Sea,Retail,350.0,2022-03-30,India
+Rasa,Data,59.0,2022-03-30,Germany
+Thinkific,Education,100.0,2022-03-29,Canada
+Gopuff,Food,450.0,2022-03-29,United States
+Furlenco,Retail,180.0,2022-03-26,India
+Grove Collaborative,Retail,,2022-03-19,United States
+Storytel,Media,100.0,2022-03-17,Sweden
+Curology,Healthcare,150.0,2022-03-16,United States
+Knock,Real Estate,115.0,2022-03-15,United States
+Trell,Retail,300.0,2022-03-15,India
+Talis Biomedical,Healthcare,,2022-03-15,United States
+Sezzle,Finance,,2022-03-10,United States
+Better.com,Real Estate,3000.0,2022-03-08,United States
+Adaptive Biotechnologies,Healthcare,100.0,2022-03-08,United States
+Hyperscience,Data,100.0,2022-03-03,United States
+WeDoctor,Healthcare,500.0,2022-03-02,China
+Wish,Retail,190.0,2022-03-01,United States
+iFit,Fitness,,2022-02-25,United States
+OKCredit,Finance,30.0,2022-02-24,India
+Lido,Education,150.0,2022-02-21,India
+Virgin Hyperloop,Transportation,111.0,2022-02-21,United States
+Trustly,Finance,120.0,2022-02-17,Sweden
+Liv Up,Food,100.0,2022-02-16,Brazil
+Homie,Real Estate,119.0,2022-02-14,United States
+Daily Harvest,Food,60.0,2022-02-10,United States
+Hopin,Other,138.0,2022-02-10,United Kingdom
+Peloton,Fitness,2800.0,2022-02-08,United States
+Defined.ai,Data,,2022-02-07,United States
+Rhino,Real Estate,57.0,2022-02-03,United States
+Gopuff,Food,100.0,2022-01-26,United States
+Glossier,Consumer,80.0,2022-01-26,United States
+Protonn,Other,,2022-01-20,India
+Root Insurance,Finance,330.0,2022-01-20,United States
+Spin,Transportation,,2022-01-08,United States
+Delivery Hero,Food,300.0,2021-12-22,Germany
+iFit,Fitness,,2021-12-08,United States
+Better.com,Real Estate,900.0,2021-12-01,United States
+BitTitan,Data,70.0,2021-11-18,United States
+Zillow,Real Estate,2000.0,2021-11-02,United States
+InVision,Product,22.0,2021-10-05,United States
+Ozy Media,Media,,2021-10-01,United States
+Zymergen,Other,120.0,2021-09-23,United States
+Imperfect Foods,Food,,2021-09-22,United States
+Genius,Consumer,,2021-09-15,United States
+Treehouse,Education,41.0,2021-09-14,United States
+Casper,Retail,,2021-09-14,United States
+Tanium,Security,30.0,2021-08-30,United States
+Flockjay,Education,37.0,2021-08-24,United States
+Bytedance,Consumer,1800.0,2021-08-05,China
+Pagarbook,HR,80.0,2021-07-26,India
+Katerra,Construction,2434.0,2021-06-01,United States
+SumUp,Finance,,2021-05-05,United Kingdom
+Madefire,Media,,2021-04-29,United States
+Lambda School,Education,65.0,2021-04-29,United States
+Patreon,Media,36.0,2021-04-26,United States
+New Relic,Infrastructure,160.0,2021-04-06,United States
+Medium,Media,,2021-03-24,United States
+HuffPo,Media,47.0,2021-03-09,United States
+Subspace,Infrastructure,,2021-03-03,United States
+Clumio,Data,,2021-03-01,United States
+DJI,Consumer,,2021-02-24,United States
+Ninjacart,Food,200.0,2021-02-23,India
+Bounce,Transportation,200.0,2021-02-22,India
+Indigo,Other,80.0,2021-02-09,United States
+ThredUp,Retail,243.0,2021-02-09,United States
+Limelight,Recruiting,13.0,2021-02-04,United States
+Quandoo,Food,87.0,2021-02-03,Germany
+Hubba,Retail,45.0,2021-02-01,Canada
+Privitar,Data,20.0,2021-01-27,United Kingdom
+Bytedance,Consumer,1800.0,2021-01-27,India
+Shutterfly,Retail,800.0,2021-01-25,United States
+Postmates,Food,180.0,2021-01-23,United States
+Instacart,Food,1877.0,2021-01-21,United States
+Pocketmath,Marketing,21.0,2021-01-20,Singapore
+Dropbox,Other,315.0,2021-01-13,United States
+Aura Financial,Finance,,2021-01-11,United States
+Simple,Finance,,2021-01-07,United States
+WhiteHat Jr,Education,1800.0,2021-01-06,India
+Pulse Secure,Security,78.0,2020-12-23,United States
+Breather,Real Estate,120.0,2020-12-16,Canada
+Actifio,Data,54.0,2020-12-16,United States
+OYO,Travel,600.0,2020-12-08,India
+Zinier,HR,,2020-11-25,United States
+Aya,Finance,5.0,2020-11-19,Canada
+Domio,Real Estate,,2020-11-18,United States
+Bridge Connector,Healthcare,154.0,2020-11-17,United States
+Tidepool,Healthcare,18.0,2020-11-17,United States
+Igenous,Data,,2020-11-17,United States
+Scoop,Transportation,,2020-11-17,United States
+Worksmith,Retail,30.0,2020-11-09,United States
+Rubica,Security,,2020-11-05,United States
+Bossa Nova,Retail,,2020-11-02,United States
+LivePerson,Support,30.0,2020-11-01,United States
+Knotel,Real Estate,20.0,2020-10-29,United States
+Remedy,Healthcare,82.0,2020-10-29,United States
+Cheetah,Food,,2020-10-25,United States
+CodeCombat,Education,8.0,2020-10-23,United States
+Quibi,Media,,2020-10-21,United States
+Zomato,Food,,2020-10-20,Indonesia
+GetYourGuide,Travel,90.0,2020-10-14,Germany
+OLX India,Marketing,250.0,2020-10-10,India
+Chef,Infrastructure,,2020-10-08,United States
+Alto Pharmacy,Healthcare,47.0,2020-09-29,United States
+TheWrap,Media,,2020-09-29,United States
+HumanForest,Transportation,,2020-09-25,United Kingdom
+WeWork ,Real Estate,,2020-09-23,China
+Air,Marketing,,2020-09-16,United States
+HubHaus,Real Estate,,2020-09-11,United States
+NS8,Data,240.0,2020-09-11,United States
+Bleacher Report,Media,20.0,2020-09-11,United Kingdom
+Waze,Transportation,30.0,2020-09-09,United States
+Ouster,Transportation,,2020-09-08,United States
+Swing Education,Education,,2020-09-05,United States
+Akerna,Logistics,,2020-09-02,United States
+Awok,Retail,,2020-09-02,United Arab Emirates
+GoBear,Finance,22.0,2020-09-01,Singapore
+Big Fish Games,Media,250.0,2020-09-01,United States
+MakeMyTrip,Travel,350.0,2020-08-31,India
+Salesforce,Sales,1000.0,2020-08-26,United States
+kununu,Recruiting,,2020-08-26,United States
+Superloop,Infrastructure,30.0,2020-08-24,Australia
+Spaces,Media,,2020-08-24,United States
+StreamSets,Data,,2020-08-20,United States
+Docly,Healthcare,8.0,2020-08-19,United Kingdom
+Mapify,Travel,,2020-08-19,Germany
+Lumina Networks,Infrastructure,,2020-08-18,United States
+DJI,Consumer,,2020-08-17,China
+InVision,Product,,2020-08-14,United States
+Shopify,Retail,30.0,2020-08-14,Canada
+HopSkipDrive,Transportation,,2020-08-12,United States
+Mozilla,Consumer,250.0,2020-08-11,United States
+Eatsy,Food,20.0,2020-08-08,Singapore
+Glossier,Retail,150.0,2020-08-07,United States
+The Appraisal Lane,Transportation,,2020-08-07,Uruguay
+Thriver,Food,75.0,2020-08-06,Canada
+Vesta,Sales,56.0,2020-08-05,United States
+Booking.com,Travel,4375.0,2020-07-30,Netherlands
+Buy.com / Rakuten,Retail,87.0,2020-07-30,United States
+tZero,Finance,,2020-07-30,United States
+Pared,Food,,2020-07-29,United States
+Procore,Construction,180.0,2020-07-28,United States
+Zeitgold,Finance,75.0,2020-07-27,Germany
+Perkbox,HR,,2020-07-27,United Kingdom
+Swiggy,Food,350.0,2020-07-27,India
+Checkr,HR,64.0,2020-07-23,United States
+Sorabel,Retail,,2020-07-23,Indonesia
+LinkedIn,Recruiting,960.0,2020-07-21,United States
+Lighter Capital,Finance,22.0,2020-07-20,United States
+Curefit,Fitness,120.0,2020-07-17,India
+Snaptravel,Travel,,2020-07-16,Canada
+Optimizely,Marketing,60.0,2020-07-15,United States
+Vox Media,Media,,2020-07-14,United States
+Skyscanner,Travel,300.0,2020-07-14,United Kingdom
+Yelp,Consumer,63.0,2020-07-13,United States
+Bizongo,Logistics,140.0,2020-07-10,India
+Zilingo,Retail,100.0,2020-07-09,Singapore
+PaySense,Finance,40.0,2020-07-09,India
+OnDeck,Finance,,2020-07-08,United States
+Funding Circle,Finance,85.0,2020-07-08,United States
+Havenly,Consumer,5.0,2020-07-01,United States
+Sharethrough,Marketing,18.0,2020-07-01,United States
+The Wing,Real Estate,56.0,2020-07-01,United States
+Kongregate,Media,12.0,2020-07-01,United States
+Hired,Recruiting,,2020-06-30,United States
+G2,Marketing,17.0,2020-06-30,United States
+Argo AI,Transportation,100.0,2020-06-29,Germany
+Bossa Nova,Retail,61.0,2020-06-29,United States
+New Relic,Infrastructure,20.0,2020-06-29,United States
+Katerra,Construction,400.0,2020-06-29,United States
+Bounce,Transportation,130.0,2020-06-29,India
+Engine eCommerce,Retail,,2020-06-28,United States
+Byton,Transportation,,2020-06-27,United States
+Sprinklr,Support,,2020-06-25,United States
+Sonos,Consumer,174.0,2020-06-24,United States
+OYO,Travel,,2020-06-24,United States
+GoDaddy,Marketing,451.0,2020-06-24,United States
+Dark,Product,6.0,2020-06-23,United States
+Gojek,Transportation,430.0,2020-06-23,Indonesia
+ScaleFactor,Finance,90.0,2020-06-23,United States
+Intuit,Finance,715.0,2020-06-22,United States
+WeWork,Real Estate,200.0,2020-06-19,United Kingdom
+Atlas Obscura ,Media,15.0,2020-06-18,United States
+Navi,Finance,40.0,2020-06-17,India
+Redox,Healthcare,44.0,2020-06-16,United States
+PaisaBazaar,Finance,1500.0,2020-06-16,India
+Grab,Transportation,360.0,2020-06-16,Singapore
+Splunk,Data,70.0,2020-06-16,United States
+Stockwell AI,Retail,,2020-06-15,United States
+Conga,Data,,2020-06-15,United States
+Uber,Transportation,225.0,2020-06-12,Netherlands
+SynapseFI,Finance,63.0,2020-06-12,United States
+ScaleFocus,Infrastructure,120.0,2020-06-11,Bulgaria
+Branch,Retail,3.0,2020-06-11,United States
+Her Campus Media,Media,10.0,2020-06-10,United States
+Integrate.ai,Support,26.0,2020-06-09,Canada
+Ethos Life,Finance,18.0,2020-06-05,United States
+The Athletic,Media,46.0,2020-06-05,United States
+Outdoorsy,Transportation,,2020-06-04,United States
+Builder,Product,39.0,2020-06-04,United States
+Lastline,Security,50.0,2020-06-04,United States
+Monzo,Finance,120.0,2020-06-03,United Kingdom
+Credit Sesame,Finance,22.0,2020-06-03,United States
+SpotHero,Transportation,40.0,2020-06-03,United States
+Kitty Hawk,Aerospace,70.0,2020-06-03,United States
+Rivian,Transportation,40.0,2020-06-02,United States
+Fundbox,Finance,14.0,2020-06-02,United States
+Circ,Transportation,100.0,2020-06-02,Germany
+Descartes Labs,Data,12.0,2020-06-02,United States
+MakerBot,Consumer,12.0,2020-06-02,United States
+CrowdStreet,Real Estate,24.0,2020-06-01,United States
+Stitch Fix,Retail,1400.0,2020-06-01,United States
+MakeMyTrip,Travel,350.0,2020-06-01,India
+Brex,Finance,62.0,2020-05-29,United States
+Loftium,Real Estate,32.0,2020-05-29,United States
+Culture Amp,HR,36.0,2020-05-28,Australia
+The Sill,Retail,20.0,2020-05-28,United States
+StubHub,Consumer,200.0,2020-05-28,United States
+TrueCar,Transportation,219.0,2020-05-28,United States
+BookMyShow,Consumer,270.0,2020-05-28,India
+Instructure,Education,150.0,2020-05-27,United States
+Ebanx,Finance,62.0,2020-05-27,Brazil
+Uber,Transportation,600.0,2020-05-26,India
+Bluprint,Education,137.0,2020-05-26,United States
+Acorns,Finance,50.0,2020-05-26,United States
+CarDekho,Transportation,200.0,2020-05-25,India
+Teamwork,Other,21.0,2020-05-22,Ireland
+Glitch,Product,18.0,2020-05-21,United States
+Cvent,Marketing,400.0,2020-05-21,United States
+PickYourTrail,Travel,70.0,2020-05-21,India
+Kapten / Free Now,Transportation,,2020-05-21,France
+Ola,Transportation,1400.0,2020-05-20,India
+Stay Alfred,Travel,221.0,2020-05-20,United States
+Samsara,Logistics,300.0,2020-05-20,United States
+SoFi,Finance,112.0,2020-05-20,United States
+ShareChat,Marketing,101.0,2020-05-20,India
+Intercom,Support,39.0,2020-05-20,United States
+Pollen,Travel,69.0,2020-05-19,United Kingdom
+Divvy,Finance,,2020-05-19,United States
+Dotscience,Product,10.0,2020-05-19,United Kingdom
+Livspace,Retail,450.0,2020-05-19,India
+Checkmarx,Security,,2020-05-18,Israel
+Datera,Infrastructure,,2020-05-18,United States
+Intapp,Legal,45.0,2020-05-18,United States
+WeWork,Real Estate,100.0,2020-05-18,India
+Swiggy,Food,1100.0,2020-05-18,India
+Agoda,Travel,1500.0,2020-05-18,Singapore
+Uber,Transportation,3000.0,2020-05-18,United States
+Rubrik,Infrastructure,57.0,2020-05-18,United States
+Magicbricks,Real Estate,250.0,2020-05-17,India
+Zomato,Food,520.0,2020-05-15,India
+Lendingkart,Finance,500.0,2020-05-15,India
+Lattice,HR,16.0,2020-05-15,United States
+Masse,Retail,,2020-05-15,United States
+TicketSwap,Consumer,,2020-05-14,Netherlands
+Workfront,Marketing,,2020-05-14,United States
+Sift,Security,,2020-05-14,United States
+Cruise,Transportation,150.0,2020-05-14,United States
+Quartz,Media,80.0,2020-05-14,United States
+Veem,Finance,30.0,2020-05-14,United States
+Integral Ad Science,Marketing,70.0,2020-05-14,United States
+Ridecell,Transportation,35.0,2020-05-14,United States
+WeFit,Fitness,,2020-05-13,Vietnam
+Zymergen ,Other,,2020-05-13,United States
+Kickstarter,Finance,25.0,2020-05-13,United States
+BetterCloud,Security,,2020-05-13,United States
+Mode Analytics,Data,17.0,2020-05-13,United States
+Intersect,Product,19.0,2020-05-13,Canada
+Mercos,Sales,51.0,2020-05-13,Brazil
+Deliv,Retail,669.0,2020-05-13,United States
+Zeus Living,Real Estate,73.0,2020-05-12,United States
+Mixpanel,Data,65.0,2020-05-12,United States
+Hireology,Recruiting,36.0,2020-05-12,United States
+Top Hat,Education,16.0,2020-05-12,Canada
+Datto,Infrastructure,,2020-05-12,United States
+Petal,Finance,,2020-05-12,United States
+Stone,Finance,1300.0,2020-05-12,Brazil
+Revolut,Finance,60.0,2020-05-11,United Kingdom
+Cadre,Real Estate,28.0,2020-05-11,United States
+N26,Finance,9.0,2020-05-08,United States
+Airy Rooms,Travel,,2020-05-07,Indonesia
+SalesLoft,Sales,55.0,2020-05-07,United States
+Tally,Finance,28.0,2020-05-07,United States
+Flywire,Finance,60.0,2020-05-07,United States
+Numbrs,Finance,62.0,2020-05-07,Switzerland
+Glassdoor,Recruiting,300.0,2020-05-07,United States
+Jump,Transportation,500.0,2020-05-07,United States
+Uber,Transportation,3700.0,2020-05-06,United States
+Validity,Data,130.0,2020-05-06,United States
+Flatiron School,Education,100.0,2020-05-06,United States
+Rubicon Project,Marketing,50.0,2020-05-06,United States
+Segment,Data,50.0,2020-05-06,United States
+OPay,Finance,,2020-05-06,Nigeria
+ThoughtSpot,Data,,2020-05-06,United States
+Handshake,Recruiting,,2020-05-05,United States
+League,Healthcare,,2020-05-05,Canada
+Pipedrive,Sales,31.0,2020-05-05,Estonia
+Cloudera,Infrastructure,,2020-05-05,United States
+Workable,Recruiting,25.0,2020-05-05,United States
+Juul,Consumer,900.0,2020-05-05,United States
+Andela,Recruiting,135.0,2020-05-05,United States
+Stack Overflow,Recruiting,40.0,2020-05-05,United States
+Airbnb,Travel,1900.0,2020-05-05,United States
+Element AI,Other,62.0,2020-05-04,Canada
+Loopio,Sales,11.0,2020-05-04,Canada
+Castlight Health,Healthcare,,2020-05-04,United States
+Trivago,Travel,,2020-05-04,Germany
+Veriff,Security,63.0,2020-05-04,Estonia
+Curefit,Fitness,800.0,2020-05-04,India
+Careem,Transportation,536.0,2020-05-04,United Arab Emirates
+Deputy,HR,60.0,2020-05-04,Australia
+Oriente,Finance,400.0,2020-05-04,Hong Kong
+Trax,Retail,120.0,2020-05-03,Israel
+LiveTiles,Other,50.0,2020-05-03,United States
+Automatic,Transportation,,2020-05-01,United States
+Flynote,Travel,,2020-05-01,India
+Sandbox VR,Consumer,80.0,2020-05-01,United States
+TheSkimm,Media,26.0,2020-05-01,United States
+Monese,Finance,35.0,2020-05-01,Portugal
+Virtudent,Healthcare,70.0,2020-05-01,United States
+Culture Trip,Media,95.0,2020-05-01,United Kingdom
+Namely,HR,110.0,2020-05-01,United States
+OYO,Travel,150.0,2020-05-01,United Kingdom
+PicoBrew,Food,,2020-04-30,United States
+Care.com,Consumer,81.0,2020-04-30,United States
+Fandom,Media,,2020-04-30,United States
+Cohesity,Data,,2020-04-30,United States
+AirMap,Aerospace,,2020-04-30,United States
+Bullhorn,Sales,100.0,2020-04-30,United States
+Yoco,Finance,,2020-04-29,South Africa
+WeWork,Real Estate,300.0,2020-04-29,United States
+Lyft,Transportation,982.0,2020-04-29,United States
+Transfix,Logistics,24.0,2020-04-29,United States
+Lime,Transportation,80.0,2020-04-29,United States
+Kitopi,Food,124.0,2020-04-29,United States
+Kayak / OpenTable,Travel,160.0,2020-04-29,United States
+TripAdvisor,Travel,900.0,2020-04-28,United States
+Renmoney,Finance,391.0,2020-04-28,Nigeria
+Deliveroo,Food,367.0,2020-04-28,United Kingdom
+App Annie,Data,80.0,2020-04-28,United States
+PayJoy,Finance,27.0,2020-04-28,United States
+Shipsi,Retail,20.0,2020-04-28,United States
+Desktop Metal,Other,,2020-04-28,United States
+Migo,Finance,,2020-04-28,United States
+OpenX,Marketing,35.0,2020-04-28,United States
+Automation Anywhere,Other,260.0,2020-04-27,United States
+JetClosing,Real Estate,20.0,2020-04-27,United States
+Qwick,Recruiting,,2020-04-27,United States
+OYO,Travel,500.0,2020-04-25,Brazil
+Submittable,Other,30.0,2020-04-25,United States
+Stoqo,Food,250.0,2020-04-25,Indonesia
+UPshow,Marketing,19.0,2020-04-24,United States
+Lighter Capital,Finance,18.0,2020-04-24,United States
+Horizn Studios,Travel,15.0,2020-04-24,Germany
+Welkin Health,Healthcare,10.0,2020-04-24,United States
+Jiobit,Consumer,6.0,2020-04-24,United States
+TutorMundi,Education,4.0,2020-04-24,Brazil
+Cheddar,Media,,2020-04-24,United States
+GoCardless,Finance,,2020-04-24,United Kingdom
+Ada Support,Support,36.0,2020-04-24,Canada
+Divergent 3D,Transportation,57.0,2020-04-24,United States
+PowerReviews,Retail,,2020-04-23,United States
+Singular,Marketing,,2020-04-23,United States
+StockX,Retail,100.0,2020-04-23,United States
+Convoy,Logistics,,2020-04-23,United States
+Zenefits,HR,87.0,2020-04-23,United States
+Sisense,Data,80.0,2020-04-23,United States
+Oscar Health,Healthcare,70.0,2020-04-23,United States
+Simon Data,Marketing,6.0,2020-04-23,United States
+When I Work,HR,55.0,2020-04-22,United States
+Ike,Transportation,10.0,2020-04-22,United States
+Airy Rooms,Travel,,2020-04-22,Indonesia
+Clearbit,Data,,2020-04-22,United States
+ExtraHop,Security,,2020-04-22,United States
+Nearmap,Construction,,2020-04-22,Australia
+Magic Leap,Consumer,1000.0,2020-04-22,United States
+Lambda School,Education,19.0,2020-04-21,United States
+Bringg,Logistics,10.0,2020-04-21,Israel
+Politico / Protocol,Media,13.0,2020-04-21,United States
+Casper,Retail,78.0,2020-04-21,United States
+Patreon,Media,30.0,2020-04-21,United States
+Freshbooks,Finance,38.0,2020-04-21,Canada
+RealSelf,Healthcare,40.0,2020-04-21,United States
+Houzz,Consumer,155.0,2020-04-21,United States
+Lending Club,Finance,460.0,2020-04-21,United States
+Paytm,Finance,500.0,2020-04-21,India
+Swiggy,Food,800.0,2020-04-21,India
+Forward,Healthcare,10.0,2020-04-20,United States
+Hipcamp,Travel,,2020-04-20,United States
+Movidesk,Support,33.0,2020-04-20,Brazil
+Komodo Health,Healthcare,23.0,2020-04-20,United States
+Klook,Travel,300.0,2020-04-20,Hong Kong
+ConsenSys,Crypto,91.0,2020-04-20,United States
+GumGum,Marketing,90.0,2020-04-20,United States
+Zum,Transportation,28.0,2020-04-20,United States
+Kueski,Finance,90.0,2020-04-20,Mexico
+Motif Investing,Finance,,2020-04-18,United States
+Tor,Security,13.0,2020-04-17,United States
+Influitive,Marketing,,2020-04-17,Canada
+Food52,Food,,2020-04-17,United States
+Dispatch,Other,,2020-04-17,United States
+BitGo,Crypto,,2020-04-17,United States
+People.ai,Marketing,30.0,2020-04-17,United States
+Sweetgreen,Food,35.0,2020-04-17,United States
+Labster,Education,40.0,2020-04-17,Denmark
+Zilingo,Retail,44.0,2020-04-17,Singapore
+Loft,Real Estate,47.0,2020-04-17,Brazil
+QuintoAndar,Real Estate,88.0,2020-04-17,Brazil
+Greenhouse,Recruiting,120.0,2020-04-17,United States
+ContaAzul,Education,140.0,2020-04-17,Brazil
+BlackBuck,Logistics,200.0,2020-04-17,India
+Purse,Crypto,,2020-04-16,United States
+SquadVoice,Real Estate,,2020-04-16,United States
+CarGurus,Transportation,130.0,2020-04-16,United States
+LumenAd,Marketing,,2020-04-16,United States
+Grailed,Retail,,2020-04-16,United States
+FullStory,Marketing,,2020-04-16,United States
+CrowdRiff,Marketing,,2020-04-16,Canada
+CleverTap,Marketing,60.0,2020-04-16,India
+Funding Societies,Finance,65.0,2020-04-16,Singapore
+Trove Recommerce,Retail,13.0,2020-04-15,United States
+View,Energy,,2020-04-15,United States
+SweetEscape,Consumer,,2020-04-15,Indonesia
+Dude Solutions,Other,,2020-04-15,United States
+Zume,Food,200.0,2020-04-15,United States
+Tulip Retail,Retail,14.0,2020-04-15,Canada
+Parsable,HR,40.0,2020-04-15,United States
+Akulaku,Finance,100.0,2020-04-15,Indonesia
+Opendoor,Real Estate,600.0,2020-04-15,United States
+GoPro,Consumer,200.0,2020-04-15,United States
+Shop101,Retail,200.0,2020-04-15,India
+Carta,Finance,161.0,2020-04-15,United States
+Kodiak Robotics,Transportation,15.0,2020-04-15,United States
+Xerpa,HR,10.0,2020-04-14,Brazil
+Aura Financial,Finance,,2020-04-14,United States
+RedDoorz,Travel,,2020-04-14,Singapore
+DataStax,Data,15.0,2020-04-14,United States
+Skillz,Consumer,21.0,2020-04-14,United States
+VSCO,Consumer,45.0,2020-04-14,United States
+Envoy,HR,58.0,2020-04-14,United States
+TouchBistro,Food,131.0,2020-04-14,Canada
+The RealReal,Retail,235.0,2020-04-14,United States
+Groupon,Retail,2800.0,2020-04-13,United States
+Zoox,Transportation,100.0,2020-04-13,United States
+Neon,Finance,70.0,2020-04-13,Brazil
+EasyPost,Logistics,50.0,2020-04-13,United States
+Clearbanc,Finance,17.0,2020-04-13,Canada
+FloQast,Finance,,2020-04-10,United States
+Geekwire,Media,5.0,2020-04-10,United States
+Atsu,Infrastructure,6.0,2020-04-10,United States
+Rhumbix,Construction,16.0,2020-04-10,United States
+Built In,Recruiting,28.0,2020-04-10,United States
+Meow Wolf,Media,201.0,2020-04-10,United States
+Frontdesk,Travel,35.0,2020-04-10,United States
+BeeTech,Finance,30.0,2020-04-10,Brazil
+NuoDB,Data,20.0,2020-04-10,United States
+Lighthouse Labs,Education,14.0,2020-04-09,Canada
+Zest AI,Finance,,2020-04-09,United States
+Elliptic,Crypto,,2020-04-09,United Kingdom
+CipherTrace,Crypto,,2020-04-09,United States
+LoopMe,Marketing,8.0,2020-04-09,United Kingdom
+Yelp,Consumer,1000.0,2020-04-09,United States
+Code42,Data,25.0,2020-04-09,United States
+Clinc,Support,40.0,2020-04-09,United States
+Matterport,Data,90.0,2020-04-09,United States
+Domo,Data,90.0,2020-04-09,United States
+Mejuri,Retail,36.0,2020-04-09,Canada
+Omie,Finance,136.0,2020-04-09,Brazil
+OneTrust,Legal,150.0,2020-04-09,United States
+Monzo,Finance,165.0,2020-04-09,United States
+Connected,Product,17.0,2020-04-08,Canada
+Zola,Retail,,2020-04-08,United States
+TechAdvance,Finance,,2020-04-08,Nigeria
+Slice Labs,Finance,,2020-04-08,United States
+RedDoorz,Travel,,2020-04-08,Singapore
+Lytics,Marketing,,2020-04-08,United States
+Creditas,Finance,,2020-04-08,Brazil
+Spyce,Food,4.0,2020-04-08,United States
+GetNinjas,Consumer,11.0,2020-04-08,Brazil
+Lever,Recruiting,86.0,2020-04-08,United States
+VideoAmp,Marketing,21.0,2020-04-08,United States
+BVAccel,Marketing,25.0,2020-04-08,United States
+Quantcast,Marketing,30.0,2020-04-08,United States
+Eden / Managed By Q,Real Estate,40.0,2020-04-08,United States
+Button,Marketing,48.0,2020-04-08,United States
+Unbabel,Support,80.0,2020-04-08,Portugal
+Kenoby,Recruiting,18.0,2020-04-08,Brazil
+Unison,Finance,89.0,2020-04-08,United States
+Scoop,Transportation,92.0,2020-04-08,United States
+Meesho,Retail,200.0,2020-04-08,India
+Eventbrite,Consumer,500.0,2020-04-08,United States
+AskNicely,Support,,2020-04-07,United States
+Nav,Finance,30.0,2020-04-07,United States
+Group Nine Media,Media,50.0,2020-04-07,United States
+RainFocus,Marketing,,2020-04-07,United States
+Payfactors,HR,46.0,2020-04-07,United States
+MediaMath,Marketing,53.0,2020-04-07,United States
+Virta Health,Healthcare,65.0,2020-04-07,United States
+Ibotta,Retail,87.0,2020-04-07,United States
+Newfront Insurance,Finance,94.0,2020-04-07,United States
+Toast,Food,1300.0,2020-04-07,United States
+ezCater,Food,400.0,2020-04-07,United States
+Sage Therapeutics,Healthcare,340.0,2020-04-07,United States
+Redfin,Real Estate,236.0,2020-04-07,United States
+Branch Metrics,Marketing,100.0,2020-04-07,United States
+Away,Retail,60.0,2020-04-07,United States
+Mapbox,Data,,2020-04-06,United States
+Bitfarms,Crypto,,2020-04-06,Canada
+Hopper,Travel,,2020-04-06,United States
+PerkSpot,HR,10.0,2020-04-06,United States
+Borrowell,Finance,15.0,2020-04-06,Canada
+BusBud,Transportation,23.0,2020-04-06,Canada
+Cogito,Support,24.0,2020-04-06,United States
+Wordstream,Marketing,26.0,2020-04-06,United States
+C6 Bank,Finance,60.0,2020-04-06,Brazil
+BounceX,Marketing,77.0,2020-04-06,United States
+Rock Content,Marketing,100.0,2020-04-06,Brazil
+Metromile,Finance,100.0,2020-04-06,United States
+Astra,Aerospace,40.0,2020-04-05,United States
+Iflix,Consumer,50.0,2020-04-04,Malaysia
+AllyO,HR,,2020-04-03,United States
+Tripbam,Travel,10.0,2020-04-03,United States
+Avantage Entertainment,Media,5.0,2020-04-03,United States
+Alegion,Data,,2020-04-03,United States
+G/O Media Group,Media,14.0,2020-04-03,United States
+Mews,Travel,,2020-04-03,Czech Republic
+PeopleGrove,HR,,2020-04-03,United States
+The Muse,Recruiting,,2020-04-03,United States
+The Wing,Real Estate,,2020-04-03,United States
+DSCO,Retail,12.0,2020-04-03,United States
+Velodyne Lidar,Transportation,140.0,2020-04-03,United States
+Anagram,Healthcare,17.0,2020-04-03,United States
+Arrive Logistics,Logistics,75.0,2020-04-03,United States
+Minted,Retail,147.0,2020-04-03,United States
+Sojern,Marketing,300.0,2020-04-03,United States
+Gympass,Fitness,467.0,2020-04-03,Brazil
+Zoox,Transportation,120.0,2020-04-03,United States
+Traveloka,Travel,100.0,2020-04-03,Indonesia
+MaxMilhas,Travel,167.0,2020-04-03,Brazil
+Salsify,Retail,60.0,2020-04-03,United States
+Bustle Digital Group,Media,19.0,2020-04-03,United States
+Jetty,Finance,35.0,2020-04-03,United States
+Opencare,Healthcare,18.0,2020-04-03,Canada
+Bustle Digital Group,Media,24.0,2020-04-03,United States
+D2iQ,Infrastructure,34.0,2020-04-03,United States
+Sauce Labs,Infrastructure,30.0,2020-04-02,United States
+Wonder,Other,,2020-04-02,United States
+The Modist,Retail,,2020-04-02,United Arab Emirates
+Capillary,Retail,,2020-04-02,India
+Atlanta Tech Village,Real Estate,,2020-04-02,United States
+Synergysuite,Food,5.0,2020-04-02,United States
+Instamojo,Finance,6.0,2020-04-02,India
+Coding Dojo,Education,7.0,2020-04-02,United States
+TripleLift,Marketing,23.0,2020-04-02,United States
+Humu,HR,26.0,2020-04-02,United States
+Modsy,Retail,,2020-04-02,United States
+Dynamic Signal,HR,35.0,2020-04-02,United States
+FiscalNote,Media,30.0,2020-04-02,United States
+Voi,Transportation,100.0,2020-04-02,Sweden
+MindBody,Fitness,700.0,2020-04-02,United States
+Katerra,Construction,240.0,2020-04-02,United States
+Ritual,Food,196.0,2020-04-02,Canada
+ClassPass,Fitness,154.0,2020-04-02,United States
+Copper,Marketing,35.0,2020-04-02,United States
+eGym,Fitness,100.0,2020-04-02,Germany
+Industrious,Real Estate,90.0,2020-04-02,United States
+1stdibs,Retail,70.0,2020-04-02,United States
+ThirdLove,Retail,65.0,2020-04-02,United States
+Latch,Security,60.0,2020-04-02,United States
+The Predictive Index,HR,59.0,2020-04-02,United States
+Shuttl,Transportation,40.0,2020-04-02,India
+Jobcase,Recruiting,39.0,2020-04-02,United States
+GOAT Group,Retail,,2020-04-01,United States
+Currency,Finance,,2020-04-01,United States
+Sensibill,Finance,17.0,2020-04-01,Canada
+Le Tote,Retail,,2020-04-01,United States
+Levelset,Construction,,2020-04-01,United States
+Pebblepost,Marketing,,2020-04-01,United States
+Usermind,Marketing,15.0,2020-04-01,United States
+WhyHotel,Travel,,2020-04-01,United States
+Pana,Travel,18.0,2020-04-01,United States
+Highsnobiety,Media,51.0,2020-04-01,Germany
+Booksy,Consumer,200.0,2020-04-01,United States
+Flymya,Travel,200.0,2020-04-01,Myanmar
+PatientPop,Healthcare,100.0,2020-04-01,United States
+Crayon,Marketing,20.0,2020-04-01,United States
+Showpad,Marketing,52.0,2020-04-01,United States
+Incredible Health,Healthcare,9.0,2020-04-01,United States
+Earnin,Finance,50.0,2020-04-01,United States
+Wonolo,Recruiting,46.0,2020-04-01,United States
+Moovel,Transportation,28.0,2020-04-01,United States
+Acko,Finance,45.0,2020-04-01,India
+Aqua Security,Security,24.0,2020-04-01,Israel
+uShip,Logistics,65.0,2020-03-31,United States
+Kazoo,HR,,2020-03-31,United States
+KeepTruckin,Logistics,349.0,2020-03-31,United States
+Rover,Consumer,194.0,2020-03-31,United States
+SkySlope,Real Estate,50.0,2020-03-31,United States
+AdRoll,Marketing,210.0,2020-03-31,United States
+Turo,Transportation,108.0,2020-03-31,United States
+Zerto,Infrastructure,,2020-03-31,United States
+Snap Finance,Finance,,2020-03-31,United States
+Domio,Travel,,2020-03-31,United States
+Claravine,Marketing,,2020-03-31,United States
+Adara,Travel,,2020-03-31,United States
+DialSource,Marketing,5.0,2020-03-31,United States
+Zenoti,Fitness,17.0,2020-03-31,United States
+AngelList,Recruiting,20.0,2020-03-31,United States
+Siteimprove,Marketing,40.0,2020-03-31,United States
+Loftsmart,Real Estate,25.0,2020-03-30,United States
+Cuyana,Retail,,2020-03-30,United States
+Iris Nova,Food,9.0,2020-03-30,United States
+Caliva,Retail,20.0,2020-03-30,United States
+FabHotels,Travel,80.0,2020-03-30,India
+Starship Technologies,Transportation,30.0,2020-03-30,Estonia
+Catalant,Other,30.0,2020-03-30,United States
+Blume Global,Logistics,30.0,2020-03-30,United States
+Maven,Media,31.0,2020-03-30,United States
+PeerStreet,Finance,51.0,2020-03-30,United States
+Hibob,HR,70.0,2020-03-30,Israel
+RigUp,Energy,120.0,2020-03-30,United States
+Thumbtack,Consumer,250.0,2020-03-30,United States
+Polarr,Consumer,10.0,2020-03-29,United States
+ZipRecruiter,Recruiting,400.0,2020-03-29,United States
+Amplero,Marketing,17.0,2020-03-29,United States
+Rent the Runway,Retail,,2020-03-28,United States
+TravelTriangle,Travel,250.0,2020-03-28,India
+WeWork,Real Estate,250.0,2020-03-28,United States
+OneWeb,Aerospace,451.0,2020-03-27,United Kingdom
+Pivot3,Infrastructure,,2020-03-27,United States
+Make School,Education,,2020-03-27,United States
+Bcredi,Finance,,2020-03-27,Brazil
+ThirdLove,Retail,10.0,2020-03-27,United States
+Opal,Marketing,20.0,2020-03-27,United States
+Textio,Recruiting,30.0,2020-03-27,United States
+Bevi,Food,30.0,2020-03-27,United States
+Oh My Green,Food,40.0,2020-03-27,United States
+Loft,Real Estate,47.0,2020-03-27,Brazil
+Bench,Finance,47.0,2020-03-27,Canada
+Raken,Construction,60.0,2020-03-27,United States
+DISCO,Legal,75.0,2020-03-27,United States
+Mogo,Finance,78.0,2020-03-27,Canada
+Zipcar,Transportation,100.0,2020-03-27,United States
+Getaround,Transportation,100.0,2020-03-27,United States
+Knotel,Real Estate,127.0,2020-03-27,United States
+Blueground,Real Estate,130.0,2020-03-27,United States
+Restaurant365,Food,175.0,2020-03-27,United States
+DataRobot,Data,200.0,2020-03-27,United States
+Everlane,Retail,227.0,2020-03-27,United States
+HOOQ,Consumer,250.0,2020-03-27,Singapore
+Bird,Transportation,406.0,2020-03-27,United States
+Consider.co,Other,13.0,2020-03-26,United States
+Nativo,Marketing,,2020-03-26,United States
+Passport,Transportation,44.0,2020-03-26,United States
+GoSpotCheck,Retail,23.0,2020-03-26,United States
+Peerspace,Real Estate,41.0,2020-03-26,United States
+Fareportal,Travel,200.0,2020-03-26,India
+Puppet,Infrastructure,50.0,2020-03-26,United States
+Ecobee,Energy,47.0,2020-03-26,Canada
+B8ta,Retail,250.0,2020-03-26,United States
+WanderJaunt,Travel,56.0,2020-03-25,United States
+Divvy Homes,Real Estate,,2020-03-25,United States
+OutboundEngine,Marketing,52.0,2020-03-25,United States
+Rangle,Product,78.0,2020-03-25,Canada
+Lyric,Real Estate,100.0,2020-03-25,United States
+TripActions,Travel,300.0,2020-03-25,United States
+Universal Standard,Retail,,2020-03-25,United States
+O'Reilly Media,Media,75.0,2020-03-25,United States
+Clutter,Consumer,,2020-03-25,United States
+Clever Real Estate,Real Estate,,2020-03-25,United States
+Wonderschool,Education,50.0,2020-03-25,United States
+Overtime,Media,30.0,2020-03-25,United States
+Jama,Product,12.0,2020-03-25,United States
+Element Analytics,Data,10.0,2020-03-25,United States
+SpotHero,Transportation,,2020-03-24,United States
+Peerfit,HR,,2020-03-24,United States
+Flowr,Retail,,2020-03-24,Canada
+TravelBank,Travel,20.0,2020-03-24,United States
+Zeus Living,Real Estate,80.0,2020-03-24,United States
+Takl,Consumer,130.0,2020-03-24,United States
+Sonder,Travel,400.0,2020-03-24,United States
+Foodsby,Food,87.0,2020-03-24,United States
+Ladder Life,Finance,13.0,2020-03-23,United States
+Zwift,Fitness,,2020-03-23,United States
+Cabin,Travel,,2020-03-23,United States
+Eight Sleep,Retail,,2020-03-23,United States
+GrayMeta,Data,20.0,2020-03-23,United States
+Drip,Marketing,20.0,2020-03-23,United States
+Compass,Real Estate,375.0,2020-03-23,United States
+Convene,Real Estate,150.0,2020-03-23,United States
+Leafly,Retail,91.0,2020-03-23,United States
+Triplebyte,Recruiting,15.0,2020-03-23,United States
+The Guild,Travel,38.0,2020-03-23,United States
+Yonder,Media,18.0,2020-03-20,United States
+CTO.ai,Infrastructure,30.0,2020-03-20,Canada
+Vacasa,Travel,,2020-03-20,United States
+Flywheel Sports,Fitness,784.0,2020-03-20,United States
+Peek,Travel,45.0,2020-03-20,United States
+Service,Travel,,2020-03-20,United States
+Tuft & Needle,Retail,,2020-03-19,United States
+Popin,Fitness,,2020-03-19,United States
+Anyvision,Security,,2020-03-19,Israel
+Lola,Travel,34.0,2020-03-19,United States
+Remote Year,Travel,50.0,2020-03-19,United States
+Ejento,Recruiting,84.0,2020-03-19,United States
+Bounce,Transportation,120.0,2020-03-19,India
+Flytedesk,Marketing,4.0,2020-03-18,United States
+Help.com,Support,16.0,2020-03-16,United States
+Service,Travel,,2020-03-16,United States
+Inspirato,Travel,130.0,2020-03-16,United States
+HopSkipDrive,Transportation,8.0,2020-03-13,United States
+Panda Squad,Consumer,6.0,2020-03-13,United States
+Tamara Mellon,Retail,20.0,2020-03-12,United States
+EasyPost,Logistics,75.0,2020-03-11,United States
