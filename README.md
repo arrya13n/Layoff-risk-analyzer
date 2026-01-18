@@ -10,7 +10,7 @@ This project is an executive-level diagnostic tool designed to analyze global em
 
 ### 1. Data Scraping & Collection 🕸️
 * **Automated Scraper:** Built a resilient **Selenium** and **BeautifulSoup** script to track real-time 2026 data from Peerlist.
-* **Dataset Integration:** Consolidated historical data with live-scraped records into a "Single Source of Truth" (4,200+ records).
+* **Dataset Integration:** Consolidated historical data with live-scraped records into a "single csv file" (4,200+ records).
 
 ### 2. Transformation & Feature Engineering 🛠️
 * **Data Cleaning:** Standardized inconsistent industry names and corrected geographic labels using **Pandas**.
