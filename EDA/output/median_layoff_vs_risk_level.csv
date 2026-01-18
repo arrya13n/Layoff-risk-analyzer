@@ -1,0 +1,27 @@
+industry,risk_level,median_layoff_count,total_layoff_events
+Hardware,High,85,75
+Fitness,Low,75,44
+Travel,Medium,68,107
+Consumer,High,55,272
+Logistics & Transportation,High,50,334
+Education,Medium,47,159
+Food,High,47,241
+Energy,Low,46,48
+Other,High,46,290
+Retail,High,44,340
+Aerospace,Low,40,24
+Healthcare,High,39,326
+Security,Medium,36,144
+Finance,High,35,504
+Marketing and Sales,High,35,280
+IT Infrastructure,Medium,33,140
+HR & Talent Acquisition,Medium,33,167
+Real Estate & Property tech,Medium,33,187
+Manufacturing,Low,31,29
+Legal,Low,30,21
+Data,Medium,26,132
+Media,Low,23,154
+Crypto,Medium,22,153
+Product,Low,19,53
+AI,Low,15,25
+Gaming,Low,0,2

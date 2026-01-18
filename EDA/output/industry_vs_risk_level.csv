@@ -1,0 +1,27 @@
+industry,risk_level,total_count
+Hardware,High,93207
+Retail,High,88295
+Other,High,85070
+Consumer,High,80810
+Logistics & Transportation,High,70666
+Finance,High,53719
+Food,High,50471
+Healthcare,High,38904
+Marketing and Sales,High,35728
+IT Infrastructure,Medium,28719
+Real Estate & Property tech,Medium,24223
+Travel,Medium,23370
+Education,Medium,20747
+HR & Talent Acquisition,Medium,20664
+Crypto,Medium,14446
+Data,Medium,13236
+Security,Medium,11836
+Media,Low,11308
+Fitness,Low,9841
+Energy,Low,9780
+Manufacturing,Low,8980
+Aerospace,Low,3472
+Product,Low,2126
+AI,Low,1142
+Legal,Low,1056
+Gaming,Low,0

@@ -1,0 +1,901 @@
+company,industry,country,date
+The Trade Desk,Marketing and Sales,United States,2025-12-17
+Believer Meats,Food,Israel,2025-12-11
+EyeEm,Other,Germany,2025-12-11
+GenWise,Other,India,2025-12-09
+Inbound Health,Healthcare,United States,2025-12-01
+Shopify,Retail,Canada,2025-11-26
+Veson Nautical,Other,United States,2025-11-18
+AI Fleet,Logistics & Transportation,United States,2025-11-13
+Hootsuite,Marketing and Sales,Canada,2025-10-27
+Tia,Healthcare,United States,2025-10-17
+Bill.com,Finance,United States,2025-10-15
+OfferUp,Retail,United States,2025-10-15
+Sorbet,Finance,Israel,2025-09-14
+Hike,Consumer,India,2025-09-13
+Vimeo,Consumer,United States,2025-09-03
+theGist,Other,Israel,2025-09-03
+The Gist,Other,Israel,2025-09-03
+Oracle,Other,United States,2025-09-02
+Flip,Consumer,United States,2025-08-29
+Verily,Healthcare,United States,2025-08-26
+Klaviyo,Marketing and Sales,United States,2025-08-25
+TikTok,Consumer,United Kingdom,2025-08-22
+Kyte,Logistics & Transportation,United States,2025-08-15
+Eyeo,Other,Germany,2025-07-28
+Ohm Mobility,Logistics & Transportation,India,2025-07-24
+Tipalti,Finance,United States,2025-07-24
+WiseTech,Logistics & Transportation,Australia,2025-07-23
+Zeen,Consumer,United States,2025-07-21
+Amazon,Retail,United States,2025-07-17
+Amicole,Retail,United States,2025-07-17
+Blip,Retail,India,2025-07-12
+TripleLift,Marketing and Sales,United States,2025-07-11
+TikTok,Consumer,Ireland,2025-07-02
+Okra,Finance,Nigeria,2025-07-02
+Microsoft,Other,United States,2025-06-24
+Intel,Hardware,United States,2025-06-24
+Intel,Hardware,Israel,2025-06-17
+nCino,Finance,United States,2025-05-27
+Luminar,Logistics & Transportation,United States,2025-05-20
+Blink Charging,Other,United States,2025-05-19
+Bench,Finance,United States,2025-05-01
+Spotter,Other,United States,2025-04-28
+Tomorrow,Hardware,United States,2025-04-28
+Google,Consumer,United States,2025-04-11
+Marin Software,Marketing and Sales,United States,2025-04-10
+Coho AI,Marketing and Sales,Israel,2025-04-06
+Arrival,Logistics & Transportation,United Kingdom,2025-03-10
+Zonar Systems,Logistics & Transportation,United States,2025-03-09
+Rec Room,Consumer,United States,2025-03-03
+ANS Commerce,Retail,India,2025-03-02
+Google,Consumer,United States,2025-02-27
+Commercetools,Retail,Germany,2025-02-26
+HerMD,Healthcare,United States,2025-02-24
+NetEase,Consumer,Japan,2025-02-22
+Riskified,Retail,United States,2025-02-19
+Getaround,Logistics & Transportation,United States,2025-02-12
+Unity,Other,United States,2025-02-11
+Cushion,Finance,United States,2025-01-30
+Amazon,Retail,United States,2025-01-29
+Moon Active,Consumer,Israel,2025-01-27
+Microsoft,Other,United States,2025-01-14
+Advisor Credit Exchange,Finance,United States,2025-01-14
+Alza,Finance,United States,2025-01-13
+Boozt,Retail,Sweden,2025-01-13
+Microsoft,Other,United States,2025-01-07
+Cloud Software Group,Other,United States,2025-01-07
+Level,Finance,United States,2025-01-02
+Brave Care,Healthcare,United States,2024-12-31
+Epicery,Food,France,2024-12-31
+BionicHIVE,Hardware,Israel,2024-12-22
+RealSelf,Healthcare,United States,2024-12-19
+Thrive,Food,India,2024-12-14
+Yahoo,Consumer,United States,2024-12-12
+Spotter,Other,United States,2024-12-11
+OfferUp,Retail,United States,2024-12-11
+Spectrm,Marketing and Sales,Germany,2024-12-10
+Mixtroz,Other,United States,2024-12-06
+Sprout Social,Marketing and Sales,United States,2024-11-25
+Apple,Hardware,United States,2024-11-24
+Headspace,Healthcare,United States,2024-11-20
+BigCommerce,Retail,United States,2024-11-08
+Avaya,Other,United States,2024-11-06
+Mozilla Foundation,Consumer,United States,2024-11-05
+Bowery Farming,Food,United States,2024-11-01
+Tidal,Consumer,United States,2024-10-31
+Kyte,Logistics & Transportation,United States,2024-10-25
+Airthings,Hardware,Norway,2024-10-24
+Upwork,Other,United States,2024-10-23
+CapWay,Finance,United States,2024-10-17
+Meta,Consumer,United States,2024-10-16
+Toplyne,Marketing and Sales,India,2024-10-11
+GoWild,Retail,United States,2024-10-10
+Grabango,Food,United States,2024-10-09
+Zapp,Food,United Kingdom,2024-10-08
+Zapata Computing,Other,United States,2024-10-07
+Flexport,Logistics & Transportation,United States,2024-10-02
+Alma,Healthcare,United States,2024-10-02
+Greenikk,Food,India,2024-09-30
+Olo,Food,United States,2024-09-23
+Luminar,Logistics & Transportation,United States,2024-09-20
+Notable Labs,Healthcare,United States,2024-09-20
+IBM,Hardware,United States,2024-09-18
+Amperity,Marketing and Sales,United States,2024-09-12
+Motif Foodworks,Food,United States,2024-09-06
+Kenko Health,Healthcare,India,2024-08-23
+Received,Finance,United States,2024-08-23
+Kaiyo,Retail,United States,2024-08-21
+ReshaMandi,Food,India,2024-08-20
+Regrow Ag,Food,United States,2024-08-16
+Loop,Retail,United States,2024-08-16
+Formlabs,Hardware,United States,2024-08-15
+Mister Spex,Retail,Germany,2024-08-15
+Sampler,Retail,Canada,2024-08-15
+DayTwo,Healthcare,United States,2024-08-13
+Tally,Finance,United States,2024-08-12
+Mobius Motors,Logistics & Transportation,Kenya,2024-08-06
+Dell,Hardware,United States,2024-08-05
+Rad Power Bikes,Logistics & Transportation,United States,2024-08-01
+Match Group,Consumer,United States,2024-07-31
+NerdWallet,Finance,United States,2024-07-30
+OrCam,Healthcare,Israel,2024-07-28
+Webflow,Marketing and Sales,United States,2024-07-25
+Mercari U.S.,Retail,United States,2024-07-19
+Lex,Consumer,United States,2024-07-17
+Unbounce,Marketing and Sales,Canada,2024-07-16
+SadaPay,Finance,Pakistan,2024-07-12
+Microsoft,Other,United States,2024-07-03
+Koo,Consumer,India,2024-07-02
+Ninja Van,Logistics & Transportation,Singapore,2024-07-01
+eBay,Retail,Israel,2024-06-26
+BeReal,Consumer,France,2024-06-25
+Ginkgo Bioworks,Healthcare,United States,2024-06-24
+Trade Republic,Finance,Germany,2024-06-23
+Bluevine,Finance,Israel,2024-06-20
+ReshaMandi,Food,India,2024-06-20
+Fisker,Logistics & Transportation,United States,2024-06-18
+Unit,Finance,United States,2024-06-17
+Medtronic,Healthcare,United States,2024-06-13
+SCiFi Foods,Food,United States,2024-06-12
+VRChat,Consumer,United States,2024-06-12
+Ladenzeile,Retail,Germany,2024-06-11
+Yext,Marketing and Sales,United States,2024-06-05
+Gro Intelligence,Food,United States,2024-05-31
+Jasper Health,Healthcare,United States,2024-05-31
+Fisker,Logistics & Transportation,United States,2024-05-29
+Funding Circle,Finance,United Kingdom,2024-05-29
+Silo,Food,United States,2024-05-22
+Gopuff,Food,United States,2024-05-16
+Karhoo,Logistics & Transportation,United Kingdom,2024-05-16
+Mainvest,Finance,United States,2024-05-14
+Symend,Other,Canada,2024-05-10
+Brilliant,Hardware,United States,2024-05-08
+Kinaxis,Other,Canada,2024-05-08
+Hopin,Other,United Kingdom,2024-05-07
+Sproutt,Finance,United States,2024-05-01
+Google,Consumer,United States,2024-04-30
+Akili Interactive,Healthcare,United States,2024-04-30
+Fisker,Logistics & Transportation,United States,2024-04-29
+ComplYant,Finance,United States,2024-04-29
+Grin,Marketing and Sales,United States,2024-04-25
+98point6,Healthcare,United States,2024-04-23
+Rivian,Logistics & Transportation,United States,2024-04-17
+ConnectWise,Other,United States,2024-04-17
+Google,Consumer,United States,2024-04-17
+Zoe,Healthcare,United Kingdom,2024-04-11
+Hinge Health,Healthcare,United States,2024-04-11
+Fission,Other,Canada,2024-04-07
+Agility Robotics,Other,United States,2024-04-04
+Yummly,Food,United States,2024-04-03
+Amazon,Retail,United States,2024-04-03
+Lentra,Finance,India,2024-04-02
+Thepeer,Finance,Nigeria,2024-04-02
+Ranger Insurance,Finance,United States,2024-04-01
+GoPro,Consumer,United States,2024-03-26
+Verily,Healthcare,United States,2024-03-22
+Singular Genomics,Healthcare,United States,2024-03-19
+Airmeet,Marketing and Sales,India,2024-03-19
+IBM,Hardware,United States,2024-03-12
+Inscribe,Finance,United States,2024-03-08
+Meta,Consumer,United States,2024-03-06
+Tonik,Finance,Singapore,2024-03-01
+Kevin,Finance,Lithuania,2024-02-29
+Fisker,Logistics & Transportation,United States,2024-02-29
+Motional,Logistics & Transportation,United States,2024-02-28
+Apple,Logistics & Transportation,United States,2024-02-27
+Daraz,Retail,Singapore,2024-02-26
+Rivian,Logistics & Transportation,United States,2024-02-21
+Meati,Food,United States,2024-02-20
+Auctane,Retail,United States,2024-02-20
+May Mobility,Logistics & Transportation,United States,2024-02-15
+Away,Retail,United States,2024-02-14
+Popcore,Consumer,Germany,2024-02-13
+Wisense,Logistics & Transportation,Israel,2024-02-13
+Everybuddy,Consumer,Israel,2024-02-13
+Kandji,Other,United States,2024-02-09
+Getaround,Logistics & Transportation,United States,2024-02-08
+Nomad Health,Healthcare,United States,2024-02-05
+Muvin,Finance,India,2024-02-05
+Astrate Medical,Healthcare,United States,2024-02-05
+Meetup,Consumer,United States,2024-02-05
+Cake Bikes,Logistics & Transportation,Sweden,2024-02-02
+Small Robot Company,Food,United Kingdom,2024-02-02
+Twig,Finance,United Kingdom,2024-02-02
+Indigo,Other,United States,2024-02-01
+Zuora,Finance,United States,2024-01-31
+Vipps,Finance,Lithuania,2024-01-30
+Loopio,Marketing and Sales,Canada,2024-01-29
+Flexport,Logistics & Transportation,United States,2024-01-26
+Jamf,Other,United States,2024-01-25
+Cova,Finance,Nigeria,2024-01-25
+Aurora,Logistics & Transportation,United States,2024-01-24
+Desktop Metal,Other,United States,2024-01-24
+HubSpot,Marketing and Sales,United States,2024-01-24
+Xendit,Finance,Indonesia,2024-01-22
+Google,Consumer,United States,2024-01-22
+Stitch Fix,Retail,United States,2024-01-18
+Fashinza,Retail,United States,2024-01-18
+ALI Technologies,Logistics & Transportation,Japan,2024-01-16
+Google,Consumer,United States,2024-01-16
+Thursday,Consumer,United Kingdom,2024-01-16
+Vendr,Other,United States,2024-01-12
+Dastgyr,Retail,Pakistan,2024-01-12
+Dextrous Robotics,Logistics & Transportation,United States,2024-01-11
+888,Consumer,Israel,2024-01-11
+Certinia,Other,United States,2024-01-11
+SoFi,Finance,United States,2024-01-10
+Amazon,Retail,United States,2024-01-10
+Lendio,Finance,United States,2024-01-08
+Ledger Investing,Finance,United States,2024-01-08
+MeridianLink,Finance,United States,2024-01-08
+VideoAmp,Marketing and Sales,United States,2024-01-04
+Hyperloop One,Logistics & Transportation,United States,2023-12-21
+Kaspien,Retail,United States,2023-12-19
+Delivery Hero,Food,Germany,2023-12-18
+Superpedestrian,Logistics & Transportation,United States,2023-12-15
+Curalie,Healthcare,Germany,2023-12-14
+Stellar Pizza,Food,United States,2023-12-14
+Bolt,Finance,United States,2023-12-14
+FourKites,Logistics & Transportation,United States,2023-12-13
+Sojern,Marketing and Sales,United States,2023-12-13
+SmileDirectClub,Healthcare,United States,2023-12-09
+Jungle Scout,Retail,United States,2023-12-09
+Atmosphere,Other,United States,2023-12-07
+Yahoo,Consumer,United States,2023-12-05
+Pivo,Finance,Nigeria,2023-12-05
+Contentful,Marketing and Sales,Germany,2023-12-05
+Bill.com,Finance,United States,2023-12-05
+Twilio,Other,United States,2023-12-04
+Filmic,Other,United States,2023-12-01
+Pipedrive,Marketing and Sales,Estonia,2023-11-30
+Mojo,Consumer,United States,2023-11-30
+Tier Mobility,Logistics & Transportation,Germany,2023-11-28
+Anar,Marketing and Sales,India,2023-11-25
+Presto,Food,United States,2023-11-20
+Zazuu,Finance,United Kingdom,2023-11-17
+Jane,Retail,United States,2023-11-17
+Amazon,Retail,United States,2023-11-17
+Sonos,Consumer,United States,2023-11-16
+Singular Genomics,Healthcare,United States,2023-11-15
+Uleet,Healthcare,United States,2023-11-15
+FintechOS,Finance,Romania,2023-11-15
+FreshBooks,Finance,Canada,2023-11-15
+Halodoc,Healthcare,India,2023-11-14
+Bowery Farming,Food,United States,2023-11-10
+Commure,Healthcare,United States,2023-11-09
+OSlash,Other,India,2023-11-09
+Amazon,Retail,United States,2023-11-08
+Google,Consumer,United States,2023-11-08
+BigCommerce,Retail,United States,2023-11-08
+Nextdoor,Consumer,United States,2023-11-07
+Pico Interactive,Other,United States,2023-11-06
+Moore Threads,Hardware,China,2023-11-06
+NIO,Logistics & Transportation,China,2023-11-03
+Olive,Healthcare,United States,2023-10-31
+Karat Financial,Finance,United States,2023-10-27
+Slync,Logistics & Transportation,United States,2023-10-25
+Pebble,Consumer,United States,2023-10-24
+Shipt,Retail,United States,2023-10-24
+Nomad Health,Healthcare,United States,2023-10-20
+Volta Trucks,Logistics & Transportation,Sweden,2023-10-18
+Belora Paris,Retail,India,2023-10-18
+Waymo,Logistics & Transportation,United States,2023-10-17
+PokerStars,Consumer,United Kingdom,2023-10-15
+Flexport,Logistics & Transportation,United States,2023-10-13
+Uno Health,Healthcare,United States,2023-10-13
+Product Hunt,Consumer,United States,2023-10-09
+Braid,Finance,United States,2023-10-09
+Shift,Logistics & Transportation,United States,2023-10-06
+Dash,Finance,United States,2023-10-06
+Brave,Consumer,United States,2023-10-06
+Arrival,Logistics & Transportation,United Kingdom,2023-10-05
+Bird,Logistics & Transportation,United States,2023-10-04
+Block,Finance,United States,2023-10-04
+Meta,Consumer,United States,2023-10-04
+Sendoso,Marketing and Sales,United States,2023-10-03
+Twitch,Consumer,United States,2023-10-03
+Sono Motors,Logistics & Transportation,Germany,2023-10-02
+Vendasta,Marketing and Sales,Canada,2023-09-29
+Fit Analytics,Retail,Other,2023-09-28
+Foodpanda,Food,Singapore,2023-09-22
+Robinhood,Finance,United States,2023-09-21
+Outreach,Marketing and Sales,United States,2023-09-20
+Akudo,Finance,India,2023-09-20
+Nowadays,Food,United States,2023-09-18
+Hooray Foods,Food,United States,2023-09-17
+Velocity,Finance,India,2023-09-15
+Akili Labs,Healthcare,United States,2023-09-13
+Bonterra ,Other,United States,2023-09-11
+Mollie,Finance,Netherlands,2023-09-11
+Sensor Tower,Marketing and Sales,United States,2023-09-08
+Hijra,Finance,Indonesia,2023-09-07
+iSpecimen,Healthcare,United States,2023-09-06
+Clearcover,Finance,United States,2023-09-01
+Gated,Other,United States,2023-09-01
+Lunchtime,Food,Czech Republic,2023-09-01
+Cellulant,Finance,Kenya,2023-08-23
+Tempo Automation,Other,United States,2023-08-22
+Hypefast,Retail,Indonesia,2023-08-22
+Unite Us,Healthcare,United States,2023-08-21
+Zylo,Other,United States,2023-08-18
+Xendit,Finance,Indonesia,2023-08-16
+Noice,Consumer,Finland,2023-08-15
+iQiyi Smart,Other,China,2023-08-14
+Quizy,Consumer,India,2023-08-09
+StyleSeat,Consumer,United States,2023-08-09
+Bukalapak,Retail,Indonesia,2023-08-09
+Sendy,Logistics & Transportation,Kenya,2023-08-08
+Dell,Hardware,United States,2023-08-07
+Verse,Finance,Spain,2023-08-07
+Ayoconnect,Finance,Indonesia,2023-08-03
+Finastra,Finance,Israel,2023-08-03
+ConnectedH,Healthcare,India,2023-08-02
+DICE,Consumer,United Kingdom,2023-08-02
+Actyv.ai,Finance,India,2023-08-02
+inDrive,Logistics & Transportation,United States,2023-08-01
+Outreach ,Marketing and Sales,United States,2023-08-01
+Indigo,Other,United States,2023-08-01
+Increff,Retail,India,2023-08-01
+Cambricon,Hardware,China,2023-07-31
+Homology,Healthcare,United States,2023-07-28
+Datree,Other,United States,2023-07-27
+Ripl,Marketing and Sales,United States,2023-07-26
+AppHarvest,Food,United States,2023-07-24
+Arive,Retail,Germany,2023-07-24
+Onfido,Finance,United Kingdom,2023-07-24
+Dunzo,Food,India,2023-07-20
+Phunware,Other,United States,2023-07-20
+MiQ,Marketing and Sales,United Kingdom,2023-07-20
+Blue Apron,Food,United States,2023-07-19
+Square Roots,Food,United States,2023-07-18
+IBM,Hardware,Israel,2023-07-17
+Netlify,Other,United States,2023-07-13
+Khoros,Marketing and Sales,United States,2023-07-13
+Bark,Retail,United States,2023-07-13
+Duck Creek Technologies,Finance,United States,2023-07-12
+Dukaan,Retail,India,2023-07-11
+Shift,Logistics & Transportation,United States,2023-07-11
+Butterfly Network copy,Healthcare,United States,2023-07-11
+IntelyCare,Healthcare,United States,2023-07-10
+Motive,Logistics & Transportation,United States,2023-07-10
+Evernote,Consumer,United States,2023-07-07
+Circles.Life,Marketing and Sales,Singapore,2023-07-06
+ConnectRN,Healthcare,United States,2023-07-06
+Crunchbase,Marketing and Sales,United States,2023-07-06
+DayTwo,Healthcare,United States,2023-07-06
+Lunya,Retail,United States,2023-06-30
+Petal,Finance,United States,2023-06-30
+Buzzer,Consumer,United States,2023-06-30
+MediaMath,Marketing and Sales,United States,2023-06-30
+Stripe,Finance,United States,2023-06-29
+Qyuki,Other,India,2023-06-29
+Vowel,Other,United States,2023-06-29
+Merama,Retail,Mexico,2023-06-29
+Zapier,Other,United States,2023-06-28
+ClearPay,Finance,United Kingdom,2023-06-27
+Waze,Logistics & Transportation,United States,2023-06-27
+Lordstown Motors,Logistics & Transportation,United States,2023-06-27
+Loopio,Marketing and Sales,Canada,2023-06-27
+Honor,Healthcare,United States,2023-06-27
+Eyowo,Finance,Nigeria,2023-06-27
+IRL,Consumer,United States,2023-06-23
+Retool,Other,United States,2023-06-22
+Friday Health Plans,Healthcare,United States,2023-06-21
+Illumina,Healthcare,United States,2023-06-21
+Mutiny,Marketing and Sales,United States,2023-06-21
+Karakuki,Food,United Kingdom,2023-06-20
+Fuzzy,Healthcare,United States,2023-06-18
+Zulily,Retail,United States,2023-06-16
+Karshare,Logistics & Transportation,United Kingdom,2023-06-16
+Cerner,Healthcare,United States,2023-06-15
+Synapse,Finance,United States,2023-06-14
+Zalando,Retail,Germany,2023-06-13
+Tiki,Consumer,Singapore,2023-06-11
+Bunnii,Healthcare,United States,2023-06-06
+Azibo,Finance,United States,2023-06-05
+Meati Foods,Food,United States,2023-06-03
+Zume,Food,United States,2023-06-02
+Fractal Software,Other,United States,2023-06-01
+SmartAsset,Finance,United States,2023-06-01
+CloudTrucks,Logistics & Transportation,United States,2023-06-01
+Coupa,Finance,United States,2023-05-30
+Kabam,Consumer,United States,2023-05-25
+Tractable,Finance,United Kingdom,2023-05-23
+SoundCloud,Consumer,Germany,2023-05-23
+Daylight,Finance,United States,2023-05-22
+FemTech Health,Healthcare,United States,2023-05-22
+Nuance Communications,Healthcare,United States,2023-05-20
+TuSimple,Logistics & Transportation,United States,2023-05-18
+Clearbit,Marketing and Sales,United States,2023-05-18
+Nextbite,Food,United States,2023-05-18
+L1ght,Other,Israel,2023-05-18
+Formstack,Other,United States,2023-05-17
+Quanto,Finance,Brazil,2023-05-16
+DroneUp,Logistics & Transportation,United States,2023-05-16
+Cana,Food,United States,2023-05-13
+Marqeta,Finance,United States,2023-05-09
+Eventus,Finance,United States,2023-05-05
+Brightline,Healthcare,United States,2023-05-03
+PharmEasy,Healthcare,India,2023-05-01
+Poparazzi,Consumer,United States,2023-04-28
+Providoor,Food,Australia,2023-04-28
+Rad Power Bikes,Logistics & Transportation,United States,2023-04-27
+Oddle,Food,Singapore,2023-04-27
+Clubhouse,Consumer,United States,2023-04-27
+Iress,Finance,Australia,2023-04-20
+Lenovo,Hardware,United States,2023-04-20
+CoLab,Food,Australia,2023-04-18
+Utopia Music,Other,Switzerland,2023-04-17
+FamPay,Finance,India,2023-04-17
+Calibrate,Healthcare,United States,2023-04-14
+Sayurbox,Food,Indonesia,2023-04-14
+Mediafly,Marketing and Sales,United States,2023-04-13
+Euler Motors,Logistics & Transportation,India,2023-04-11
+Acxiom,Marketing and Sales,United States,2023-04-11
+Cin7,Retail,New Zealand,2023-04-04
+Checkout.com,Finance,United Kingdom,2023-04-03
+Apple,Retail,United States,2023-04-03
+Endowus,Finance,Singapore,2023-03-30
+Nowports,Logistics & Transportation,Mexico,2023-03-30
+AnswerLab,Marketing and Sales,United States,2023-03-30
+Anyline,Other,Austria,2023-03-29
+OnePipe,Finance,Nigeria,2023-03-29
+Shift,Logistics & Transportation,United States,2023-03-29
+Better Therapeutics,Healthcare,United States,2023-03-27
+The Meet Group,Consumer,United States,2023-03-24
+GAMURS Group,Consumer,Australia,2023-03-21
+Laybuy,Finance,New Zealand,2023-03-21
+Grin,Marketing and Sales,United States,2023-03-21
+Huuuge Games,Consumer,Poland,2023-03-20
+Neoleukin Therapeutics,Healthcare,United States,2023-03-09
+Take-Two Interactive,Consumer,United States,2023-03-07
+Catch,Finance,United States,2023-03-07
+Zulily,Retail,United States,2023-03-07
+Ankorstore,Retail,France,2023-03-06
+Indigo,Other,United States,2023-03-03
+Accolade,Healthcare,United States,2023-03-03
+Flipkart,Retail,India,2023-03-02
+Kandela,Consumer,United States,2023-03-02
+Truckstop.com,Logistics & Transportation,United States,2023-03-02
+Comparis,Finance,Switzerland,2023-03-02
+MeridianLink,Finance,United States,2023-02-28
+EQRx,Healthcare,United States,2023-02-24
+Poshmark,Retail,United States,2023-02-24
+Vibrent Health,Healthcare,United States,2023-02-23
+Arch Oncology,Healthcare,United States,2023-02-22
+Jounce Therapeutics,Healthcare,United States,2023-02-22
+Locomation,Logistics & Transportation,United States,2023-02-22
+Criteo,Marketing and Sales,France,2023-02-21
+Zalando,Retail,Germany,2023-02-21
+Fipola,Food,India,2023-02-20
+Digimarc,Other,United States,2023-02-17
+Convoy,Logistics & Transportation,United States,2023-02-16
+Vicarious Surgical,Healthcare,United States,2023-02-15
+Tackle,Other,United States,2023-02-15
+SurveyMonkey,Marketing and Sales,United States,2023-02-15
+Milkrun,Food,Australia,2023-02-15
+PhableCare,Healthcare,India,2023-02-14
+Getir,Food,United Kingdom,2023-02-13
+Foodpanda,Food,Singapore,2023-02-13
+Rigetti Computing,Hardware,United States,2023-02-10
+Open Co,Finance,Brazil,2023-02-10
+Baraja,Logistics & Transportation,Australia,2023-02-08
+Koho,Finance,Canada,2023-02-08
+Medly,Healthcare,United States,2023-02-08
+C6 Bank,Finance,Brazil,2023-02-06
+Daraz,Retail,Singapore,2023-02-06
+TenureX,Finance,Israel,2023-02-06
+Finder,Retail,Australia,2023-02-03
+Sharesies,Finance,New Zealand,2023-02-02
+NCSoft,Consumer,South Korea,2023-02-02
+Desktop Metal,Other,United States,2023-02-02
+Getaround,Logistics & Transportation,United States,2023-02-02
+Rivian,Logistics & Transportation,United States,2023-02-01
+Picnic,Food,United States,2023-02-01
+Match Group,Consumer,United States,2023-02-01
+Frequency Therapeutics,Healthcare,United States,2023-02-01
+National Instruments,Hardware,United States,2023-01-31
+BM Technologies,Finance,United States,2023-01-30
+SoFi,Finance,United States,2023-01-30
+Quantum SI,Healthcare,United States,2023-01-30
+Olist,Retail,Brazil,2023-01-30
+Decent,Healthcare,United States,2023-01-27
+Soundwide,Other,Germany,2023-01-27
+Nate,Retail,United States,2023-01-27
+Feedzai,Finance,Portugal,2023-01-27
+Quora,Consumer,United States,2023-01-26
+Plus One Robotics,Other,United States,2023-01-26
+Mode Global,Finance,United Kingdom,2023-01-26
+DriveWealth,Finance,United States,2023-01-26
+PagSeguro,Finance,Brazil,2023-01-25
+Prosus,Other,Netherlands,2023-01-25
+CareRev,Healthcare,United States,2023-01-25
+Finastra,Finance,Israel,2023-01-25
+Corvus Insurance,Finance,United States,2023-01-24
+Yext,Marketing and Sales,United States,2023-01-23
+BUX,Finance,Netherlands,2023-01-22
+Avalara,Finance,United States,2023-01-20
+Zappos,Retail,United States,2023-01-20
+TikTok,Consumer,United States,2023-01-20
+Cyteir Therapeutics,Healthcare,United States,2023-01-20
+Spaceship,Finance,Australia,2023-01-19
+Personalis,Healthcare,United States,2023-01-19
+Magnite,Marketing and Sales,United States,2023-01-19
+IAM Robotics,Hardware,United States,2023-01-19
+Earth Rides,Logistics & Transportation,United States,2023-01-19
+80 Acres Farms,Food,United States,2023-01-18
+Redbubble,Retail,Australia,2023-01-18
+Lucid Diagnostics,Healthcare,United States,2023-01-18
+Coda,Other,United States,2023-01-18
+Cazoo,Logistics & Transportation,United Kingdom,2023-01-18
+Betterfly,Healthcare,Chile,2023-01-18
+Bally's Interactive,Consumer,United States,2023-01-18
+Fishbrain,Consumer,Sweden,2023-01-17
+XP,Finance,Brazil,2023-01-17
+RateGenius,Finance,United States,2023-01-17
+Rappi,Food,Argentina,2023-01-17
+Oracle,Other,United States,2023-01-17
+GoMechanic,Logistics & Transportation,India,2023-01-17
+Avaya,Other,United States,2023-01-17
+Dunzo,Food,India,2023-01-16
+Ignition,Finance,Australia,2023-01-16
+Rebel Foods,Food,India,2023-01-16
+DeHaat,Food,India,2023-01-15
+GoCanvas,Other,United States,2023-01-13
+CoSchedule,Marketing and Sales,United States,2023-01-13
+Carvana,Logistics & Transportation,United States,2023-01-13
+Arch Oncology,Healthcare,United States,2023-01-13
+Rock Content,Marketing and Sales,United States,2023-01-12
+Life360,Consumer,United States,2023-01-12
+Paddle,Finance,United Kingdom,2023-01-11
+100 Thieves,Retail,United States,2023-01-10
+Esper,Other,United States,2023-01-10
+Cart.com,Retail,United States,2023-01-10
+Editas Medicine,Healthcare,United States,2023-01-09
+Century Therapeutics,Healthcare,United States,2023-01-09
+Integrate,Marketing and Sales,United States,2023-01-07
+Mojo Vision,Hardware,United States,2023-01-06
+Lantern,Retail,United States,2023-01-06
+TCR2,Healthcare,United States,2023-01-05
+Stitch Fix,Retail,United States,2023-01-05
+Attentive,Marketing and Sales,United States,2023-01-05
+Butterfly Network,Healthcare,United States,2023-01-04
+Vimeo,Consumer,United States,2023-01-04
+Bytedance,Consumer,China,2023-01-03
+Graphcore,Hardware,China,2023-01-01
+Gousto,Food,United Kingdom,2022-12-31
+Element,Other,United Kingdom,2022-12-25
+Lendis,Other,Germany,2022-12-21
+Zhihu,Consumer,China,2022-12-20
+Health IQ,Healthcare,United States,2022-12-19
+YourGrocer,Food,Australia,2022-12-19
+Xiaomi,Consumer,China,2022-12-19
+ E Inc.,Logistics & Transportation,Canada,2022-12-16
+FreshBooks,Finance,Canada,2022-12-16
+Improbable,Other,United Kingdom,2022-12-16
+Modern Treasury,Finance,United States,2022-12-16
+Reach,Retail,Canada,2022-12-16
+SonderMind,Healthcare,United States,2022-12-16
+Caribou,Finance,United States,2022-12-12
+Autobooks,Finance,United States,2022-12-10
+PharmEasy,Healthcare,India,2022-12-10
+N-able Technologies,Other,United States,2022-12-09
+Brodmann17,Other,Israel,2022-12-09
+Lenovo,Hardware,United States,2022-12-08
+Blue Apron,Food,United States,2022-12-08
+Zywave,Finance,United States,2022-12-07
+Sayurbox,Food,Indonesia,2022-12-07
+Nextiva,Other,United States,2022-12-06
+Moove,Logistics & Transportation,Nigeria,2022-12-06
+Zuora,Finance,United States,2022-12-06
+OneStudyTeam,Healthcare,United States,2022-12-06
+Elemy,Healthcare,United States,2022-12-05
+Route,Retail,United States,2022-12-05
+Lora DiCarlo,Consumer,United States,2022-12-02
+Yapily,Finance,United Kingdom,2022-12-01
+Synlogic,Healthcare,United States,2022-12-01
+SQZ Biotech,Healthcare,United States,2022-12-01
+Motional,Logistics & Transportation,United States,2022-11-30
+Sana,Healthcare,United States,2022-11-30
+Pinterest,Consumer,United States,2022-11-30
+Firework,Retail,United States,2022-11-29
+Codexis,Healthcare,United States,2022-11-29
+MessageBird,Other,Netherlands,2022-11-29
+Proton.ai,Marketing and Sales,United States,2022-11-29
+Plerk,Finance,Mexico,2022-11-29
+Spora Health,Healthcare,United States,2022-11-28
+Change Invest,Finance,Netherlands,2022-11-27
+Zilch,Finance,United Kingdom,2022-11-26
+Menulog,Food,Australia,2022-11-24
+Assure,Finance,United States,2022-11-23
+Muni Tienda,Other,Colombia,2022-11-23
+SWVL,Logistics & Transportation,Egypt,2022-11-23
+GoodGood,Retail,Canada,2022-11-23
+Rapyd,Finance,Israel,2022-11-22
+Natera,Healthcare,United States,2022-11-22
+Flash Coffee,Food,Singapore,2022-11-22
+GloriFi,Finance,United States,2022-11-21
+Kavak,Logistics & Transportation,Brazil,2022-11-18
+Capitolis,Finance,United States,2022-11-18
+Symend,Other,Canada,2022-11-17
+Kandji,Other,United States,2022-11-17
+Hopin,Other,United Kingdom,2022-11-16
+Dance,Logistics & Transportation,Germany,2022-11-16
+Infogrid,Other,United Kingdom,2022-11-16
+Rubicon Technologies,Other,United States,2022-11-15
+OfferUp,Retail,United States,2022-11-15
+Oatly,Food,Sweden,2022-11-15
+Whispir,Other,Australia,2022-11-15
+Apollo Insurance,Finance,Canada,2022-11-15
+Nirvana Money,Finance,United States,2022-11-15
+Typeform,Marketing and Sales,Spain,2022-11-15
+Tencent,Consumer,China,2022-11-15
+Tricida,Healthcare,United States,2022-11-14
+Shopee,Food,Indonesia,2022-11-14
+Chipax,Finance,Chile,2022-11-11
+Juniper,Marketing and Sales,United States,2022-11-11
+ZenBusiness,Other,United States,2022-11-10
+Voly,Food,Australia,2022-11-10
+SendCloud,Logistics & Transportation,Netherlands,2022-11-10
+RingCentral,Other,United States,2022-11-09
+Faze Medicines,Healthcare,United States,2022-11-09
+Amobee,Marketing and Sales,United States,2022-11-09
+Beat,Logistics & Transportation,Greece,2022-11-08
+NanoString,Healthcare,United States,2022-11-08
+SADA,Other,United States,2022-11-08
+Benitago Group,Retail,United States,2022-11-04
+Rubius,Healthcare,United States,2022-11-03
+Provi,Food,United States,2022-11-03
+LiveRamp,Marketing and Sales,United States,2022-11-03
+Affirm,Finance,United States,2022-11-03
+Brightline,Healthcare,United States,2022-11-01
+Springlane,Food,Germany,2022-10-28
+Spreetail,Retail,United States,2022-10-27
+Carbon,Hardware,United States,2022-10-26
+Convoy,Logistics & Transportation,United States,2022-10-25
+Volta,Logistics & Transportation,United States,2022-10-21
+Starry,Other,United States,2022-10-20
+Arrival,Logistics & Transportation,United Kingdom,2022-10-20
+Microsoft,Other,United States,2022-10-17
+Huawei,Hardware,China,2022-10-16
+Flux Systems,Finance,United Kingdom,2022-10-14
+Collage.com,Retail,United States,2022-10-09
+Foresight Insurance,Finance,United States,2022-10-06
+Atome,Finance,Singapore,2022-10-06
+First AML,Finance,New Zealand,2022-10-06
+TwinStrand,Healthcare,United States,2022-10-05
+Xendit,Finance,Indonesia,2022-10-04
+ActiveCampaign,Marketing and Sales,United States,2022-10-03
+Carsome,Logistics & Transportation,Malaysia,2022-09-30
+Pastel,Food,United States,2022-09-30
+Truepill,Healthcare,United States,2022-09-30
+Solarisbank,Finance,Germany,2022-09-29
+Volta,Logistics & Transportation,United States,2022-09-28
+Instacart,Food,United States,2022-09-24
+Pesto,Other,United States,2022-09-23
+Made.com,Retail,United Kingdom,2022-09-22
+Ouster,Logistics & Transportation,United States,2022-09-20
+Zappos,Retail,United States,2022-09-20
+VideoAmp,Marketing and Sales,United States,2022-09-19
+Shopee,Food,Indonesia,2022-09-18
+DayTwo,Healthcare,United States,2022-09-15
+NextRoll,Marketing and Sales,United States,2022-09-15
+FullStory,Marketing and Sales,United States,2022-09-13
+Karbon,Other,United States,2022-09-12
+Rent the Runway,Retail,United States,2022-09-12
+Flowhub,Retail,United States,2022-09-09
+CommonBond,Finance,United States,2022-09-09
+Capiter,Finance,Egypt,2022-09-09
+Xsight Labs,Other,Israel,2022-09-07
+Medly,Healthcare,United States,2022-09-07
+Sea,Consumer,Singapore,2022-09-02
+Alerzo,Retail,Nigeria,2022-09-02
+Viamo,Other,Ghana,2022-08-31
+Skillz,Consumer,United States,2022-08-29
+Otonomo,Logistics & Transportation,Israel,2022-08-28
+Impact.com,Marketing and Sales,United States,2022-08-25
+ShipBob,Logistics & Transportation,United States,2022-08-25
+Pix,Food,United States,2022-08-24
+Kogan,Retail,Australia,2022-08-23
+Mr. Yum,Food,Australia,2022-08-22
+ShopX,Retail,India,2022-08-22
+Petal,Finance,United States,2022-08-18
+Thirty Madison,Healthcare,United States,2022-08-18
+Vendasta,Marketing and Sales,Canada,2022-08-18
+Updater,Other,United States,2022-08-16
+ThredUp,Retail,United States,2022-08-15
+Almanac,Other,United States,2022-08-13
+Orbit,Other,United States,2022-08-12
+Guidewire,Finance,United States,2022-08-11
+Pollen,Marketing and Sales,United Kingdom,2022-08-10
+Vedanta Biosciences,Healthcare,United States,2022-08-10
+Berkeley Lights,Healthcare,United States,2022-08-09
+Sweetgreen,Food,United States,2022-08-09
+Shift,Logistics & Transportation,United States,2022-08-09
+Haus,Food,United States,2022-08-09
+DailyPay,Finance,United States,2022-08-09
+Daily Harvest,Food,United States,2022-08-08
+Slync,Logistics & Transportation,United States,2022-08-05
+Medly,Healthcare,United States,2022-08-04
+Weedmaps,Other,United States,2022-08-04
+StubHub,Consumer,United States,2022-08-04
+Nomad,Finance,Brazil,2022-08-04
+Talkwalker,Marketing and Sales,Luxembourg,2022-08-03
+SoundCloud,Consumer,Germany,2022-08-03
+CarDekho,Logistics & Transportation,India,2022-08-03
+Butterfly Network,Healthcare,United States,2022-08-02
+Whereby,Other,Norway,2022-08-01
+Perceptive Automata,Logistics & Transportation,United States,2022-08-01
+DeHaat,Food,India,2022-08-01
+Oracle,Other,United States,2022-08-01
+Gatherly,Marketing and Sales,United States,2022-07-31
+MissFresh,Food,China,2022-07-29
+Brainbase,Marketing and Sales,United States,2022-07-28
+Change.org,Other,United States,2022-07-28
+Bikayi,Retail,India,2022-07-28
+ Included Health,Healthcare,United States,2022-07-25
+People.ai,Marketing and Sales,United States,2022-07-22
+Owlet,Healthcare,United States,2022-07-22
+Boosted Commerce,Retail,United States,2022-07-22
+Smarsh,Other,United States,2022-07-21
+98point6,Healthcare,United States,2022-07-21
+Capsule,Healthcare,United States,2022-07-19
+Elemy,Healthcare,United States,2022-07-18
+Freshly,Food,United States,2022-07-18
+TikTok,Consumer,United States,2022-07-18
+Vimeo,Consumer,United States,2022-07-18
+StyleSeat,Consumer,United States,2022-07-15
+Alto Pharmacy,Healthcare,United States,2022-07-14
+Arrival,Logistics & Transportation,United Kingdom,2022-07-13
+Papa,Other,United States,2022-07-13
+CircleUp,Finance,United States,2022-07-13
+Airlift,Logistics & Transportation,Pakistan,2022-07-12
+Microsoft,Other,United States,2022-07-12
+Spring,Retail,United States,2022-07-12
+Forward,Healthcare,United States,2022-07-11
+Apeel Sciences,Food,United States,2022-07-11
+Nextbite,Food,United States,2022-07-09
+NextRoll,Marketing and Sales,United States,2022-07-08
+Twitter,Consumer,United States,2022-07-07
+Cedar,Healthcare,United States,2022-07-07
+Motif Foodworks,Food,United States,2022-07-06
+Airtasker,Consumer,Australia,2022-07-04
+LetsGetChecked,Healthcare,United States,2022-07-02
+Perx Health,Healthcare,Australia,2022-07-02
+Zepto,Finance,Australia,2022-07-02
+Secfi,Finance,United States,2022-06-30
+Volt Bank,Finance,Australia,2022-06-29
+CommentSold,Retail,United States,2022-06-29
+Modsy,Retail,United States,2022-06-29
+Booktopia,Retail,Australia,2022-06-28
+Nova Benefits,Healthcare,India,2022-06-28
+Una Brands,Retail,Singapore,2022-06-28
+Amount,Finance,United States,2022-06-27
+Give Legacy,Healthcare,United States,2022-06-24
+Feather,Retail,United States,2022-06-24
+Mark43,Other,United States,2022-06-23
+Ro,Healthcare,United States,2022-06-23
+Kune,Food,Kenya,2022-06-23
+Esper,Other,United States,2022-06-23
+Voly,Food,Australia,2022-06-22
+Frubana,Food,Colombia,2022-06-21
+Circulo Health,Healthcare,United States,2022-06-16
+Shopee,Food,Singapore,2022-06-14
+Addi,Finance,Colombia,2022-06-14
+Desktop Metal,Other,United States,2022-06-13
+Starship,Logistics & Transportation,United States,2022-06-09
+Trade Republic,Finance,Germany,2022-06-09
+Memmo,Consumer,Sweden,2022-06-08
+CyberCube,Finance,United States,2022-06-07
+Bond,Finance,United States,2022-06-07
+Clearco,Finance,Ireland,2022-06-06
+Sendoso,Marketing and Sales,United States,2022-06-06
+Tesla,Logistics & Transportation,United States,2022-06-03
+Clubhouse,Consumer,United States,2022-06-03
+Rain,Finance,Bahrain,2022-06-02
+Kaodim,Consumer,Malaysia,2022-06-02
+Truck It In,Logistics & Transportation,Pakistan,2022-06-01
+Cerebral,Healthcare,United States,2022-05-31
+Akerna,Logistics & Transportation,United States,2022-05-27
+Terminus,Marketing and Sales,United States,2022-05-27
+Airlift,Logistics & Transportation,Pakistan,2022-05-25
+Zapp,Food,United Kingdom,2022-05-25
+Getir,Food,Turkey,2022-05-25
+Olist,Retail,Brazil,2022-05-23
+Zulily,Retail,United States,2022-05-16
+Bizpay,Finance,Australia,2022-05-04
+Thrasio,Retail,United States,2022-05-02
+Halcyon Health,Healthcare,United States,2022-04-15
+Truepill,Healthcare,United States,2022-04-14
+Fast,Finance,United States,2022-04-05
+Grove Collaborative,Retail,United States,2022-03-19
+Talis Biomedical,Healthcare,United States,2022-03-15
+Sezzle,Finance,United States,2022-03-10
+Protonn,Other,India,2022-01-20
+Spin,Logistics & Transportation,United States,2022-01-08
+Imperfect Foods,Food,United States,2021-09-22
+Genius,Consumer,United States,2021-09-15
+Casper,Retail,United States,2021-09-14
+SumUp,Finance,United Kingdom,2021-05-05
+DJI,Consumer,United States,2021-02-24
+Aura Financial,Finance,United States,2021-01-11
+Simple,Finance,United States,2021-01-07
+Scoop,Logistics & Transportation,United States,2020-11-17
+Bossa Nova,Retail,United States,2020-11-02
+Cheetah,Food,United States,2020-10-25
+Zomato,Food,Indonesia,2020-10-20
+HumanForest,Logistics & Transportation,United Kingdom,2020-09-25
+Air,Marketing and Sales,United States,2020-09-16
+Ouster,Logistics & Transportation,United States,2020-09-08
+Akerna,Logistics & Transportation,United States,2020-09-02
+Awok,Retail,United Arab Emirates,2020-09-02
+DJI,Consumer,China,2020-08-17
+HopSkipDrive,Logistics & Transportation,United States,2020-08-12
+The Appraisal Lane,Logistics & Transportation,Uruguay,2020-08-07
+tZero,Finance,United States,2020-07-30
+Pared,Food,United States,2020-07-29
+Sorabel,Retail,Indonesia,2020-07-23
+OnDeck,Finance,United States,2020-07-08
+Engine eCommerce,Retail,United States,2020-06-28
+Byton,Logistics & Transportation,United States,2020-06-27
+Stockwell AI,Retail,United States,2020-06-15
+Outdoorsy,Logistics & Transportation,United States,2020-06-04
+Kapten / Free Now,Logistics & Transportation,France,2020-05-21
+Divvy,Finance,United States,2020-05-19
+Masse,Retail,United States,2020-05-15
+TicketSwap,Consumer,Netherlands,2020-05-14
+Workfront,Marketing and Sales,United States,2020-05-14
+Zymergen ,Other,United States,2020-05-13
+Petal,Finance,United States,2020-05-12
+OPay,Finance,Nigeria,2020-05-06
+League,Healthcare,Canada,2020-05-05
+Castlight Health,Healthcare,United States,2020-05-04
+Automatic,Logistics & Transportation,United States,2020-05-01
+PicoBrew,Food,United States,2020-04-30
+Yoco,Finance,South Africa,2020-04-29
+Desktop Metal,Other,United States,2020-04-28
+Migo,Finance,United States,2020-04-28
+GoCardless,Finance,United Kingdom,2020-04-24
+PowerReviews,Retail,United States,2020-04-23
+Singular,Marketing and Sales,United States,2020-04-23
+Convoy,Logistics & Transportation,United States,2020-04-23
+Motif Investing,Finance,United States,2020-04-18
+Influitive,Marketing and Sales,Canada,2020-04-17
+Food52,Food,United States,2020-04-17
+Dispatch,Other,United States,2020-04-17
+LumenAd,Marketing and Sales,United States,2020-04-16
+Grailed,Retail,United States,2020-04-16
+FullStory,Marketing and Sales,United States,2020-04-16
+CrowdRiff,Marketing and Sales,Canada,2020-04-16
+SweetEscape,Consumer,Indonesia,2020-04-15
+Dude Solutions,Other,United States,2020-04-15
+Aura Financial,Finance,United States,2020-04-14
+FloQast,Finance,United States,2020-04-10
+Zest AI,Finance,United States,2020-04-09
+Zola,Retail,United States,2020-04-08
+TechAdvance,Finance,Nigeria,2020-04-08
+Slice Labs,Finance,United States,2020-04-08
+Lytics,Marketing and Sales,United States,2020-04-08
+Creditas,Finance,Brazil,2020-04-08
+RainFocus,Marketing and Sales,United States,2020-04-07
+The Modist,Retail,United Arab Emirates,2020-04-02
+Capillary,Retail,India,2020-04-02
+Modsy,Retail,United States,2020-04-02
+Wonder,Other,United States,2020-04-02
+GOAT Group,Retail,United States,2020-04-01
+Currency,Finance,United States,2020-04-01
+Le Tote,Retail,United States,2020-04-01
+Pebblepost,Marketing and Sales,United States,2020-04-01
+Snap Finance,Finance,United States,2020-03-31
+Claravine,Marketing and Sales,United States,2020-03-31
+Cuyana,Retail,United States,2020-03-30
+Rent the Runway,Retail,United States,2020-03-28
+Bcredi,Finance,Brazil,2020-03-27
+Nativo,Marketing and Sales,United States,2020-03-26
+Universal Standard,Retail,United States,2020-03-25
+Clutter,Consumer,United States,2020-03-25
+SpotHero,Logistics & Transportation,United States,2020-03-24
+Flowr,Retail,Canada,2020-03-24
+Eight Sleep,Retail,United States,2020-03-23
+Tuft & Needle,Retail,United States,2020-03-19

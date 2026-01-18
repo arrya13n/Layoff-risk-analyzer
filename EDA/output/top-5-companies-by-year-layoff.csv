@@ -1,0 +1,35 @@
+year,company,total_layoff
+2026,Hailo,30
+2026,TailwindCSS,3
+2026,Ubisoft,0
+2026,Cloudhead Games,0
+2025,Intel,27058
+2025,Microsoft,15347
+2025,Amazon,14184
+2025,HP,8000
+2025,Salesforce,5385
+2024,Intel,15062
+2024,Tesla,14500
+2024,Cisco,9850
+2024,SAP,8000
+2024,Dell,6000
+2023,Amazon,17260
+2023,Google,12115
+2023,Microsoft,11158
+2023,Meta,10000
+2023,Ericsson,8500
+2022,Meta,11000
+2022,Amazon,10150
+2022,Cisco,4100
+2022,Peloton,4084
+2022,Philips,4000
+2021,Bytedance,3600
+2021,Katerra,2434
+2021,Zillow,2000
+2021,Instacart,1877
+2021,WhiteHat Jr,1800
+2020,Uber,7525
+2020,Booking.com,4375
+2020,Groupon,2800
+2020,Swiggy,2250
+2020,Airbnb,1900

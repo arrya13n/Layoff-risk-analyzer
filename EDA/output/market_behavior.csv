@@ -1,0 +1,27 @@
+industry,frequent_layoff,avg_layoff,Market_Behavior
+Finance,504,106.59,Standard Adjustment
+Retail,340,259.69,Standard Adjustment
+Logistics & Transportation,334,211.57,Standard Adjustment
+Healthcare,326,119.34,Standard Adjustment
+Other,290,293.34,Standard Adjustment
+Marketing and Sales,280,127.6,Standard Adjustment
+Consumer,272,297.1,Standard Adjustment
+Food,241,209.42,Standard Adjustment
+Real Estate & Property tech,187,129.53,Standard Adjustment
+HR & Talent Acquisition,167,123.74,Standard Adjustment
+Education,159,130.48,Standard Adjustment
+Media,154,73.43,Standard Adjustment
+Crypto,153,94.42,Standard Adjustment
+Security,144,82.19,Standard Adjustment
+IT Infrastructure,140,205.14,Incremental Adjustments
+Data,132,100.27,Standard Adjustment
+Travel,107,218.41,Incremental Adjustments
+Hardware,75,1242.76,Structural Resets
+Product,53,40.11,Standard Adjustment
+Energy,48,203.75,Incremental Adjustments
+Fitness,44,223.66,Incremental Adjustments
+Manufacturing,29,309.66,Incremental Adjustments
+AI,25,45.68,Standard Adjustment
+Aerospace,24,144.67,Standard Adjustment
+Legal,21,50.29,Standard Adjustment
+Gaming,2,0.0,Standard Adjustment
