@@ -1,4 +1,9 @@
 # 📊 Layoff Risk Analyzer: End-to-End Data Pipeline
+
+<img width="1244" height="890" alt="Screenshot 2026-01-17 at 11 28 21 PM" src="https://github.com/user-attachments/assets/805ec80c-0b16-4765-8d04-6b32e402414f" />
+
+[View Interactive Dashboard](https://public.tableau.com/app/profile/aryan.vaghela/viz/layoff_analyzer_dashboard/Dashboard1)
+
 ---
 
 ## 📝 Project Overview
