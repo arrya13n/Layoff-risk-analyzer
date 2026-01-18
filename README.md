@@ -47,4 +47,4 @@ This project bridges the gap between raw data and strategic decision-making. By 
 ---
 
 ### ✨ Documentation & Resources
-* **Full Methodology:** View the [Project Notion Page](https://www.notion.so/2e540ad7e1eb80939457cdd2cdee6681?v=2e540ad7e1eb80038f2f000c3f1531f0&source=copy_link) for step-by-step progress.
+* **Full Methodology:** View the [Project Notion Page](https://cactus-stomach-909.notion.site/Project-Layoff-Risk-Analyzer-2e540ad7e1eb808eaa10d8bf3383b64a?pvs=74) for step-by-step progress.
